@@ -1,3 +1,6 @@
+#import "/helper.typ": hrule
+#counter(footnote).update(0)
+
 #block(
   fill: luma(230),
   inset: 8pt,

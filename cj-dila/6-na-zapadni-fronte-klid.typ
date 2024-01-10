@@ -1,3 +1,5 @@
+#import "/helper.typ": hrule
+
 #block(
   fill: luma(230),
   inset: 8pt,
@@ -51,7 +53,7 @@
 
 
   *Literárně historický kontext*\
-  TODO
+  Poměrně jasný.
 
   *Autor*\
   Sám zažil první i druhou světovou válku. Jasná inspirace ztracené generace; válečná literatura. Díla mají působit jako svědectví a varování, proto v době vydání byly velmi úspěšné.
@@ -69,6 +71,48 @@
 
 *Ukázka*
 
-TODO
+Být trefen či zůstat na živu je stejnou náhodou. V nejpevnějším krytu mohu být
+rozmačkán a v otevřeném poli přečkat bez nejmenšího poranění deset hodin
+bubnové palby. Každý voják zůstává na živu jen pomocí tisícerých náhod. A každý
+voják věří v náhodu a má k ní důvěru.
+
+#hrule()
+
+„Bylo to moc ošklivé tam venku, Pavle?"
+
+Mami, co ti mám na to říc? Nebudeš tomu rozumět a nikdy to nepochopíš. Taky
+to nemáš nikdy pochopit. Ptáš se, jestli to bylo ošklivé. Ty, matka. Potřásám hlavou
+a povídám: „Ne, mami, ani tak moc ne. Je nás pořád moc pohromadě a pak to není
+tak zlé."
+
+..Ano. ale nedávno tu byl Jindřich Bredermeyer a ten vypravoval, že to je venku
+strašlivé s těmi plyny a s tím vším."
+
+To je má matka, která to říká. Povídá: s tím plynem a s tím vším. Neví, co
+povídá, má jenom strach o mne. Mám jí vypravovat, že jsme jednou našli tři
+nepřátelské zákopy, které byly ztrnulé ve svých posicích a jakoby mrtvicí trefené?
+U předprsně zákopu, v krytech, kde právě byli, stáli a leželi lidé s modrými
+obličeji, mrtví.
+
+#hrule()
+
+Budu psát tvé ženě," povídám mrtvému spěšně, „budu jí psát, aby se to ode mne
+dověděla, řeknu jí všechno, co říkám tobě, aby netrpěla, budu jí pomáhat a tvým
+rodičům taky a tvému dítěti."
+
+Jeho uniforma je ještě napolo rozepatá. Tobolku s papíry lze lehce najít. Ale
+zdráhám se ji otevřít. Je v ní legitimace s jeho jménem. Pokud neznám jeho jména,
+mohu ho snad ještě zapomenout, čas jej vymaže, tento obraz. Jeho jméno je hřebík,
+který se do mne zarazí a který nebude nikdy možno vytrhnout. Je v něm síla, která
+bude umět všechno zase vyvolat, bude se to vracet zas a zas a vstávat přede mnou.
+
+Jsou to fotografie ženy a malého děvčátka, uzounké amatérské fotografie před
+zdí s břečťanem. Vedle jsou dopisy. Vyndám je a pokouším se je číst. Většině
+nerozumím, lze to těžko rozluštit a znám jen málo francouzsky. Ale každé slovo,
+které přeložím, proniká mi do prsou jako výstřel, jako bodná rána. Hlava mi bolí
+předrážděním. Ale tolik ještě chápu, že těm lidem nesmím nikdy psát, jak jsem
+chtěl dřív. Dívám se ještě jednou na fotografie; nejsou to bohatí lidé. Mohl bych
+jim jednou anonymně poslat peníze, jestli nějaké někdy později vydělám. Toho se
+křečovité chápu, to je aspoň malinká opora. [...]
 
 #pagebreak()

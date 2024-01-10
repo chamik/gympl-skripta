@@ -69,6 +69,8 @@
 
 *Ukázka*
 
+[...]
+
 Zdálo se, že u stínidla houstne světlo od kadidla, \
 že se bezpochyby anděl v zvoncích z nebe propadne. \
 „Chudáku, tvůj Bůh ti v zpěvu posílá sem pro úlevu \

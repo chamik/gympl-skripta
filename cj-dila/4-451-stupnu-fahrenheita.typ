@@ -46,7 +46,7 @@
   er-forma, přímá řeč, spisovná čeština, květnaté popisy, metafory, 
 
   *Obsah*\
-  Guy Montag je požárník budoucnosti; místo toho, aby oheň hasil, podpaluje knihy (z toho název - při teplotě 451° Fahrenheita hoří papír) a pomáhá tak režimu držet kontrolu nad obyvatelstvem. Jednoho dne potká Clarissu, která mu pomůže vytrhnout se z monotńosti života a vzbouřit se zachráněním knihy před ohněm. Doma má manželku Mildred, která tráví všechen svůj čas s “rodinkou” a už není schopná racionálně uvažovat. Mezitím co je Clarissa i s její rodinou odstraněna, začne něco větřit jeho velitel Beatty. Zjistí se, že doma ukrývá knih mnoho a s pomocí Fabera, bývalého a vystrašeného profesora se dá před “spravedlností” na útěk. Ten se mu povede a setká s dalšími uprchlíky, kteří představují různé knihy; Guy se jedním takovým stal. Na konci knihy pozorují, jak na město dopadá bomba kvůli zuřící válce.
+  Guy Montag je požárník budoucnosti; místo toho, aby oheň hasil, podpaluje knihy (z toho název - při teplotě 451° Fahrenheita hoří papír) a pomáhá tak režimu držet kontrolu nad obyvatelstvem. Jednoho dne potká Clarissu, která mu pomůže vytrhnout se z monotńosti života a vzbouřit se zachráněním knihy před ohněm. Doma má manželku Mildred, která tráví všechen svůj čas s “rodinkou” a už není schopná racionálně uvažovat. Mezitím co je Clarissa i s její rodinou odstraněna, začne něco větřit jeho velitel Beatty. Zjistí se, že doma ukrývá mnoho knih a s pomocí Fabera, bývalého a vystrašeného profesora, se dá před “spravedlností” na útěk. Ten se mu povede a setká s dalšími uprchlíky, kteří představují různé knihy; Guy se jedním takovým stal. Na město na konci dopadá atomová bomba.
 
   *Literárně historický kontext*\
   Na pozadí studené války, moderní technologie, hrozba atomové apokalipsy
@@ -59,10 +59,10 @@
   Tudy přijde něco zlého -- fantasy horror, střet dobra se zlem
 
   *Současníci*\
-  _G. Orwell_ –- Farma Zvířat (#underline[@farma[]]), 1984 \
-  _Karel Čapek_ -- R. U. R. (#underline[ODKAZ]), 1920 \
+  _G. Orwell_ -- Farma Zvířat (#underline[@farma[]]), 1984 \
+  _Karel Čapek_ -- R. U. R. (#underline[@rur[]]), 1920 \
   // _Isaac Asimov_ -- Já, robot, 1950 \
-  // _S. Beckett_ -- Čekání na Godota, 1952
+  _S. Beckett_ -- Čekání na G. (ODKAZ), 1952
 ]
 
 #pagebreak()

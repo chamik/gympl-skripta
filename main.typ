@@ -2,6 +2,7 @@
 #set page(paper: "a4")
 #set heading(numbering: "1.")
 #set text(size: 13pt, lang: "cs")
+#set footnote(numbering: "*")
 
 #let titlepage(a) = [
   #set text(size: 30pt)
