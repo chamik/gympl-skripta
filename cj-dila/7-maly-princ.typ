@@ -55,7 +55,7 @@
   Autor sám jednou na Sahaře ztroskotal. Dílo bylo přeloženo do více jak 400 jazyků a dialektů.#footnote[Mimo jiné i do hantecu, brněnské variety češtiny.] V knize lze vidět hodně symbolů z autorova života -- letec, liška (jeho new-yorská přítelkyně). Inspirací mu bylo Pražské Jezulátko.#footnote[Inspirací bylo i Paulovi Coelhovi (Alchymista ODKAZ), který se k němu modlil, aby se stal spisovatelem; po 200 milionech prodaných výtisků svých knih mu daroval obleček a nedá na něj dopustit.] 
 
   *Autor*\
-  Francouzský spisovatel a letec šlechtického původu.#footnote[Jeho jméno je ve skutečnosti ještě delší, než je nahoře v rámečku, ale už mi přislo zbytečný] Sám se přihlásil do WWII (ODKAZ), kde byl sestřelen nad středozemním mořem. 
+  Francouzský spisovatel a letec šlechtického původu.#footnote[Jeho jméno je ve skutečnosti ještě delší, než nahoře v rámečku, ale to už mi přislo zbytečný.] Sám se přihlásil do WWII (ODKAZ), kde byl sestřelen nad středozemním mořem. 
 
   *Další díla*\
   Citadela -- \

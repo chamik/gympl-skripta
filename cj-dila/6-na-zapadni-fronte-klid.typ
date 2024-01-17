@@ -64,7 +64,7 @@
 
   *Současníci*\
   J. Hašek - Dobrý voják Švejk, 1921 \
-  E. Hemingway (ODKAZ) - Sbohem armádo, 1929
+  E. Hemingway (#underline[@hemingway[]]) - Sbohem armádo, 1929
 ]
 
 #pagebreak()

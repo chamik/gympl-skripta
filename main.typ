@@ -42,9 +42,11 @@
 
 #heading(level: 2, "Reálie")
 
-// #set page(numbering: none)
-// #titlepage("Matematika")
-// #set page(numbering: "1")
+#set page(numbering: none)
+#titlepage("Anglický jazyk")
+#set page(numbering: "1")
+
+#include "anj.typ"
 
 // #heading(level: 2, "Základy analýzy")
 
