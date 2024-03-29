@@ -2,7 +2,27 @@
 
 Ústní maturita z angličtiny je docela bolest, protože je zhruba 50% šance, že dostanete otázku na zeměpis/osobnost, která se anglicky jenom tváří. Ostatní otázky jsou spíše o vlastních názorech. Následují poznámky ke všem tématům, které lze nalézt na #href("https://www.gjp-me.cz/maturity/", "gjp-me.cz/maturity").
 
-#heading("Ernest Hemingway", level: 2) <hemingway>
+== British literature
+
+
+== American literature
+todo: Mark Twain
+
+== William Shakespeare 
+
+William Shakespeare, often regarded as the greatest playwright in the English language, lived during the late 16th and early 17th centuries. Here's a brief historical background of Shakespeare and the time in which he lived:
+
+1. Elizabethan England (1558-1603): Shakespeare was born in 1564 in Stratford-upon-Avon, England, during the reign of Queen Elizabeth I. This was a time of great cultural flourishing in England, known as the Elizabethan era. It was marked by exploration, artistic achievement, and the rise of English nationalism.
+2. Theater and Society: Theater was a popular form of entertainment in Elizabethan England, and it played a significant role in society. Plays were performed in public theaters, such as The Globe, where audiences from all social classes could attend.
+3. Renaissance: Shakespeare lived during the Renaissance, a period of intellectual and cultural rebirth that spread across Europe. This era saw a renewed interest in classical learning, literature, and the arts.
+4. Political Climate: England during Shakespeare's time was marked by political intrigue, religious conflict, and social change. Queen Elizabeth's reign was relatively stable, but there were tensions between Catholics and Protestants, as well as power struggles within the royal court.
+5. Literary Influence: Shakespeare was influenced by classical literature, particularly the works of ancient Greek and Roman writers such as Ovid, Seneca, and Plutarch. He also drew inspiration from contemporary English poets and playwrights.
+6. Shakespeare's Career: Shakespeare began his career as an actor and playwright in London, where he quickly gained recognition for his talent. He wrote and staged numerous plays, including tragedies like "Hamlet" and "Macbeth," comedies like "A Midsummer Night's Dream" and "Twelfth Night," and histories like "Henry IV" and "Richard III."
+7. Legacy: Shakespeare's works have had a profound and enduring impact on literature, theater, and the English language. His plays continue to be performed worldwide, and his words have become an integral part of the literary canon. Shakespeare's influence can be seen in countless adaptations, references, and homages in popular culture.
+
+source: CHATGPT
+
+== Ernest Hemingway <hemingway>
 
 _Ernest Hemingway_ (1899--1961) was an American novelist and journalist born in Illinois. His work influenced many authors of the 20th century. He enjoyed fishing and drinking a lot; both influences of his father.
 
@@ -20,7 +40,70 @@ His most famous book is titled _The Old Man and the Sea_ (Stařec a Moře #under
 
 Hemingway killed himself with his fathers shotgun.
 
-#heading("London", level: 2)
+== Festivals, tradition
+
+== Meals, eating out, fast food
+
+*cooking at home $times$ eating out*
+#table(
+  columns: 2,
+  [at home], [eating out],
+  [requires effort and time], [you just have to order something],
+  [usually cheaper], [can get expensive],
+  [usually healthier], [can be "junk food"],
+)
+- favourite foods to cook at home: sushi, pancakes, guacamole
+- favourite foods to take out: chinese/vietnamese, pizza
+- i don't enjoy eating liver
+- celiac disiease (gluten intolerance but you can die)
+- zabijačka -- pig-slaughter (?)
+- coocking on a summer camp
+
+== Education, future plans, careers, professions
+
+todo: British school system
+
+== Culture – music, fine arts, politics, religion
+
+== Exceeding boundaries – holidays, travelling, transport
+
+== Learning languages, English as a world language
+todo: cockney
+
+== Health and diseases, healthy lifestyle, food, stress, prevention
+#linebreak()
+*healthcare system in the Czech Republic $times$ USA*
+#table(
+  columns: 2,
+  [CZ], [USA],
+  [public healthcare paid from taxes], [private healthcare],
+  [students, retirees exempt from paying social insurance], [everyone has to pay]
+)
+- paying thousnads of dollars for an ambulance ride
+- costs of insulin (medicaments in general)
+
+*conventional $times$ alternative medicine*
+#table(
+  columns: 2,
+  [conventional], [alternative],
+  [based on science and research], [based on old teachings and traditions],
+  [serious illnesses], [stress relief, etc.],
+  [covered by insurance companies], [not covered by insurance, usually expensive]
+)
+- Goop -- Gwyneth Paltrow, frequency stickers
+- "healthy" radioactive pendants sold on Amazon
+- "snake oil"
+
+*anti-vaccine movement*
+- inoculation observed as eraly as 200 BCE
+- variolation against small pox in 15th century
+- (first and only) eradication of small pox thanks in 1970 to vaccines
+
+*healthy lifestyle*
+- 20% of teenagers in the USA are considered obese (and it's being normalized)
+- diet and excersise should be balanced
+
+== London
 
 History:
 1. *Roman Londinium (43–410 AD)*: The Romans founded Londinium around 43~AD, establishing it as a major port and trading center on the River Thames. It served as a hub for commerce and administration in Roman Britain.
@@ -36,3 +119,35 @@ History:
 6. *World Wars (20th Century)*: London endured significant damage during World War I and even more so during the Blitz in World War II. The resilience of Londoners and post-war reconstruction efforts helped the city recover.
 
 7. *Post-War Period to Present*: The latter half of the 20th century and beyond saw London evolve into a global financial and cultural powerhouse. Notable events include the Swinging Sixties, the establishment of the Greater London Council, and the hosting of the Summer Olympics in 2012. London has embraced cultural diversity, making it one of the world's most cosmopolitan cities.
+
+== Great Britain
+
+== Chapters from British History 
+
+- War of roses
+- the Tudor family 
+- period of Henry the eighth 
+- Protestants 
+
+divorced, beheaded, died, \
+divorced, beheaded, survived
+
+== The USA
+
+== Canada
+
+== Australia
+
+== Our town and district (Mělník)
+
+== Prague
+
+== The Czech Republic
+
+== Problems of the world I. -- environment
+
+== Problems of the world II. -- social problems, lethal diseases
+
+== Problems of the world III. -- addictions
+
+== Media and technology

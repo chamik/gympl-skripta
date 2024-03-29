@@ -40,12 +40,6 @@
   *Obsah*\
 
   *Literárně historický kontext*\
-
-  *Autor*\
-
-  *Další díla*\
-
-  *Současníci*\
 ]
 
 #pagebreak()

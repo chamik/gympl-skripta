@@ -17,7 +17,7 @@
 
 #[
   #set text(size: 18pt)
-  Jakub Hampl, 2024 
+  Jakub Hampl, #datetime.today().year()
 ]
 
 #pagebreak()
@@ -38,7 +38,7 @@
 #titlepage("Český jazyk")
 #set page(numbering: "1")
 
-#include("cj-dila.typ")
+#include("cj.typ")
 
 #heading(level: 2, "Reálie")
 
