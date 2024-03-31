@@ -4,12 +4,12 @@
 
 Následuje seznam 20 knih, které jsem si vybral já a které jsou podrobně zpracované dále. Pokud tě zajímá spíš rychlý přehled, podívej se na #href("https://knih.chamik.eu/", "knih.chamik.eu") a hledej štítek `maturita`. Celý seznam knížek kánonu najdeš na #href("https://www.gjp-me.cz/maturity/", "gjp-me.cz/maturity").
 
-V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #highlight("dramatu", fill: blue).
+V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #highlight("dramatu", fill: green).
 
 *Světová a česká literatura do konce 19. století* (3 knihy)
 1. Kulička -- _Maupassent Guy de_
 2. #highlight[Havran] -- _Poe Edgar Alan_
-3. #highlight("Romeo a Julie", fill: blue) -- _Shakespear William_
+3. #highlight("Romeo a Julie", fill: green) -- _Shakespear William_
 
 
 *Světová literatura 20. a 21. století* (5 knih)
@@ -20,14 +20,14 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 8. Malý princ -- _Sain Exupéry Antonie de_ 
 
 *Česká literatura 20. a 21. století* (5 knih)
-9. #highlight("České nebe", fill: blue) -- _Cimrman, Smoljak, Svěrák_
-10. #highlight("Bílá nemoc", fill: blue) -- _Čapek Karel_
-11. #highlight("R. U. R.", fill: blue) -- _Čapek Karel_
+9. #highlight("České nebe", fill: green) -- _Cimrman, Smoljak, Svěrák_
+10. #highlight("Bílá nemoc", fill: green) -- _Čapek Karel_
+11. #highlight("R. U. R.", fill: green) -- _Čapek Karel_
 12. Krysař -- _Dyk Viktor_
 13. #highlight[Těžká hodina] -- _Wolker Jiří_
 
 *Ostatní* (7 knih)
-14. #highlight("Čekání na Godota", fill: blue) -- Beckett Samuel
+14. #highlight("Čekání na Godota", fill: green) -- Beckett Samuel
 15. #highlight[Kytice z pověstí národních] -- _Erben Karel Jaromír_
 16. Audience -- _Havel Václav_
 17. Hana -- _Mornštajnová Alena_
@@ -43,6 +43,8 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 // Světová literatura 20. a 21. století
 #include("/cj-dila/4-451-stupnu-fahrenheita.typ")
 #include("/cj-autori/bradbury.typ")
+
+#include("/cj-dila/6-promena.typ")
 
 #include("/cj-dila/7-farma-zvirat.typ")
 #include("/cj-autori/orwell.typ")
@@ -65,6 +67,5 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 
 #include("/cj-dila/20-na-zapadni-fronte-klid.typ")
 
-
-
-== Pojmy
+// Konec děl
+#include "/cj-pojmy.typ"

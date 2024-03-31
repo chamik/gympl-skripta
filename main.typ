@@ -3,6 +3,7 @@
 #set heading(numbering: "1.")
 #set text(size: 13pt, lang: "cs")
 #set footnote(numbering: "*")
+#set quote(block: true)
 
 #let titlepage(a) = [
   #set text(size: 30pt)
@@ -37,23 +38,9 @@
 
 #titlepage("Český jazyk")
 #set page(numbering: "1")
-
-#include("cj.typ")
-
-#heading(level: 2, "Reálie")
+#include "cj.typ"
 
 #set page(numbering: none)
 #titlepage("Anglický jazyk")
 #set page(numbering: "1")
-
 #include "anj.typ"
-
-// #heading(level: 2, "Základy analýzy")
-
-// Na gymplu se jim věnuje hlavně na semináři *Diferenciální a integrální počet*. Níže následují přepsané zápisy z těchto hodin.
-
-// #heading(level: 3, "Limity")
-
-
-
-// #pagebreak()

@@ -28,7 +28,7 @@ Karel Čapek byl významným českým spisovatelem, dramatikem a intelektuálem 
 
 Čapkova tvorba byla poznamenána kritickým pohledem na společnost a zároveň smyslem pro humor. Byl liberálně a demokraticky orientovaný intelektuál, který se ve svých dílech snažil zkoumat a kritizovat různé aspekty moderního života, včetně technologického pokroku, politiky a lidské psychologie.
 
-Umělecky zastupoval zejména modernismus, přičemž se v jeho dílech prolínaly prvky realismu, absurdity a fantastiky. Byl mistrem jazyka a svou schopností hrát si s ním dokázal #quote("psát i pro úplné debily").
+Umělecky zastupoval zejména modernismus, přičemž se v jeho dílech prolínaly prvky realismu, absurdity a fantastiky. Byl mistrem jazyka a svou schopností hrát si s ním dokázal "psát i pro úplné debily".
 
 Mezi Čapkova nejslavnější díla patří:
 

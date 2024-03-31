@@ -31,9 +31,9 @@ Umělecky Orwell zastupoval především literární směr známý jako dystopie
 
 Mezi další nejslavnější díla George Orwella patří:
 
-1. *1984* - Dystopický román, který popisuje totalitní společnost ovládanou jedinou stranou, Big Brotherem. Orwell v tomto díle varuje před nadměrným vládním dohledem, manipulací informací a ztrátou osobní svobody.
+1. *1984* -- Dystopický román, který popisuje totalitní společnost ovládanou jedinou stranou, Big Brotherem. Orwell v tomto díle varuje před nadměrným vládním dohledem, manipulací informací a ztrátou osobní svobody.
 
-2. *Zvířenec* - Román, který zkoumá temnější stránky lidské povahy a morálky prostřednictvím vyprávění o setkání chlapce s divokým zvířetem v indickém džungli. Orwell v tomto díle zobrazuje konflikt mezi civilizací a přírodou, stejně jako vnitřní boj mezi dobrovolnou svobodou a společenskými konvencemi.
+2. *Hold Katalánsku* --  osobní zkušenosti a poznatky z doby od prosince 1936 do června 1937 o španělské občanské válce, které se aktivně zúčastnil v řadách milice strany POUM (antistalinistická a marxistická). 
 
 *Současníci*\
   _R. Bradbury_ -- 451° F. (#underline[@fahrenheit[]]), 1984 \

@@ -40,6 +40,6 @@ Mezi další známá díla Raye Bradburyho patří:
 _G. Orwell_ -- Farma Zvířat (#underline[@farma[]]), 1945 \
 _Karel Čapek_ -- R. U. R. (#underline[@rur[]]), 1920 \
 _Isaac Asimov_ -- Já, robot, 1950 \
-_S. Beckett_ -- Čekání na G. (ODKAZ), 1952
+_S. Beckett_ -- Čekání na Godota (ODKAZ), 1952
 
 #pagebreak()
