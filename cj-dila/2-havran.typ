@@ -11,7 +11,7 @@
       Překlad: _Vítězslav Nezval_ #footnote[druhý známý (a podle mě lepší) je od _J. Vrchlického_] 
 
       #colbreak()
-      Období: *1. p. 19. st; Světový romantismus*\
+      Období: *1. p. 19. st; světový romantismus*\
       Země: *USA*
 
       #colbreak()

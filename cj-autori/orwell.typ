@@ -36,8 +36,8 @@ Mezi další nejslavnější díla George Orwella patří:
 2. *Hold Katalánsku* --  osobní zkušenosti a poznatky z doby od prosince 1936 do června 1937 o španělské občanské válce, které se aktivně zúčastnil v řadách milice strany POUM (antistalinistická a marxistická). 
 
 *Současníci*\
-  _R. Bradbury_ -- 451° F. (#underline[@fahrenheit[]]), 1984 \
-  _Karel Čapek_ -- R. U. R. (#underline[@rur[]]), 1920 \
-  _Isaac Asimov_ -- Já, robot, 1950 \
+_R. Bradbury_ -- 451° F. (#underline[@fahrenheit[]]), 1984 \
+_Karel Čapek_ -- R. U. R. (#underline[@rur[]]), 1920 \
+_Isaac Asimov_ -- Já, robot, 1950 \
 
 #pagebreak()

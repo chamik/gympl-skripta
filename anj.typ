@@ -2,6 +2,8 @@
 
 Ústní maturita z angličtiny je docela bolest, protože je zhruba 50% šance, že dostanete otázku na zeměpis/osobnost, která se anglicky jenom tváří. Ostatní otázky jsou spíše o vlastních názorech. Následují poznámky ke všem tématům, které lze nalézt na #href("https://www.gjp-me.cz/maturity/", "gjp-me.cz/maturity").
 
+All important words are #underline[underlined].
+
 == British literature
 
 
@@ -32,7 +34,7 @@ When WWI happened he was rejected by the U.S. Army for poor eyesight. Instead he
 
 He fell in love with many women over the years; married and divorced a lot of them. 
 
-Ernest worked as a war correspondend in WW2 and was awarded for that. This also influenced his work.
+Ernest worked as a war corresponded in WW2 and was awarded for that. This also influenced his work.
 
 He was apart of the "Lost generation" -- wrote works such as _A Farewell to Arms_ (Sbohem armádo), or _For Whom the Bell Tolls_ (Komu zvoní hrana).
 
@@ -52,16 +54,33 @@ Hemingway killed himself with his fathers shotgun.
   [usually cheaper], [can get expensive],
   [usually healthier], [can be "junk food"],
 )
-- favourite foods to cook at home: sushi, pancakes, guacamole
-- favourite foods to take out: chinese/vietnamese, pizza
+- favorite foods to cook at home: sushi, pancakes, guacamole
+- favorite foods to take out: chinese/vietnamese, pizza
 - i don't enjoy eating liver
-- celiac disiease (gluten intolerance but you can die)
+- celiac disease (gluten intolerance but you can die)
 - zabijačka -- pig-slaughter (?)
-- coocking on a summer camp
+- cocking on a summer camp
 
 == Education, future plans, careers, professions
 
+1. kindergarten (2--6, last year is obligatory)
+  - soft skills
+2. elementary school (6--15, obligatory)
+  - counting, writing and reading, basics of sciences and history
+  - first second language (english)
+  - *second level of primary education* (can switch to grammar school)
+  - teachers are specialized
+3. secondary education
+  - entrance exams
+  - grammar school (gympl), vocational school (apprentices), specialized schools 
+  - "maturita exam", graduation/secondary school-leaving exam
+4. university
+  - entrance exam (or not)
+  - Bachelors (3 years) or Masters (5 years)
+  - thesis and state exam
+
 todo: British school system
+- GCSE tests at age of 16 (O levels) and 18 (A levels, used as university entrance exams) 
 
 == Culture – music, fine arts, politics, religion
 
@@ -79,7 +98,7 @@ todo: cockney
   [public healthcare paid from taxes], [private healthcare],
   [students, retirees exempt from paying social insurance], [everyone has to pay]
 )
-- paying thousnads of dollars for an ambulance ride
+- paying thousands of dollars for an ambulance ride
 - costs of insulin (medicaments in general)
 
 *conventional $times$ alternative medicine*
@@ -92,16 +111,16 @@ todo: cockney
 )
 - Goop -- Gwyneth Paltrow, frequency stickers
 - "healthy" radioactive pendants sold on Amazon
-- "snake oil"
+- #underline["snake oil"]
 
 *anti-vaccine movement*
-- inoculation observed as eraly as 200 BCE
+- inoculation observed as early as 200 BCE
 - variolation against small pox in 15th century
-- (first and only) eradication of small pox thanks in 1970 to vaccines
+- (first and only) eradication of a disease -- small pox -- thanks in 1970 to vaccines
 
 *healthy lifestyle*
 - 20% of teenagers in the USA are considered obese (and it's being normalized)
-- diet and excersise should be balanced
+- diet and exercise should be balanced
 
 == London
 
@@ -139,6 +158,38 @@ divorced, beheaded, survived
 == Australia
 
 == Our town and district (Mělník)
+
+Founded by the tribe of Pšovans. Settled at the #underline[confluence] of the two main Czech rivers, Elbe and Vltava.
+
+It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Czech queens used to live here.
+
+*Places of interest*:
+- St. Peter and Paul church
+  - #underline[ossuary] (kostnice) by Matiegky (škola na pražský se jmenuje podle něj)
+- #underline[cloister] in Kapucín church (nowadays a museum)
+- Prague gate (used to be part of city walls)
+- well (widest in ČR)
+- underground (used for storage or shelter)
+- Vladimírovo vokno, Cihelna
+
+*People*:
+- princess Emma (denáry)
+- St. Ludmila (babička sv. Václava)
+- Charles IV. (brought wine from Burgundy)
+- Viktor Dyk (má tu bustu)
+- B. Smetana (Obříství)
+- Straka (veslař??)
+
+*Schools, culture, sports*
+xd
+- there used to be a cinema
+
+
+*Traditions*
+- farmer's markets
+- wine fest
+- wine night
+- tasting wine
 
 == Prague
 

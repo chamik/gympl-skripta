@@ -36,7 +36,6 @@ Mezi jeho další známá díla patří:
 2. *Noční let (Vol de nuit)* - Román inspirovaný autorovými vlastními zkušenostmi jako letec poštovních letadel. Příběh sleduje dramatický let pošťáka do Patagonie a zkoumá téma lidské odvahy, obětavosti a touhy po dobrodružství.
 
 *Současníci*\
-
 _Franz Kafka_ -- Proměna (@promena[]), 1915 \
 _Hermann Hesse_ -- Siddhartha, 1922 \
 _Virginia Woolfová_ -- Na majáku, 1927 \

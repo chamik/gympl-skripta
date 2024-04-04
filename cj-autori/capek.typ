@@ -24,24 +24,26 @@
   ]]
 )
 
-Karel Čapek byl významným českým spisovatelem, dramatikem a intelektuálem 20. století. Narodil se v roce 1890 a zemřel v roce 1938. Jeho tvorba reflektovala dobu plnou politických a společenských změn, které vedly ke složitému politickému klimatu a vzestupu totalitních režimů.
+Čapkova tvorba byla poznamenána kritickým pohledem na společnost a zároveň smyslem pro humor. Byl liberálně a demokraticky orientovaný intelektuál, který se ve svých dílech snažil zkoumat a kritizovat různé aspekty moderního života, včetně technologického pokroku, politiky a lidské psychologie. Byl mistrem jazyka a svou schopností hrát si s ním dokázal "psát i pro úplné debily".
 
-Čapkova tvorba byla poznamenána kritickým pohledem na společnost a zároveň smyslem pro humor. Byl liberálně a demokraticky orientovaný intelektuál, který se ve svých dílech snažil zkoumat a kritizovat různé aspekty moderního života, včetně technologického pokroku, politiky a lidské psychologie.
+Kvůli chronické nemoci kloubů se nemohl účastnit WWI. Chvíli působil jako soukromý učitel.
 
-Umělecky zastupoval zejména modernismus, přičemž se v jeho dílech prolínaly prvky realismu, absurdity a fantastiky. Byl mistrem jazyka a svou schopností hrát si s ním dokázal "psát i pro úplné debily".
+#underline[Pátečníci] -- skupina politických a kulturních osobností, co se každý pátek scházela ve vile bratří Čapků. Hlavně: _T. G. Masarik_, _E. Beneš_, _E. Bass._, _F. Langer_ a další.
+
+Stal se redaktorem několika deníků a časopisů, především #underline[Lidových novin].
 
 Mezi Čapkova nejslavnější díla patří:
 
-1. R.U.R. (#underline[@rur[]]) - Čapkova hra, která poprvé uvedla pojem "robot" do světového povědomí. Drama zobrazuje společnost ovládanou umělou inteligencí a přináší otázky o lidské identitě, technologickém pokroku a morálce.
+1. Dášeňka čili život štěněte -- napsané a fotografované s Josefem Čapkem, je vyprávění o narození a růstu štěňátka; foxteriéra Dášeňky. Karel Čapek vypráví tomuto pejskovi psí pohádky, které jsou tak trochu také bajkami.
 
-2. Válka s mloky - Satirický román, který ironicky reflektuje mezinárodní politiku a vzestup totalitních režimů. Čapek využívá motiv mloků jako metaforu pro expanzionistické a zotročující tendence lidské společnosti.
+2. Válka s mloky -- Satirický román, který ironicky reflektuje mezinárodní politiku a vzestup totalitních režimů. Čapek využívá motiv mloků jako metaforu pro expanzionistické a zotročující tendence lidské společnosti.
 
-3. Povídky z jedné kapsy - Sbírka krátkých příběhů, které zobrazují každodenní život obyčejných lidí s jemným humorem a ironií. Čapek se v těchto povídkách zaměřuje na lidské charaktery a situace, které jsou nám všem povědomé.
+3. Povídky z jedné kapsy -- Povídky s detektivní tematikou. Jejich příběh je podáván humornou formou. Hrdina většinou není velký zločinec, ale zlodějíček, také kriminalista je obyčejný člověk. V těchto dílech jde především o vystižení různých typů osob. V povídkách se odráží relativismus; není přesně dána pravda, záleží na úhlu pohledu.
 
 *Současníci*\
-Karel Poláček -- Bylo nás pět, 1946#footnote[Román ve skutečnosti dopsal těsně před svým odchodem do Terezína v roce 1943.] \
-Eduard Bass -- Cirkus Humberto, 1941 \
-Josef Čapek -- Povídání o pejskovi a kočičce, 1929 \
-George Orwell - Farma zvířat (#underline[@farma[]]), 1945 
+_Karel Poláček_ -- Bylo nás pět, 1946#footnote[Román ve skutečnosti dopsal těsně před svým odchodem do Terezína v roce 1943.] \
+_Eduard Bass_ -- Cirkus Humberto, 1941 \
+_Josef Čapek_ -- Povídání o pejskovi a kočičce, 1929 \
+_George Orwell_ - Farma zvířat (#underline[@farma[]]), 1945 
 
 #pagebreak()

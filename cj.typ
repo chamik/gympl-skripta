@@ -7,14 +7,14 @@ Následuje seznam 20 knih, které jsem si vybral já a které jsou podrobně zpr
 V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #highlight("dramatu", fill: green).
 
 *Světová a česká literatura do konce 19. století* (3 knihy)
-1. Kulička -- _Maupassent Guy de_
+1. Kulička -- _Maupassant Guy de_
 2. #highlight[Havran] -- _Poe Edgar Alan_
-3. #highlight("Romeo a Julie", fill: green) -- _Shakespear William_
+3. #highlight("Romeo a Julie", fill: green) -- _Shakespeare William_
 
 
 *Světová literatura 20. a 21. století* (5 knih)
 4. 451° Fahrenheita -- _Bradbury Ray_
-5. Stařec a moře -- _Hamingway Ernest_
+5. Stařec a moře -- _Hemingway Ernest_
 6. Proměna -- _Kafka Franz_
 7. Farma zvířat -- _Orwell George_
 8. Malý princ -- _Sain Exupéry Antonie de_ 
@@ -43,6 +43,8 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 // Světová literatura 20. a 21. století
 #include("/cj-dila/4-451-stupnu-fahrenheita.typ")
 #include("/cj-autori/bradbury.typ")
+
+#include("/cj-dila/5-starec-a-more.typ")
 
 #include("/cj-dila/6-promena.typ")
 
