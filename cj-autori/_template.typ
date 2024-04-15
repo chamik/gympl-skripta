@@ -21,6 +21,8 @@
   ]]
 )
 
+Mezi jeho známá díla patří:
+
 *Současníci*\
 
 #pagebreak()

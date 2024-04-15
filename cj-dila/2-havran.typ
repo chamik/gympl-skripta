@@ -8,7 +8,7 @@
   [#columns(3, gutter: 5pt)[
       #heading(level: 3, "Havran") <havran>
       Autor: *Edgar Allan Poe* \
-      Překlad: _Vítězslav Nezval_ #footnote[druhý známý (a podle mě lepší) je od _J. Vrchlického_] 
+      Překlad: _Vítězslav Nezval_
 
       #colbreak()
       Období: *1. p. 19. st; světový romantismus*\
@@ -43,26 +43,20 @@
   ich-forma (souvisí s životem Poa)
 
   *Jazykové prostředky*\
-  symbolika, refrén "nevermore" (nikdy víc), přirovnání, personifikace, přímá řeč, gradace
+  symbolika, refrén "nevermore"#footnote[Nezvalův překlad "víc#[]*krá*#[]t ne" zní jako havran! Překlad od _J. Vrchlického_ má "nikdy víc", což mě osobně přijde libozvučnější. Překladů jinak existují desítky.], přirovnání, personifikace, přímá řeč, gradace, volný verš (pro romantismus typický), skoro žádné tropy (významové básnické prostředky), epifory a anafory, asonance, aliterace 
+  
+  trochej:\
+  "*Zdá*#[]lo *se*#[], že *u*#[] stí#[]*ni*#[]dla *hou*#[]stne *svě*#[]tlo *od*#[] ka#[]*di*#[]dla" 
 
-  *Obsah*\
-  Autor pozdní prosincový večer studuje své knihy, ale nemůže se soustředit, protože stále myslí na svoji mrtvou lásku. Do pokoje mu vletí Havran, symbol smrti. Autor se ho snaží vyhnat, ale nedaří se mu to. Havran zůstává i v "autorově srdci" (symbol nekonečného trápení).
+  V originále rým A B C B B B (s tím že A i C mají vnitřní rým, šestý verš je poloviční)
 
   #colbreak()
 
+  *Obsah*\
+  Autor prosincový večer o půlnoci studuje své knihy, ale nemůže se soustředit, protože stále myslí na svoji mrtvou lásku, Lenoru. Do pokoje mu vletí Havran. Nejdřív vypravěče rozesměje, záhy ho začne iritovat. Pokládá otázky ptákovi, kterými sám sebe trýzní (protože odpověď na ně je "ne"). Autor se havrana snaží vyhnat, ale nedaří se mu to. Havran zůstává i v "autorově srdci" (symbol nekonečného trápení).
+
   *Literárně historický kontext*\
-  Pozdní tvorba, velmi dobře přijata; ovšem moc na tom nevydělal...
-
-  *Autor*\
-  Zakladatel detektivního žánru. Ovlivnil hlavně autory další generace, např. Lovecraft, Verne, Doyle (Sherlock Holmes), z českých třeba Nezval. Inspirace tajemnou anglií kvůli studiím v Londýně. Jeho práce je temná a pochmurná a často symbolizuje něco více. Celý život měl problémy s alkoholismem (nejspíš kvůli tomu i umřel).
-
-  *Další díla*\
-  Černý kocour a jiné povídky, Jáma a kyvadlo, 
-
-  *Současníci*\
-  _Viktor Hugo_ -- Bídníci, 1862 \
-  _A. S. Puškin_ -- Evžen Oněgin, 1825 \
-  // _P. B. Shelley_ -- 
+  Pozdní tvorba, velmi dobře přijata; ovšem moc na tom nevydělal. V době psaní mu umírala manželka. Později vydal text, kde popisoval své záměry a myšlenky o tomto díle. Jedná se o jednu z nejslavnějších amerických básní. Do teď se objevuje v populární kultuře. 
 ]
 
 #pagebreak()
@@ -78,7 +72,7 @@ balzám na tvou starou něhu, po němž navždy vychladne, \
 po němž láska k Lenoře v tvé mysli navždy zapadne“ – \
 Však havran děl: „Už víckrát ne.“
 
-„Proroku,“ dím, „mene tekel, ať jsi pták a nebo z pekel, \
+„Proroku,“ dím, „mene tekel#footnote["Mene tekel" jsou první dvě slova údajného tajemného varování biblického krále Belsazara (Belšasara). Přeneseně označuje naléhavé varování, výstrahu.], ať jsi pták a nebo z pekel, \
 synu podsvětí, a přece proroku, pojď hádat mně – \
 statečně, byť opuštěný, žiji zaklet v této zemi, \
 dům mám hrůzou obklíčený, zda tvá věštba uhádne, \
@@ -100,7 +94,7 @@ Vyndej zobák z mého srdce, opusť sochu, havrane!“ \
 Havran dí: „Už víckrát ne.“
  
 Pak se klidně ulebedí, stále sedí, stále sedí \
-jako ďábel na bělostných ňadrech Pallas Athéné; \
+jako ďábel na bělostných ňadrech Pallas Athéné#footnote[V řecké mytologii dcera nejvyššího boha Dia. Jde o bohyni moudrosti, války a strategie, ochránkyni statečnosti, práva, spravedlnosti a umění.]; \
 oči v sněni přimhouřeny na pozadí bílé stěny, \
 lampa vrhá beze změny jeho stín, jímž uhrane - \
 a má duše z toho stínu, jímž mne navždy uhrane, \

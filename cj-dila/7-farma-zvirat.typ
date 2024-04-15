@@ -17,7 +17,7 @@
       #colbreak()
       Rok vydání: *1945* \
       L. druh: *epika* \
-      L. žánr: *dystopický román*      
+      L. žánr: * alegorický román (bajka)*
   ]]
 )
 
@@ -44,10 +44,10 @@
   *Vypravěč* -- 3. os, vševědoucí
 
   *Jazykové prostředky*\
-  hodně přímé řeči (dialogy mezi zvířaty), alegorie (ovce tupé stádo, psi věrní, atp.) a metafory, velká písmena pro *R*#[]evoluci
+  hodně přímé řeči (dialogy mezi zvířaty), metonymie (ovce tupé stádo, psi věrní, atp.) a metafory, celé je to alegorie, velká písmena pro *R*#[]evoluci
 
   *Obsah*\
-  Pan Jones je alkoholik vlastnící farmu, kde se nespokojená zvířata rozhodnou udělat převrat. V jeho vedení jsou prasata a nastolí systém až podezřele připomínající komunistický režim. V knize lze nalézt motivy překrucování informací, slibů, nesmyslných dlouhodobých projektů, a ještě méně kvalitního života, než býval dříve. Věrný pracovní kůň Boxer, který je režimem vyzdvyhován, je na konci svého života zrazen a dán na salám. Prasata jen využívají tvárnosti obyvatelstva podobně, jako se to doopravdy dělo v SSSR.
+  Pan Jones je alkoholik vlastnící farmu, kde se nespokojená zvířata rozhodnou udělat převrat. V jeho vedení jsou prasata a nastolí systém až podezřele připomínající komunistický režim. V knize lze nalézt motivy překrucování informací, slibů, nesmyslných dlouhodobých projektů, a ještě méně kvalitního života, než býval dříve. Věrný pracovní kůň Boxer, který je režimem vyzdvihován, je na konci svého života zrazen a dán na salám. Prasata jen využívají tvárnosti obyvatelstva podobně, jako se to doopravdy dělo v SSSR.
 
   *Literárně historický kontext*\
   Tato kniha vznikla během druhé světové války a ocenění se jí dostalo až o pár let později.

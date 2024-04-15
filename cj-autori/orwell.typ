@@ -23,11 +23,9 @@
   ]]
 )
 
-George Orwell, vlastním jménem Eric Arthur Blair, byl britský spisovatel, novinář a esejista, známý svou ostrou kritikou totalitních režimů a manipulace mocí. Narodil se v roce 1903 v Indii a zemřel v roce 1950. Jeho literární dílo je pečlivě propracovaným zrcadlem společnosti, ve které žil, a jeho názory se formovaly v turbulentním období 20. století, které zahrnovalo období mezi dvěma světovými válkami a studenou válku.  Zapojil se do Španělské občanské války (ODKAZ?) za vládní stranu. V ČSSR byl ve své době na seznamu zakázaných autorů, jeho knihy vycházely v exilu.
+George Orwell, vlastním jménem Eric Arthur Blair, byl britský spisovatel, novinář a esejista, známý svou ostrou kritikou totalitních režimů a manipulace mocí. Narodil se v roce 1903 v Indii a zemřel v roce 1950. Jeho literární dílo je pečlivě propracovaným zrcadlem společnosti, ve které žil, a jeho názory se formovaly v turbulentním období 20. století, které zahrnovalo období mezi dvěma světovými válkami a studenou válku.  Zapojil se do Španělské občanské války za vládní (marxistickou) stranu. V ČSSR byl ve své době na seznamu zakázaných autorů, jeho knihy vycházely v exilu.
 
-Orwellova tvorba je charakterizována hlubokým skepticismem vůči politické moci a autoritě, stejně jako vůči manipulaci médií a propagandy. Byl liberální socialistou s anarchistickými sklony a jeho díla často odrážejí jeho touhu po sociální spravedlnosti a lidské svobodě.
-
-Umělecky Orwell zastupoval především literární směr známý jako dystopie, ve kterém se zaměřuje na odhalení temných stránek společnosti a varuje před možnými důsledky mocenského zneužití. Jeho styl psaní je přímočarý, strohý a plný sarkastického humoru. Zemřel na tuberkulózu, kvůli které se neúčastnil WWII. 
+Orwell byl člověk komplikovaný. Byl to sice zarytý marxista, ale naprosto odmítal autoritářství. Umělecky Orwell zastupoval především literární směr známý jako dystopie, ve kterém se zaměřuje na odhalení temných stránek společnosti a varuje před možnými důsledky mocenského zneužití. Jeho styl psaní je přímočarý, strohý a plný sarkastického humoru. Zemřel na tuberkulózu, kvůli které se neúčastnil WWII. 
 
 Mezi další nejslavnější díla George Orwella patří:
 

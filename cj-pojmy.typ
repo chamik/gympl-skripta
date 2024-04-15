@@ -39,6 +39,7 @@ např.: _publicistický_ + _informační_ = zprávy, inzerát, reklama
 
 - _anafora_ -- opakování slov na začátku sousedních veršů nebo vět
 - _epifora_ -- opakování slov na konci sousedních veršů nebo vět 
+- _asonance_ -- "nepovedený rým", rýmují se pouze samohlásky bez ohledu na souhlásky
 - _epizeuxis_ -- opakování slov za sebou v jednom verši 
 - _aliterace_ -- opakování hlásky nebo skupiny hlásek na začátku slov ve verši
 - _refrén_ -- opakování delší části textu nebo celého verše, většinou v pravidelných intervalech

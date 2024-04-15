@@ -39,12 +39,14 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 
 // Světová a česká literatura do konce 19. století
 #include("/cj-dila/2-havran.typ")
+#include("/cj-autori/poe.typ")
 
 // Světová literatura 20. a 21. století
 #include("/cj-dila/4-451-stupnu-fahrenheita.typ")
 #include("/cj-autori/bradbury.typ")
 
 #include("/cj-dila/5-starec-a-more.typ")
+#include("/cj-autori/hemingway.typ")
 
 #include("/cj-dila/6-promena.typ")
 
@@ -63,6 +65,9 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #include("/cj-autori/dyk.typ")
 
 // Ostatní
+#include("/cj-dila/14-cekani-na-godota.typ")
+#include("/cj-autori/beckett.typ")
+
 #include("/cj-dila/17-hana.typ")
 
 #include("/cj-dila/18-lovci-hlav.typ")

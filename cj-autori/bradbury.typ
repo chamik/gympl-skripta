@@ -31,14 +31,14 @@ Umělecky Bradbury zastupoval zejména literární směr známý jako sci-fi a f
 
 Mezi další známá díla Raye Bradburyho patří:
 
-1. *Martinské kroniky (The Martian Chronicles)* - Sbírka sci-fi povídek, které popisují kolonizaci Marsu lidmi. Autor prostřednictvím těchto příběhů zkoumá lidské touhy, ambice a deziluze, a zároveň předkládá otázky o budoucnosti lidstva. Psáno formou datovaného deníku.
+1. *Marťanská kronika (The Martian Chronicles)* - Sbírka sci-fi povídek, které popisují kolonizaci Marsu lidmi. Autor prostřednictvím těchto příběhů zkoumá lidské touhy, ambice a deziluze, a zároveň předkládá otázky o budoucnosti lidstva. Psáno formou datovaného deníku.
 
-2. *Světlo v srpnu (Something Wicked This Way Comes)* - Román, který kombinuje temné prvky fantasy s coming-of-age#footnote("přechod mladého člověka do dospělosti") příběhem. Bradbury v tomto díle zkoumá téma dobra a zla prostřednictvím příběhu o dvou chlapcích, kteří se potýkají se záhadnými událostmi v jejich malém městě.
+2. *Tudy přijde něco zlého (Something Wicked This Way Comes)* - Román, který kombinuje temné prvky fantasy s coming-of-age#footnote("přechod mladého člověka do dospělosti") příběhem. Bradbury v tomto díle zkoumá téma dobra a zla prostřednictvím příběhu o dvou chlapcích, kteří se potýkají se záhadnými událostmi v jejich malém městě.
 
 *Současníci*\
+_Isaac Asimov_ -- Já, robot, 1950 \
+_Arthur C. Clarke_ -- Vesmírná Odysea, 1968 \
 _G. Orwell_ -- Farma Zvířat (#underline[@farma[]]), 1945 \
 _Karel Čapek_ -- R. U. R. (#underline[@rur[]]), 1920 \
-_Isaac Asimov_ -- Já, robot, 1950 \
-_S. Beckett_ -- Čekání na Godota (ODKAZ), 1952
 
 #pagebreak()

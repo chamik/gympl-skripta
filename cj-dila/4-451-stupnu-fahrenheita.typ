@@ -17,7 +17,7 @@
       #colbreak()
       Rok vydání: *1953* \
       L. druh: *epika* \
-      L. žánr: *sci-fi román*      
+      L. žánr: *sci-fi román*
   ]]
 )
 
@@ -40,16 +40,16 @@
 
   *Kompozice* -- chronologická
 
-  *Vypravěč* -- vševědoucí
+  *Vypravěč* -- vševědoucí, er-forma
 
   *Jazykové prostředky*\
-  er-forma, přímá řeč, spisovná čeština, květnaté popisy, metafory, 
+  er-forma, přímá řeč, spisovná čeština, profesní slang, květnaté popisy, metafory, 
 
   *Obsah*\
-  Guy Montag je požárník budoucnosti; místo toho, aby oheň hasil, podpaluje knihy (z toho název - při teplotě 451° Fahrenheita hoří papír) a pomáhá tak režimu držet kontrolu nad obyvatelstvem. Jednoho dne potká Clarissu, která mu pomůže vytrhnout se z monotńosti života a vzbouřit se zachráněním knihy před ohněm. Doma má manželku Mildred, která tráví všechen svůj čas s “rodinkou” a už není schopná racionálně uvažovat. Mezitím co je Clarissa i s její rodinou odstraněna, začne něco větřit jeho velitel Beatty. Zjistí se, že doma ukrývá mnoho knih a s pomocí Fabera, bývalého a vystrašeného profesora, se dá před “spravedlností” na útěk. Ten se mu povede a setká s dalšími uprchlíky, kteří představují různé knihy; Guy se jedním takovým stal. Na město na konci dopadá atomová bomba. 
+  Guy Montag je požárník budoucnosti; místo toho, aby oheň hasil, podpaluje knihy (z toho název - při teplotě 451° Fahrenheita hoří papír) a pomáhá tak režimu držet kontrolu nad obyvatelstvem. Jednoho dne potká Clarissu, která mu pomůže vytrhnout se z monotónnosti života a vzbouřit se zachráněním knihy před ohněm. Doma má manželku Mildred, která tráví všechen svůj čas s “rodinkou” a už není schopná racionálně uvažovat. Mezitím co je Clarissa i s její rodinou odstraněna, začne něco větřit jeho velitel Beatty. Zjistí se, že doma ukrývá mnoho knih a s pomocí Fabera, bývalého a vystrašeného profesora, se dá před “spravedlností” na útěk. Ten se mu povede a setká s dalšími uprchlíky, kteří představují různé knihy; Guy se jedním takovým stal. Na město na konci dopadá atomová bomba. 
 
   *Literárně historický kontext*\
-  Na pozadí studené války, moderní technologie, hrozba atomové apokalipsy
+  Na pozadí studené války, moderní technologie, hrozba atomové apokalypsy. Velmi brzo přeloženo do češtiny, ovšem obratem zakázáno režim
 ]
 
 #pagebreak()
