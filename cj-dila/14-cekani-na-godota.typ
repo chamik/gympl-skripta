@@ -12,13 +12,13 @@
       Překlad: _P. Ouředník_ 
 
       #colbreak()
-      Období: *Někdy* \
-      Země: *Někde*
+      Období: *poválečné* \
+      Země: *Irsko*
 
       #colbreak()
-      Rok vydání: *Někdy* \
-      L. druh: *něco* \
-      L. žánr: *něco*      
+      Rok vydání: *1952* \
+      L. druh: *drama* \
+      L. žánr: *absurdní drama*      
   ]]
 )
 
@@ -53,6 +53,7 @@
   Snažit se jakkoliv příběhově zkoumat, co se děje, je skvělý způsob jak zjistit, jaké to musí být po lobotomii. 
 
   *Literárně historický kontext*\
+  Je to jedno z nejhranějších dramat dvacátého století.
 
 ]
 

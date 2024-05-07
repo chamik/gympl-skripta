@@ -131,6 +131,9 @@ todo: British school system
   - trad climbing
   - urban climbing
   - solo track (in a foreign country)
+- how i travel
+  - public transport: bus and train (Prague is the best)
+  - by car -- i don't drive much and i am worried that i will forget it
 
 == Learning languages, English as a world language <worldlang>
 why to learn english? -- #underline[colonization], world powers, it's simple\
@@ -184,7 +187,7 @@ Cockney -- non-educated folk, comes from australian english prisoners, Pygmalion
 *anti-vaccine movement*
 - inoculation observed as early as 200 BCE
 - variolation against small pox in 15th century
-- (first and only) eradication of a disease -- small pox -- thanks in 1970 to vaccines
+- (first and only) eradication of a disease -- small pox -- 1970 vaccines
 
 *healthy lifestyle*
 - 20% of teenagers in the USA are considered obese (and it's being normalized)
@@ -310,24 +313,138 @@ divorced, beheaded, survived
 
 == The USA
 
+1. Geography and Landscape: Discuss the diverse geography of the United States, including its vast plains, towering mountains (like the Rockies and the Appalachians), deep canyons (such as the Grand Canyon), and expansive coastlines along the Atlantic, Pacific, and Gulf of Mexico.
+
+2. Demographics: Talk about the multicultural nature of the United States, with people from diverse ethnic backgrounds, religions, and cultures living together. Highlight major cities like New York City, Los Angeles, and Chicago as melting pots of different cultures.
+
+3. History: Briefly cover key moments in American history, such as the American Revolution, the Civil War, and the Civil Rights Movement. Mention iconic figures like George Washington, Abraham Lincoln, and Martin Luther King Jr.
+
+4. Government and Politics: Discuss the United States government structure, including the separation of powers between the executive, legislative, and judicial branches. Talk about the President, Congress, and the Supreme Court.
+
+5. Economy: Highlight the USA's status as one of the world's largest economies, driven by industries such as technology, finance, entertainment, and manufacturing. Discuss major companies like Apple, Google, and Walmart.
+
+6. Culture: Explore American cultural exports, such as Hollywood movies, TV shows, music (including genres like jazz, blues, rock, and hip-hop), literature, and art. Discuss the influence of American culture globally.
+
+7. Sports: Mention popular American sports like baseball, basketball, American football, and soccer. Discuss major leagues such as the NFL, NBA, MLB, and MLS, as well as iconic athletes like Michael Jordan, Serena Williams, and Tom Brady.
+
+8. Education: Highlight the importance of education in the United States, including its prestigious universities like Harvard, MIT, and Stanford. Discuss the education system, including primary, secondary, and higher education.
+
+9. Technology and Innovation: Talk about the USA's role as a global leader in technology and innovation, with companies like Silicon Valley giants (such as Google, Facebook, and Tesla) driving advancements in fields like artificial intelligence, biotechnology, and renewable energy.
+
+10. National Parks and Landmarks: Mention iconic landmarks and national parks in the United States, such as the Statue of Liberty, Mount Rushmore, Yellowstone National Park, and the Everglades.
+
 == Canada
+
+_Basic info_
+- North America
+- 40 million people
+- Capital: Ottawa
+- Bordered with USA (Alaska in west, 12 states in south)
+- Atlantic, Pacific and Arctic ocean
+- 2nd largest country by total area (land plus water)
+- 10 provinces. 3 territories (Northwest territories, Yukon, Nunavut)
+_Geography_
+- 80 % of land uninhabited
+- North not suited for living – cold, rocks, snow
+- Mountain ranges: Rocky Mountains, Coast Mountains, St. Elias Mountains
+- Highest peak: Mount Logan (5 959 m, Yukon)
+- Rivers: Mackenzie – longest, Yukon, St, Lawrence, Columbia, Saskatchewan
+- Lakes – Erie, Superior, Huron, Ontario, Michigan
+- Peninsula: The Ontario Peninsula
+- Islands: Baffin Island, Victoria Island, Ellesmere Island, Devon Island
+- Lowest point: Great Slave Lake Bottom – Northwest territories
+_Politics_
+- Federal constitutional monarchy
+- Parliamentary democracy
+- Head of the state: monarcho of UK; represented by governor general in Canada
+- Head of the government: prime minister
+- Parliament
+- Senate (105 members, appointed by governer general)
+- House of Commons (338 members, elected by citizens)  
+- Fixed election dates for every four years on the third Monday of October
+_Economy_
+- Currency: Canadian dollar
+- Service sector (75 %)
+- Sub-sectors, health care, finance, education, food, retail
+- Farmers – provinces of Alberta, Saskatchewan, Manitoba
+- Wheat, corn, oilseed, cattle, pigs
+- Manufacturing – Ontario, Quebec
+- Trade 
+- Most with USA
+- Energy resources (oil, chemical fuels, electricity, natural gas), raw natural resources (aluminium, gold, nickel)
+- NATO, G7, APEC, OECD
+_History_
+- Indegineous people (Inuits)
+- Late 15th century – European exploration
+- Cartier clamed the land for France
+- New France – Quebec city was founded in 1608
+- British Conquest – The Seven Years War (1756–63) – Treaty of Paris  Britain in control
+- American Revolution – 1791 – Lower and Upper Canada (French and English speaking population)
+- War of 1812 – battleground of war between US and Britain 
+- Dominion – 1867
+- Canadian Pacific Railway – 1885, coast to coast
+- Ofiicial Languages Act – 1969 – English and French the official languages of federal government
+- Constitution – 1982, power over its constitution
+_Sports_
+  - Ice hockey – NHL, Montreal Canadians
+  - Canadian football
+  - Inspired by american football
+  - CFL
+  - Lacrosse, baseball, curling, football
+_Cities_
+- Toronto 
+  - Ontario
+  - Most populous and famous
+  - International centre pf business, finance, art, culture
+  - Atlantic shipping through the Great Lakes – trading centre with USA
+- Montreal 
+  - Quebec 
+  - French-speaking city + French culture
+  - Old-town – 17th century architecture
+- Quebec city
+  - Quebec
+  - French-speaking 
+  - Saint Lawrence river 
+  - One of the oldest European settlements in North America
+- Ottawa
+  - Capital
+  - Borders between french and english area
+  - Most important government institutions
+- Calgary
+  - Center of oil and gas industry
+- Vancouver
+  - British Columbia
+  - Vancouver international airport
+  - Trading hub with Asia
+  - Sights
+  - Stanley Park (Vancouver)
+  - Niagara Falls
+  - CN Tower – Toronto
+- Personalities
+  - The Weekend
+  - Justin Bieber
 
 == Australia
 
 == Our town and district (Mělník)
-
-Founded by the tribe of Pšovans. Settled at the #underline[confluence] of the two main Czech rivers, Elbe and Vltava.
+Founded by the tribe of Pšovans. Located in the #underline[fertile lowlands] at the #underline[confluence] of the two main Czech rivers, Elbe and Vltava.
+First settlement by #underline[Pšovans] at the top of the hill. 
 
 It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Czech queens used to live here.
+
 
 *Places of interest*:
 - St. Peter and Paul church
   - #underline[ossuary] (kostnice) by Matiegky (škola na pražský se jmenuje podle něj)
+  - the tower is not part of the church 
+    - the tower is about the same height as the depth of the well
 - #underline[cloister] in Kapucín church (nowadays a museum)
 - Prague gate (used to be part of city walls)
 - well (widest in ČR)
 - underground (used for storage or shelter)
 - Vladimírovo vokno, Cihelna
+- Vila Carola -- used to be a library, now the local art school
+- houses with #underline[gables] (blue star)
 
 *People*:
 - princess Emma (denáry)
@@ -338,9 +455,7 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
 - Straka (veslař??)
 
 *Schools, culture, sports*
-xd
 - there used to be a cinema
-
 
 *Traditions*
 - farmer's markets

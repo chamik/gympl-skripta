@@ -38,6 +38,9 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #pagebreak()
 
 // Světová a česká literatura do konce 19. století
+#include("/cj-dila/1-kulicka.typ")
+#include("/cj-autori/maupassant.typ")
+
 #include("/cj-dila/2-havran.typ")
 #include("/cj-autori/poe.typ")
 
@@ -57,6 +60,8 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #include("/cj-autori/exupery.typ")
 
 // Česká literatura 20. a 21. století
+#include("/cj-dila/9-ceske-nebe.typ")
+
 #include("/cj-dila/10-bila-nemoc.typ")
 #include("/cj-dila/11-rur.typ")
 #include("/cj-autori/capek.typ")
@@ -67,6 +72,8 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 // Ostatní
 #include("/cj-dila/14-cekani-na-godota.typ")
 #include("/cj-autori/beckett.typ")
+
+#include("/cj-dila/15-kytice.typ")
 
 #include("/cj-dila/17-hana.typ")
 

@@ -27,7 +27,7 @@ Ernest Hemingway byl americký spisovatel, narozený 21. července 1899 a zemře
 
 Hemingwayho názory byly formovány jeho osobními zkušenostmi a vnímáním světa kolem něj. Byl známý svou maskulinní image a láskou k dobrodružství a riziku. Jeho literatura často reflektovala jeho zájem o témata jako je mužnost, síla lidské vůle a existence v tvrdých podmínkách.
 
-Umělecky Hemingway zastupoval literární směr známý jako modernismus, ve kterém byl charakteristický jednoduchým a strohým stylem psaní, který se soustředil na esenciální prvky a vyhýbal se zbytečným zdobením. Jeho díla jsou často považována za příklad tzv. "ledového kopce", kde pod povrchem zdánlivě jednoduchých situací skrývá složité a hluboké emocionální a filozofické témata.
+Umělecky Hemingway zastupoval literární směr známý jako modernismus, ve kterém byl charakteristický jednoduchým a strohým stylem psaní, který se soustředil na esenciální prvky a vyhýbal se zbytečným zdobením. Jeho díla jsou často považována za příklad tzv. "metody ledovce", kde pod povrchem zdánlivě jednoduchých situací skrývá složité a hluboké emocionální a filozofické témata.
 
 Pro víc info viz otázku a angličtiny #underline[@hemingway[]].
 

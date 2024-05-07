@@ -25,7 +25,7 @@
 
 Antoine de Saint-Exupéry byl francouzský spisovatel, letec a filozof, narodil se 29. června 1900 a zemřel 31. července 1944. Jeho život byl poznamenán nejen válečnými zkušenostmi, ale i fascinací letectvím a touhou po pochopení lidské podstaty.
 
-Exupéryova éra spadá do období mezi dvěma světovými válkami a druhou světovou válkou, což ovlivnilo jeho pohled na svět. Byl svědkem rozpadu starých řádů a vzestupu totalitarismu, což se promítlo do jeho díla, kde se často zabýval tématy jako je smysl života, lidská solidarita a utrpení.
+Exupéryova éra spadá do období mezi dvěma světovými válkami, což ovlivnilo jeho pohled na svět. Byl svědkem rozpadu starých řádů a vzestupu totalitarismu, což se promítlo do jeho díla, kde se často zabýval tématy jako je smysl života, lidská solidarita a utrpení.
 
 Umělecky Exupéry zastupoval především literární směr známý jako existencialismus, ve kterém se zkoumají otázky lidské existence a svobody. Jeho díla jsou poznamenána hlubokou melancholií a touhou po smyslu a lidské blízkosti.
 
