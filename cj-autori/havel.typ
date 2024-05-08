@@ -23,6 +23,8 @@
   ]]
 )
 
+Spoluzakladatel Charty 77, pět let byl vězněn, během normalizace (1969--1989) měl zakázáno publikovat.
+
 V letech 1989, 1990, 1993 a 1989 byl poslanci zvolen za prezidenta republiky. Byl členem politické strany Občanské fórum.
 
 Nejslavnější díla napsal během normalizace. Psal dramata, básně a eseje.

@@ -54,10 +54,6 @@ Sládek během hry vypije spoustu piv.
   *Literárně historický kontext*\
   Normalizace = utužování síly komunistů. Postava Ferdinand Vaněk se objevuje v několika dílech od různých autorů. Na hru navazuje drama Jiří Dienstbier -- Příjem. Hra nemohla vyjít, Havel měl zákaz, hrála se v zahraničí nebo potají.
 
-  Současníci:\
-  Samuel Beckett -- absurdní drama Čekání na Godota (#underline[@godot[]]),\
-  Franz Kafka -- povídka Proměna (#underline[@promena[]]),\
-  Milan Kundera -- Žert
 ]
 
 #pagebreak()
