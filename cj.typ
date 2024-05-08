@@ -17,7 +17,7 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 5. Stařec a moře -- _Hemingway Ernest_
 6. Proměna -- _Kafka Franz_
 7. Farma zvířat -- _Orwell George_
-8. Malý princ -- _Sain Exupéry Antonie de_ 
+8. Malý princ -- _Sain Exupéry Antonie de_
 
 *Česká literatura 20. a 21. století* (5 knih)
 9. #highlight("České nebe", fill: green) -- _Cimrman, Smoljak, Svěrák_
@@ -74,6 +74,9 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #include("/cj-autori/beckett.typ")
 
 #include("/cj-dila/15-kytice.typ")
+
+#include("/cj-dila/16-audience.typ")
+#include("/cj-autori/havel.typ")
 
 #include("/cj-dila/17-hana.typ")
 
