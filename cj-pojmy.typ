@@ -48,6 +48,7 @@ např.: _publicistický_ + _informační_ = zprávy, inzerát, reklama
 - _elipsa_ -- vypuštění části věty tak, že si vynechaná slova lze domyslet
 - _apoziopeze_ -- nedokončená nebo přerušená výpověď, často značená třemi tečkami 
 - _apostrofa_ -- oslovení neživé věci nebo nepřítomné osoby
+- _enumerace_ -- výčet
 
 *Tropy* spočívají v přenášení slovního významu - autor nemyslí úplně doslovně to, co píše, ale je v tom nějaká podobnost nebo souvislost.
 
@@ -65,7 +66,7 @@ např.: _publicistický_ + _informační_ = zprávy, inzerát, reklama
 
 Tyhle se z nějakého důvodu neřadí ani do jednoho.
 
-- _efuemismus_ -- zmírňuje negativní význam
+- _eufemismus_ -- zmírňuje negativní význam
 - _dysfemismus_ -- zhrubšuje negativní významy
 - _libozvučnost_ -- zní to hezky 
 - _kakofonie_ -- nezní to hezky

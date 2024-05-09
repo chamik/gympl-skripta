@@ -69,6 +69,9 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #include("/cj-dila/12-krysar.typ")
 #include("/cj-autori/dyk.typ")
 
+#include("/cj-dila/13-tezka-hodina.typ")
+#include("/cj-autori/wolker.typ")
+
 // Ostatní
 #include("/cj-dila/14-cekani-na-godota.typ")
 #include("/cj-autori/beckett.typ")
