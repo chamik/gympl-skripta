@@ -34,13 +34,13 @@ a pro spravedlnost jeho šel se bít.
 Dřív než moh' srdce k boji vytasit,
 zemřel -- mlád dvacet čtyři let.]
 
+Po jeho smrti se kolem něj vytvořil kult osobnosti, který byl často kritizován.
+
 Mezi jeho známá díla patří:
 
 1. *Host do domu* -- básnická sbírka z roku 1920, která se zabývá válečnou tematikou a vyjadřuje emocionální a psychologické důsledky války, jako je zoufalství, osamělost a smrt.
 
 2. *Tři hry* -- sbírka divadelních her Nemocnice, Hrob a Nejvyšší oběť.
-
-Po jeho smrti se kolem něj vytvořil kult osobnosti, který byl často kritizován.
 
 *Současníci*\
 _Stanislav Kostka Neumann_ -- Pozdrav T. G. Masarikovi, 1918 \

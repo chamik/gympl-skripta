@@ -426,6 +426,32 @@ _Cities_
 
 == Australia
 
+- Commonwealth of Australia
+- criminal background, poor conditions, 1800
+- Aboriginals -> murders, slavery, taboo history, now live in cities, reservations are shrinking, the traditions are dying out
+- mount Uluru, you can't climb it anymore, sacred for aboriginals
+- australian English
+- last discovered continent (New Zealand discovered after that), duch marines first, James Cook made in an english colony
+- flag -> union jack, southern cross constellation, 6 states & 1 territory
+- nature
+  - north -> tropical rain forest, dry, tropical, dryest continent
+  - endemic animals -> kangaroos, #underline[marsupials], black widow
+  - problems with rabbits -> no natural predators
+  - dingos
+  - sharks -> great, white, tiger
+  - great barrier coral reef 
+  - deadly jellyfish
+- economy 
+  - deal with Japan -> Australia has a lot of natural resources
+  - oil, coal 
+  - biggest exporters of beef
+  - wheat, wool
+  - biggest exporter of opals -> funny fields with holes where no one will find you if you fall in
+- villages similar to America -- one farm (station) with fields
+- home schooling
+- flying doctors
+
+
 == Our town and district (Mělník)
 Founded by the tribe of Pšovans. Located in the #underline[fertile lowlands] at the #underline[confluence] of the two main Czech rivers, Elbe and Vltava.
 First settlement by #underline[Pšovans] at the top of the hill. 
