@@ -33,6 +33,7 @@
   *Postavy*\
   _(Ferdinand) Vaněk_ -- spisovatel, inteligentní, musí pracovat v pivovaru, autorovo alter ego, ušlechtilý, spisovný jazyk\
   _Sládek_ -- nadřízený Vaňka, jednoduchý buran, opilec\
+
   zmíněni:\
   herečka Jiřina "Bohdalka" Bohdalová,\
   zpěvák Karel Gott,\

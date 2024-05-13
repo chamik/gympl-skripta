@@ -55,6 +55,8 @@
   *Literárně historický kontext*\
   Je to jedno z nejhranějších dramat dvacátého století.
 
+  #image("cekani_na_godota.png")
+
 ]
 
 #pagebreak()

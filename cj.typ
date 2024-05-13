@@ -52,6 +52,7 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #include("/cj-autori/hemingway.typ")
 
 #include("/cj-dila/6-promena.typ")
+#include("/cj-autori/kafka.typ")
 
 #include("/cj-dila/7-farma-zvirat.typ")
 #include("/cj-autori/orwell.typ")
@@ -61,6 +62,7 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 
 // Česká literatura 20. a 21. století
 #include("/cj-dila/9-ceske-nebe.typ")
+#include("/cj-autori/sverak-smoljak.typ")
 
 #include("/cj-dila/10-bila-nemoc.typ")
 #include("/cj-dila/11-rur.typ")
@@ -82,8 +84,10 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #include("/cj-autori/havel.typ")
 
 #include("/cj-dila/17-hana.typ")
+#include("/cj-autori/mornstajnova.typ")
 
 #include("/cj-dila/18-lovci-hlav.typ")
+#include("/cj-autori/nesbo.typ")
 
 #include("/cj-dila/20-na-zapadni-fronte-klid.typ")
 

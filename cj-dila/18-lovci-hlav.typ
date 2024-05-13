@@ -55,4 +55,37 @@
 
 *Ukázka*
 
+„A vaše žena se jmenuje…“ Listoval jsem jeho papíry a nasadil jsem podrážděný výraz, který dává kandidátům na srozuměnou, že od nich očekávám převzetí iniciativy.
+
+„Camilla. Jsme manželé deset let. Máme dvě děti. Chodí
+do školy.“
+
+„A jak byste popsal své manželství?“ zeptal jsem se, aniž
+jsem vzhlédl. Dal jsem mu dvě dlouhé vteřiny, a když se ani
+poté nezmohl na odpověď, pokračoval jsem: „Myslíte si, že
+jste ještě stále manželé, ačkoli jste teď šest let trávil dvě třetiny svého bdělého života v práci?“
+
+Vzhlédl jsem. Úděs v jeho pohledu byl očekávaný. Jsem
+nekonsekventní. Vyrovnaný život. Nasazení. To nedává smysl.
+Trvalo čtyři vteřiny, než odpověděl. Což je nejméně o vteřinu déle, než by mělo.
+
+„To doufám.“
+
+Jistý, natrénovaný úsměv. Ale ne dost dobře natrénovaný. Ne pro mě. Obrátil moje vlastní slova proti mně a já
+bych si to poznamenal jako plus, pokud by to byla záměrná
+ironie. V tomto případě však bohužel nevědomě napodobil
+slova člověka, jehož považoval za nadřazeného. MIZERNÉ
+SEBEHODNOCENÍ, poznamenal jsem si. Navíc „doufal“,
+nevěděl to, nevyjádřil své vize, nečetl z křišťálové koule, nebylo mu jasné, že základním požadavkem na každého manažera je to, aby se dokázal tvářit jako jasnovidec.
+
+NENÍ IMPROVIZÁTOR. NENÍ KRIZOVÝ MANAŽER.
+
+„Vaše žena pracuje?“
+
+„Ano. V jedné advokátní firmě v centru.“
+
+„Každý den od devíti do čtyř?“
+
+„Ano.“
+
 #pagebreak()
