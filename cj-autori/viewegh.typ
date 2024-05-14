@@ -5,7 +5,7 @@
   radius: 4pt,
   width: 100%,
   [#columns(3, gutter: 5pt)[
-      *Michal Viewegh* \
+      *Michal Viewegh [michal vývek]* \
       \*1962
 
       spisovatel, publicista, fejetonista
