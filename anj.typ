@@ -86,6 +86,9 @@ _do we eat to live or live to eat?_
   [usually cheaper], [can get expensive],
   [usually healthier], [can be "junk food"],
 )
+
+- cooking is uniquely human -- no other species prepares its food like we do
+- bread is one of the most important inventions of humankind -> it allowed us to store large amount of energy and travel large distances
 - favorite foods to cook at home: sushi, pancakes, guacamole
 - favorite foods to take out: chinese/vietnamese, pizza
 - i don't enjoy eating liver
@@ -378,7 +381,7 @@ _History_
 - Late 15th century – European exploration
 - Cartier clamed the land for France
 - New France – Quebec city was founded in 1608
-- British Conquest – The Seven Years War (1756–63) – Treaty of Paris  Britain in control
+- British Conquest – The Seven Years War (1756–63) – Treaty of Paris -> Britain in control
 - American Revolution – 1791 – Lower and Upper Canada (French and English speaking population)
 - War of 1812 – battleground of war between US and Britain 
 - Dominion – 1867
@@ -491,12 +494,251 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
 
 == Prague
 
+- General information
+  - The capital and biggest in CR
+  - The heart of Europe
+  - The seat of goverment
+  - Population: over 1 000 000
+  - The highest point: Teleček
+  - The Vltava river
+  - 22 administrative districts
+  - Mayor 
+  - Central Bohemian region
+- Politics
+  - President: The Prague Castle
+  - Goverment: The Straka Academy
+  - Senate: Wallenstein Pallace
+  - Parliament (Chamber of Deputies): Thun Palace
+- History
+  - Legend – mythical Libuše – predicted
+  - 14th century – Charles IV.
+  - Rudolf II.
+  - Ferdinand II. 
+- Economy
+  - 90 % services
+  - Food industry: Staropramen, Vitana, Delta bakeries
+  - Mechanical industry: ČKD, Avia
+  - Chemical + constraction industry: Astrid, Zentiva, Druchema
+  - Film industry: Barrandov
+  - Textil: Blažek
+- Transport
+  - PID
+  - Metro
+  - Main Train Station, Airport
+- Sights
+  - The town of hundred spires
+  - Prague Castle
+    - St. Vitus Cathedral – crown jewels, gothic 
+  - Lesser Town 
+    - The Lesser Town Square
+    - St. Nicholas Church
+    - Lennon´s wall
+  - Charles Bridge
+    - Charles IV.
+  - Old Town 
+    - St. Nicholas Church
+    - Orloj – medieval astronomic clock
+    - Statue of Jan Hus
+    - Church of Our Lady before Týn
+    - Christmas Markets
+  - Josefov – Jewish quater
+    - Old Jewish Cemetary
+    - Maisel Synagogue 
+  - Vyšehrad
+    - Cemetery Slavín
+  - Petřín Tower
+  - Charles University
+- Entertainment
+  - Theatres – Semafor
+  - Prague ZOO
+  - Prague botanical garden
+  - Parks – Letná, Stromovka
+- Important personalities
+  - Franz Kafka, Václav Havel, Karel Čapek, Emil Zátopek
+
 == The Czech Republic
+
+- Geography
+  - Central europe
+  - Landlocked country
+  - Bordered by Germany, Austria, Slovakia, Poland
+  - Highest mountain: Sněžka (1603 m)
+  - Longest river: Vltava
+  - Biggest river: Elbe
+  - Major mountain ranges: Krkonošské mountains, Šumava, Jeseníky
+  - 14 regions, 3 lands
+  - 4 NPs (Krkonoše, Šumava, Podyjí, Czech Switzerland)
+- Basic info
+  - Also known as Czechia
+  - Continental and oceanic climate
+  - Capital and largest city: Prague
+  - Over 10,5 million people
+  - Currency: Czech crown
+  - Official language: Czech
+  - Atheist country
+- Political systém
+  - Parliamentary representative democracy
+  - Bicameral parliament
+    - Chambre of deputies
+    - Senate
+  - The president = formal head of state
+    - Limited powers
+    - Appoints the prime minister
+    - Petr Pavel
+  - Prime minister: Petr Fiala
+- Specific features and symbols
+  - Beer 
+    - Pilsner Urquel, Budweiser Budvar, Staropramen
+  - Symbols – coat od arms
+    - National anthem: Kde domov můj
+    - National flag
+  - Czech cuisine heavy and meaty
+  - Industries
+    - Glass, ceramics, cars -- "assembly line of Europe"
+- Culture
+  - Art
+    - Alfons Mucha
+  - Architecture
+    - Centre of Prague – Astronomical Clock, Prague Castle
+    - UNESCO sights
+  - Literature 
+    - Seifert – The Nobel Prize
+    - Kafka
+  - Music
+    - Antonín Dvořák, Leoš Janáček, Bedřich Smetana
+- History
+  - 6th century -> Slavs in Bohemia
+  - Samo's empire
+  - 12th century -> Přemyslid dynasty
+  - Charles IV. -> The father of the country
+  - Hussite Revolution -> Jan Hus
+  - The Habsburg Monarchy
+- Transport
+  - Václav Havel international Airport
+  - Prague metro – 3 lines (4)
+  - Public transport in every city
+- Sports
+  - Football and hockey
+  - Basketball, volleyball, handbal, athletics, floorball
+  - Ice hockey – olympic gold Nagano 1998
+- Significant personalities
+  - Václav Havel
+  - Tomáš Garrigue Masaryk
+  - Karel Čapel
 
 == Problems of the world I. -- environment
 
+1. Climate Change:
+
+    Causes: greenhouse gas emissions, deforestation, fossil fuel consumption.
+    Effects: rising global temperatures, melting polar ice caps, sea-level rise, extreme weather events.
+    Solutions: renewable energy sources, international agreements (e.g., Paris Agreement), individual actions (e.g., reducing carbon footprint).
+
+2. Pollution:
+
+    Types: air pollution, water pollution, soil contamination, plastic pollution.
+    Sources: industrial emissions, vehicle exhaust, agricultural runoff, improper waste disposal.
+    Consequences: health issues (respiratory problems, waterborne diseases), ecosystem damage, loss of biodiversity.
+
+3. Deforestation:
+
+    Causes: logging, agricultural expansion, urbanization.
+    Impact: loss of habitat for species, disruption of water cycles, contribution to climate change.
+    Mitigation: reforestation, sustainable forestry practices, conservation efforts.
+
+4. Loss of Biodiversity:
+
+    Causes: habitat destruction, pollution, overfishing, climate change.
+    Importance: ecosystem balance, medical discoveries, agricultural resilience.
+    Preservation: protected areas, wildlife conservation laws, restoration projects.
+
+5. Water Scarcity:
+
+    Reasons: overuse of water resources, pollution, climate change effects on precipitation.
+    Impacts: agricultural productivity, human health, regional conflicts.
+    Solutions: efficient water use, desalination technology, improved infrastructure.
+
+6. Sustainable Development:
+
+    Definition: meeting current needs without compromising the ability of future generations.
+    Examples: green buildings, sustainable agriculture, circular economy.
+    Importance: long-term environmental health, economic stability, social equity.
+
 == Problems of the world II. -- social problems, lethal diseases
 
+1. Poverty:
+
+    Causes: unemployment, lack of education, economic disparity.
+    Effects: malnutrition, lack of access to healthcare and education, social exclusion.
+    Solutions: economic policies for job creation, educational programs, social safety nets.
+
+2. Inequality:
+
+    Types: economic, gender, racial, and social inequality.
+    Impacts: limited opportunities for marginalized groups, social unrest, hindered economic growth.
+    Remedies: affirmative action, inclusive policies, education and awareness campaigns.
+
+3. Homelessness:
+
+    Reasons: housing affordability crisis, unemployment, mental illness, substance abuse.
+    Consequences: poor health, increased crime rates, social isolation.
+    Solutions: affordable housing projects, mental health support, job training programs.
+
+4. Human Rights Violations:
+
+    Examples: political oppression, discrimination, gender-based violence.
+    Consequences: social instability, refugee crises, global condemnation.
+    Actions: international treaties, advocacy, sanctions against violators.
+
+#hrule()
+
+1. HIV/AIDS:
+
+    Transmission: unprotected sex, blood transfusions, mother-to-child.
+    Effects: weakened immune system, social stigma, high mortality.
+    Prevention/Treatment: antiretroviral therapy (ART), education on safe practices, needle exchange programs.
+
+2. Cancer:
+
+    Types: lung, breast, prostate, colorectal, etc.
+    Risk factors: smoking, diet, genetic predisposition, environmental exposures.
+    Treatments: surgery, chemotherapy, radiation, immunotherapy.
+
+3. Cardiovascular Diseases:
+
+    Examples: heart attacks, strokes, hypertension.
+    Causes: unhealthy diet, lack of exercise, smoking, genetic factors.
+    Prevention: healthy lifestyle choices, regular medical check-ups, public health initiatives.
+
+4. COVID-19:
+
+    Origin: SARS-CoV-2 virus.
+    Impact: global pandemic, high mortality, long-term health effects (Long COVID).
+    Response: vaccines, public health measures (masks, social distancing), antiviral treatments.
+
 == Problems of the world III. -- addictions
+
+- Substance Addictions:
+
+  Alcohol: prevalence, social acceptance, health risks (liver disease, heart problems), impact on families.
+
+        Drugs: opioids, cocaine, marijuana, methamphetamines; effects on physical and mental health, addiction cycle.
+
+        Nicotine: smoking and vaping, health consequences (lung cancer, respiratory issues), addiction mechanisms.
+
+- Behavioral Addictions:
+
+        Gambling: financial ruin, family breakdowns, mental health issues.
+
+        Internet and Gaming: impact on social skills, physical health problems, interference with daily responsibilities.
+
+        #underline[Social networks] especially dangerous for teenagers
+
+        Shopping: financial consequences, underlying emotional issues, compulsive behavior patterns.
+
+- brain chemistry, dopamine reward system
+- Peer pressure and social norms.
+- Availability and accessibility of substances or behaviors.
+- Socioeconomic status and living conditions.
 
 == Media and technology

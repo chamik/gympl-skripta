@@ -51,20 +51,8 @@
   *Obsah*\
   Gymnazista Pavel po přemlouvání svým třídním učitelem Kantorkem narukuje se svojí třídou do armády, aby bojoval v WWI. Po několika týdenním výcviku pod přísným dohledem Himmelstose se ocitá na frontě. Tam zjišťuje, že válčit je jediná věc, kterou doopravdy dokáže. Zároveň zažívá smrt svých blízkých přátel. Je propuštěn na dovolenou; doma potkává svoji umírající matku a zjišťuje, že už ani tady si nepřijde svůj. Zpátky na frontě zabíjí vlastníma rukama francouzského vojáka. Přežívá jen díky jakési odtažitosti k tomu, co doopravdy dělá. V rukou mu umírá jeho poslední žijící spolužák, když ho raněného nese k lékaři. Sám umírá pár měsíců před koncem války.
 
-
   *Literárně historický kontext*\
   Poměrně jasný.
-
-  *Autor*\
-  Sám zažil první i druhou světovou válku. Jasná inspirace ztracené generace; válečná literatura. Díla mají působit jako svědectví a varování, proto v době vydání byly velmi úspěšné.
-
-  *Další díla*\
-  Jiskra života -- popis posledních dní v koncentračním táboře \
-  Černý obelisk -- osudy vojáků WWI
-
-  *Současníci*\
-  J. Hašek - Dobrý voják Švejk, 1921 \
-  E. Hemingway (#underline[@hemingway[]]) - Sbohem armádo, 1929
 ]
 
 #pagebreak()

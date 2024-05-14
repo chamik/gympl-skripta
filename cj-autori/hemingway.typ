@@ -40,6 +40,6 @@ Mezi jeho známá díla patří:
 *Současníci*\
 _Romaine Rolland_ -- Petr a Lucie, 1920 \
 _Erich Maria Remarque_ -- Na západní frontě klid (#underline[@zapadni[]]), 1928\
-_Jaroslav Hašek_ --Osudy dobrého vojáka Švejka, 1923\
+_Jaroslav Hašek_ -- Osudy dobrého vojáka Švejka, 1923\
 
 #pagebreak()

@@ -44,6 +44,9 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #include("/cj-dila/2-havran.typ")
 #include("/cj-autori/poe.typ")
 
+#include("/cj-dila/3-romeo-a-julie.typ")
+#include("/cj-autori/shakespeare.typ")
+
 // Světová literatura 20. a 21. století
 #include("/cj-dila/4-451-stupnu-fahrenheita.typ")
 #include("/cj-autori/bradbury.typ")
@@ -89,7 +92,10 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #include("/cj-dila/18-lovci-hlav.typ")
 #include("/cj-autori/nesbo.typ")
 
+// EDISON
+
 #include("/cj-dila/20-na-zapadni-fronte-klid.typ")
+#include("/cj-autori/remarque.typ")
 
 // Konec děl
 #include "/cj-pojmy.typ"
