@@ -89,7 +89,14 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #include("/cj-dila/18-lovci-hlav.typ")
 #include("/cj-autori/nesbo.typ")
 
+#include("/cj-dila/19-edison.typ")
+#include("/cj-autori/nezval.typ")
+
 #include("/cj-dila/20-na-zapadni-fronte-klid.typ")
+
+#if marian {
+    include("/cj-dila/m19-petr-a-lucie.typ")
+}
 
 // Konec děl
 #include "/cj-pojmy.typ"

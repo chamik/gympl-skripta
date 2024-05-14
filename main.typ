@@ -1,3 +1,5 @@
+#import "helper.typ": *
+
 #set document(title: [Gympl Skripta], author: "Jakub Hampl", date: auto)
 #set page(paper: "a4")
 #set heading(numbering: "1.")
@@ -30,8 +32,8 @@
     v(12pt, weak: true)
     strong(it)
   }
-  
- #outline(title: "Rejstřík", indent: auto) 
+
+ #outline(title: "Rejstřík", indent: auto)
 ]
 
 #pagebreak()
@@ -40,7 +42,11 @@
 #set page(numbering: "1")
 #include "cj.typ"
 
-#set page(numbering: none)
-#titlepage("Anglický jazyk")
-#set page(numbering: "1")
-#include "anj.typ"
+#if not marian [
+    #set page(numbering: none)
+    #titlepage("Anglický jazyk")
+    #set page(numbering: "1")
+    #include "anj.typ"
+] else [
+      #heading(level: 1, "Hemingway vyprcanej") <hemingway>
+]
