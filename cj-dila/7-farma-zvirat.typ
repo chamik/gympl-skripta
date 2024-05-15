@@ -6,7 +6,7 @@
   radius: 4pt,
   width: 100%,
   [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Farma Zvířat") <farma>
+      #heading(level: 3, "Farma zvířat") <farma>
       Autor: *George Orwell* (*Eric Arthur Blair*) \
       Překlad: _G. Goessel_
 
@@ -24,20 +24,20 @@
 #columns(2, gutter: 1em)[
   *Téma*\
   kritika komunistického režimu, zejména v tehdejším SSSR
-  
+
   *Motivy*\
   pokrytectví, totalitní režimy, politika
 
   *Časoprostor*\
   na Anglické farmě v době autora (v době existence SSSR)
-  
+
   *Postavy* \
-  _Major_ - prase, které přišlo s myšlenkou revoluce na farmě \
-  _Napoleon_ - kruté prase, které vydobíjí respekt silou \
-  _Kuliš_ - učil ostatní prasata číst a psát, nakonec vyhnán \
-  _Pištík_ - pravá ruka Napoleona \
+  _Major_ - prase, které přišlo s myšlenkou revoluce na farmě; Marx/Lenin \
+  _Napoleon_ - kruté prase, které vydobíjí respekt silou; Stalin \
+  _Kuliš_ - učil ostatní prasata číst a psát, nakonec vyhnán; Trockij \
+  _Pištík_ - pravá ruka Napoleona; propagandista \
   _Boxer_ - pracovitý kůň, který je na konci zrazen \
-  _Pan Jones_ - bývalý majitel farmy vyhnán (a nahrazen) zvířaty
+  _Pan Jones_ - bývalý majitel farmy vyhnán (a nahrazen) zvířaty; kulak/buržoust
 
   *Kompozice* -- chronologická, kapitoly
 

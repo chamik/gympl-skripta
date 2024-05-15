@@ -7,7 +7,7 @@
   [#columns(3, gutter: 5pt)[
       *Franz Kafka* \
       1883--1924 (40 let)
-      
+
       úředník pojišťovny
 
       #colbreak()
@@ -16,14 +16,14 @@
       práva na UK
 
       #smallcaps("směr")\
-      existencionalismus
-      
-      #colbreak()    
+      existencialismus
+
+      #colbreak()
       #align(center, image("/cj-autori/media/kafka.jpg", height: 3.5cm))
   ]]
 )
 
-Byl součástí takzvané #underline[pražské německé školy], což byli autoři kteří působili v Praze v druhé polovině 19. a na začátku 20. století. Převážně to byli pražští rodáci. Většinou byli původem Židé (kterým byl i Kafka), a z tohoto důvodu mnozí z nich před rokem 1939 emigrovali. 
+Byl součástí takzvané #underline[pražské německé školy], což byli autoři kteří působili v Praze v druhé polovině 19. a na začátku 20. století. Převážně to byli pražští rodáci. Většinou byli původem Židé (kterým byl i Kafka), a z tohoto důvodu mnozí z nich před rokem 1939 emigrovali.
 
 Odhaduje se, že 90% svého díla zničil ještě za svého života. Sám vydal pouze malou část, co zbylo posmrtně vydal jeho dobrý přítel Max Brod, i přes Kafkovo přání spisy zničit.
 
