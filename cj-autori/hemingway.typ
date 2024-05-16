@@ -6,8 +6,8 @@
   width: 100%,
   [#columns(3, gutter: 5pt)[
       *Ernest Hemingway* \
-      1899--1961 
-      
+      1899--1961
+
       spisovatel, novinář
 
       #colbreak()
@@ -17,8 +17,8 @@
 
       #smallcaps("směr")\
       ztracená generace, modernismus
-      
-      #colbreak()    
+
+      #colbreak()
       #align(center, image("/cj-autori/media/hemingway.jpg", height: 3.5cm))
   ]]
 )
@@ -29,7 +29,7 @@ Hemingwayho názory byly formovány jeho osobními zkušenostmi a vnímáním sv
 
 Umělecky Hemingway zastupoval literární směr známý jako modernismus, ve kterém byl charakteristický jednoduchým a strohým stylem psaní, který se soustředil na esenciální prvky a vyhýbal se zbytečným zdobením. Jeho díla jsou často považována za příklad tzv. "metody ledovce", kde pod povrchem zdánlivě jednoduchých situací skrývá složité a hluboké emocionální a filozofické témata.
 
-Pro víc info viz otázku a angličtiny #underline[@hemingway[]].
+Pro víc info viz otázku z angličtiny #underline[@hemingway[]].
 
 Mezi jeho známá díla patří:
 

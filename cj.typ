@@ -101,6 +101,9 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #if marian {
     include("/cj-dila/m19-petr-a-lucie.typ")
     include("/cj-autori/rolland.typ")
+
+    include("/cj-dila/m20-bajecna-leta.typ")
+    include("/cj-autori/viewegh.typ")
 }
 
 // Konec děl
