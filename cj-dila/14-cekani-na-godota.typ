@@ -18,7 +18,7 @@
       #colbreak()
       Rok vydání: *1952* \
       L. druh: *drama* \
-      L. žánr: *absurdní drama*      
+      L. žánr: *tragikomedie*      
   ]]
 )
 

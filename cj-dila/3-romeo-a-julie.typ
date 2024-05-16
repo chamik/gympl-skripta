@@ -36,6 +36,7 @@
   _Romeo Montek_ -- Mladý, milý, bezhlavě zamilovaný, vášnivý romantik, impulzivní, hrdý, čestný\
   _Julie Kapuletová_ -- Mladá (14), inteligentní, citlivá, obětavá, odvážná, oddaná své lásce, naivní, tvrdohlavá, krásná \
   _Otec Lorenzo (Vavřinec)_ -- Františkán, přítel Romea, obětavý, mírumilovný \
+  _Merkucio_ -- dobrý přítel Romea\
   _Tybalt_ -- Juliin bratranec, vášnivý bojovník, agresivní   \
   _Paris_ -- Mladý šlechtic, má si vzít Julii\
   _Chůva_ -- veselá, upovídaná, stará \

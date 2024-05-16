@@ -17,7 +17,7 @@
       #colbreak()
       Rok vydání: \~*1920* \
       L. druh: *epika* \
-      L. žánr: *próza, novela*      
+      L. žánr: *novela*      
   ]]
 )
 

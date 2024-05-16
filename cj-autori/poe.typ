@@ -27,7 +27,7 @@ Poe měl rychle se měnící a poměrně komplikovaný a tragický život. Jeho 
 
 Snažil se vydělat si jako úředník, nebo jako spisovatel do novin. Na chvíli nastoupil do armády, kde napsal svoji první knihu (která neměla skoro žádný ohlas). 
 
-Problémy s alkoholem ho provázely celý život (zemřel kvůli nim i jeho bratr), byl kvůli nim vyhozen z několika zaměstnání. Přestože v jeho pozdním životě vydával hodně a jeho jméno se stalo poměrně známým, měl potíže si na živobytí vydělat pouze psaním.
+Problémy s alkoholem ho provázely celý život (zemřel kvůli nim i jeho bratr), byl kvůli nim vyhozen z několika zaměstnání. Údajně to byl i gambler. Přestože v jeho pozdním životě vydával hodně a jeho jméno se stalo poměrně známým, měl potíže si na živobytí vydělat pouze psaním.
 
 V den jeho smrti byl nalezen nevědomý na ulici. Příčina není známá, ale předpokládá se alkoholové delirium.
 

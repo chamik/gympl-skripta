@@ -44,6 +44,7 @@ Mezi jeho známá díla patří:
 
 *Současníci*\
 _Stanislav Kostka Neumann_ -- Pozdrav T. G. Masarikovi, 1918 \
-_Jaroslav Seifrt_ -- Na vlnách TSF, 1925
+_Jaroslav Seifrt_ -- Na vlnách TSF, 1925\
+_Vítězslav Nezval_ -- Edison (#underline[@edison[]]), 1928
 
 #pagebreak()

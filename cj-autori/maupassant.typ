@@ -39,5 +39,6 @@ Mezi jeho známá díla patří:
 _Nikolaj V. Gogol_ -- Revizor, 1836\
 bratři _Mrštíkovi_ -- Maryša, 1894\
 _F. M. Dostojevskij_ -- Zločin a trest, 1866 \
+_Émil Zola_ -- Zabiják\
 
 #pagebreak()

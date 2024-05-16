@@ -12,6 +12,8 @@ todo: Mark Twain, E. A. Poe (studied in england though), William Gibson, Frank H
 
 == William Shakespeare 
 
+see also #underline[@romeo[Romeo a Julie]]
+
 William Shakespeare, often regarded as the greatest playwright in the English language, lived during the late 16th and early 17th centuries. Here's a brief historical background of Shakespeare and the time in which he lived:
 
 1. Elizabethan England (1558-1603): Shakespeare was born in 1564 in Stratford-upon-Avon, England, during the reign of Queen Elizabeth I. This was a time of great cultural flourishing in England, known as the Elizabethan era. It was marked by exploration, artistic achievement, and the rise of English nationalism.
@@ -71,8 +73,10 @@ Valentine cards are (usually) anonymous.
 *17th March -- St. Patric's Day*
 
 * -- Easter*
+is a significant Christian holiday celebrating the resurrection of Jesus Christ from the dead, three days after his crucifixion. It is observed on a Sunday in spring, following Good Friday. Easter marks the end of a 40-day period of fasting, prayer, and penance. Traditions include attending church services, sharing festive meals, and participating in activities like egg decorating and Easter egg hunts, symbolizing new life and rebirth.
 
-* -- Independence day*
+*4th July -- Independence day*
+commemorates the adoption of the Declaration of Independence in 1776, when the Thirteen Colonies declared their independence from British rule. The holiday is marked by patriotic displays, including fireworks, parades, concerts, barbecues, and public and private events celebrating American history, culture, and freedom.
 
 == Meals, eating out, fast food
 
@@ -115,19 +119,24 @@ _do we eat to live or live to eat?_
   - thesis and state exam
 
 todo: British school system
-- GCSE tests at age of 16 (O levels) and 18 (A levels, used as university entrance exams) 
+- Early Years Foundation Stage (EYFS): Ages 3-5, includes Nursery and Reception.
+- Primary Education: Ages 5-11, includes Key Stage 1 (ages 5-7, Years 1-2) and Key Stage 2 (ages 7-11, Years 3-6).
+- Secondary Education: Ages 11-16, includes Key Stage 3 (ages 11-14, Years 7-9) and Key Stage 4 (ages 14-16, Years 10-11), culminating in General Certificate of Secondary Education (GCSE) exams.
+- Post-16 Education: Ages 16-18, includes Key Stage 5, with options for A-Levels, vocational qualifications, or apprenticeships.
+- Higher Education: Typically begins at age 18, includes universities and colleges offering undergraduate and postgraduate degrees. 
 
-== Culture – music, fine arts, politics, religion
+== Culture -- music, fine arts, politics, religion
 
 - culture is different for everyone
 - favorite music -> changes all the time
 - are memes culture
 - AVU visit with Vladimír
+- museum of literature
 - i like theater: Kytice
 - FILMS! Tenet (Christopher Nolan), Dune (Denis Villeneuve)
 - BOOKS!!! The Three Body Problem, maturita books...
 
-== Exceeding boundaries – holidays, travelling, transport
+== Exceeding boundaries -- holidays, travelling, transport
 
 - Discover EU
 - wish list
@@ -159,7 +168,7 @@ Cockney -- non-educated folk, comes from australian english prisoners, Pygmalion
   [subway], [underground]
 )
 
-- it's hard to learn a language when you use it often (German)
+- it's hard to learn a language when you don't use it often (German)
 - english is the default when it comes to international collaboration
 - English-Chinese as a world language in future, Liou Cch'-Sin
 
@@ -174,6 +183,7 @@ Cockney -- non-educated folk, comes from australian english prisoners, Pygmalion
 )
 - paying thousands of dollars for an ambulance ride
 - costs of insulin (medicaments in general)
+- prescribing fentanyl for everything because of lobbying -> addiction
 
 *conventional $times$ alternative medicine*
 #table(
@@ -199,26 +209,19 @@ Cockney -- non-educated folk, comes from australian english prisoners, Pygmalion
 == London
 
 *History*:
-1. *Roman Londinium (43–410 AD)*: The Romans founded Londinium around 43~AD, establishing it as a major port and trading center on the River Thames. It served as a hub for commerce and administration in Roman Britain (Themes was shallow there and it was close to sea).
-
-2. *Anglo-Saxon and Viking Period (410–1066)*: Following the Roman withdrawal, Anglo-Saxons settled in the area. Viking invasions occurred in the 9th and 10th centuries. The city of London gradually developed as a prominent urban center.
-
-3. *Medieval and Tudor London (1066–1603)*: The Norman Conquest in 1066 brought about significant changes. London's population grew, and it became a commercial and political hub. The Tower of London was constructed during this period. The Tudor era saw the establishment of St. Paul's Cathedral and the expansion of trade.
-
-4. *Great Fire of London (1666)*: A catastrophic fire in 1666 destroyed much of the city, leading to the reconstruction of London with brick and stone buildings. #underline[Christopher Wren] played a crucial role in rebuilding the city, including the iconic St. Paul's Cathedral. It had to be rebuilt very fast, so they used the same layout.
-
-5. *18th and 19th Centuries*: Industrial Revolution, railways, economic prosperity...
-
-6. *World Wars (20th Century)*: London endured significant damage during World War I and even more so during the Blitz in World War II. The resilience of Londoners and post-war reconstruction efforts helped the city recover.
-
-7. *Post-War Period to Present*: The latter half of the 20th century and beyond saw London evolve into a global financial and cultural powerhouse. Hosting of the Summer Olympics in 2012. London has embraced cultural diversity, making it one of the world's most cosmopolitan cities.
+1. Roman London (Londinium): Founded around AD 43, became a significant Roman city.
+2. Medieval London: Grew as a trade and political center, witnessed events like the Norman Conquest (1066) and the construction of the Tower of London.
+3. Tudor and Stuart Periods: Expansion under the Tudors; suffered the Great Plague (1665) and the Great Fire of London (1666).
+4. 18th and 19th Centuries: Industrial Revolution; became the world's largest city; developments in infrastructure, such as railways and the London Underground (1863).
+5. 20th Century: Faced bombings during World War II; post-war rebuilding and modernization; cultural and economic boom in the 1960s (Swinging London).
+6. 21st Century: Continued growth and diversity; hosted the 2012 Olympics; ongoing development and global influence.
 
 *City*:
 The Waterloo bridge divides the main two parts of London. _The City_ and _Westminster_
 
 - _The City_
   - mix of the oldest and most modern buildings
-    - sky scrapers, big business,the Shard 
+    - sky scrapers, big business, the Shard 
   - William the Conqueror (gothic)
     - the Tower
     - the Monument (of the great fire)
@@ -276,13 +279,26 @@ St. Paul's má kopuli, Westminster Abbey má věžičky. Both are burial places.
   - scotland -> thistle
   - wales -> daffodil, dragon, 
   - ireland -> shamrock
+\
+- 68 million people
+- 6th largest economy 
+- NATO, G7, OECD
+- 2020 -- Brexit
+- Most populous cities
+- London, Manchester, Birmingham, Leeds, Glasgow
+- Political systém
+- Constitutional monarchy with parlament democracy 
+- Charles III.
+- Main power -- prime minister
+- Two parlamentary chambers -- House of Commons, House of Lords
+- Two parties -- Conservative, Labour
 
 United Kingdom -- 4 historical parts, monarchy (nowadays king Charles the IV.), seat of monarchs in Buckingham Palace (though the palace is owned by the state).
 
 Parlament -- two chambers, house of lords (gold, red) and house of commons (green, brown, wood). Westminster Palace. Second oldest parlament in the world (Iceland was first).
 
-House of lords -- appointed by King or you have inherited the title
-House of commons -- elected
+House of lords -- appointed by King or you have inherited the title ("In contrast to the House of Commons, membership of the Lords is not generally acquired by election. Most members are appointed for life, on either a political or non-political basis.")\
+House of commons -- elected\
 Government -- departments (ministerstva)
 
 Two main political parties -- Labour party, Conservative party
@@ -313,6 +329,8 @@ Festivals
 
 divorced, beheaded, died, \
 divorced, beheaded, survived
+
+pomoc
 
 == The USA
 
@@ -348,48 +366,47 @@ _Basic info_
 - 10 provinces. 3 territories (Northwest territories, Yukon, Nunavut)
 _Geography_
 - 80 % of land uninhabited
-- North not suited for living – cold, rocks, snow
+- North not suited for living -- cold, rocks, snow
 - Mountain ranges: Rocky Mountains, Coast Mountains, St. Elias Mountains
-- Highest peak: Mount Logan (5 959 m, Yukon)
-- Rivers: Mackenzie – longest, Yukon, St, Lawrence, Columbia, Saskatchewan
-- Lakes – Erie, Superior, Huron, Ontario, Michigan
+- Highest peak: Mount Logan (5 959 m, Yukon)
+- Rivers: Mackenzie -- longest, Yukon, St, Lawrence, Columbia, Saskatchewan
+- Lakes -- Erie, Superior, Huron, Ontario, Michigan
 - Peninsula: The Ontario Peninsula
 - Islands: Baffin Island, Victoria Island, Ellesmere Island, Devon Island
-- Lowest point: Great Slave Lake Bottom – Northwest territories
+- Lowest point: Great Slave Lake Bottom -- Northwest territories
 _Politics_
 - Federal constitutional monarchy
 - Parliamentary democracy
-- Head of the state: monarcho of UK; represented by governor general in Canada
+- Head of the state: monarch of UK; represented by governor general in Canada
 - Head of the government: prime minister
-- Parliament
-- Senate (105 members, appointed by governer general)
+- Parlament
+- Senate (105 members, appointed by governor general)
 - House of Commons (338 members, elected by citizens)  
 - Fixed election dates for every four years on the third Monday of October
 _Economy_
 - Currency: Canadian dollar
 - Service sector (75 %)
 - Sub-sectors, health care, finance, education, food, retail
-- Farmers – provinces of Alberta, Saskatchewan, Manitoba
+- Farmers -- provinces of Alberta, Saskatchewan, Manitoba
 - Wheat, corn, oilseed, cattle, pigs
-- Manufacturing – Ontario, Quebec
-- Trade 
-- Most with USA
+- Manufacturing -- Ontario, Quebec
+- Trade -> Most with USA
 - Energy resources (oil, chemical fuels, electricity, natural gas), raw natural resources (aluminium, gold, nickel)
 - NATO, G7, APEC, OECD
 _History_
 - Indegineous people (Inuits)
-- Late 15th century – European exploration
+- Late 15th century -- European exploration
 - Cartier clamed the land for France
-- New France – Quebec city was founded in 1608
-- British Conquest – The Seven Years War (1756–63) – Treaty of Paris -> Britain in control
-- American Revolution – 1791 – Lower and Upper Canada (French and English speaking population)
-- War of 1812 – battleground of war between US and Britain 
-- Dominion – 1867
-- Canadian Pacific Railway – 1885, coast to coast
-- Ofiicial Languages Act – 1969 – English and French the official languages of federal government
-- Constitution – 1982, power over its constitution
+- New France -- Quebec city was founded in 1608
+- British Conquest -- The Seven Years War (1756--63) -- Treaty of Paris -> Britain in control
+- American Revolution -- 1791 -- Lower and Upper Canada (French and English speaking population)
+- War of 1812 -- battleground of war between US and Britain 
+- Dominion -- 1867
+- Canadian Pacific Railway -- 1885, coast to coast
+- Ofiicial Languages Act -- 1969 -- English and French the official languages of federal government
+- Constitution -- 1982, power over its constitution
 _Sports_
-  - Ice hockey – NHL, Montreal Canadians
+  - Ice hockey -- NHL, Montreal Canadians
   - Canadian football
   - Inspired by american football
   - CFL
@@ -399,11 +416,11 @@ _Cities_
   - Ontario
   - Most populous and famous
   - International centre pf business, finance, art, culture
-  - Atlantic shipping through the Great Lakes – trading centre with USA
+  - Atlantic shipping through the Great Lakes -- trading centre with USA
 - Montreal 
   - Quebec 
   - French-speaking city + French culture
-  - Old-town – 17th century architecture
+  - Old-town -- 17th century architecture
 - Quebec city
   - Quebec
   - French-speaking 
@@ -422,7 +439,7 @@ _Cities_
   - Sights
   - Stanley Park (Vancouver)
   - Niagara Falls
-  - CN Tower – Toronto
+  - CN Tower -- Toronto
 - Personalities
   - The Weekend
   - Justin Bieber
@@ -510,8 +527,8 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
   - Senate: Wallenstein Pallace
   - Parliament (Chamber of Deputies): Thun Palace
 - History
-  - Legend – mythical Libuše – predicted
-  - 14th century – Charles IV.
+  - Legend -- mythical Libuše -- predicted
+  - 14th century -- Charles IV.
   - Rudolf II.
   - Ferdinand II. 
 - Economy
@@ -528,7 +545,7 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
 - Sights
   - The town of hundred spires
   - Prague Castle
-    - St. Vitus Cathedral – crown jewels, gothic 
+    - St. Vitus Cathedral -- crown jewels, gothic 
   - Lesser Town 
     - The Lesser Town Square
     - St. Nicholas Church
@@ -537,11 +554,11 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
     - Charles IV.
   - Old Town 
     - St. Nicholas Church
-    - Orloj – medieval astronomic clock
+    - Orloj -- medieval astronomic clock
     - Statue of Jan Hus
     - Church of Our Lady before Týn
     - Christmas Markets
-  - Josefov – Jewish quater
+  - Josefov -- Jewish quater
     - Old Jewish Cemetary
     - Maisel Synagogue 
   - Vyšehrad
@@ -549,10 +566,10 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
   - Petřín Tower
   - Charles University
 - Entertainment
-  - Theatres – Semafor
+  - Theatres -- Semafor
   - Prague ZOO
   - Prague botanical garden
-  - Parks – Letná, Stromovka
+  - Parks -- Letná, Stromovka
 - Important personalities
   - Franz Kafka, Václav Havel, Karel Čapek, Emil Zátopek
 
@@ -589,7 +606,7 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
 - Specific features and symbols
   - Beer 
     - Pilsner Urquel, Budweiser Budvar, Staropramen
-  - Symbols – coat od arms
+  - Symbols -- coat od arms
     - National anthem: Kde domov můj
     - National flag
   - Czech cuisine heavy and meaty
@@ -599,10 +616,10 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
   - Art
     - Alfons Mucha
   - Architecture
-    - Centre of Prague – Astronomical Clock, Prague Castle
+    - Centre of Prague -- Astronomical Clock, Prague Castle
     - UNESCO sights
   - Literature 
-    - Seifert – The Nobel Prize
+    - Seifert -- The Nobel Prize
     - Kafka
   - Music
     - Antonín Dvořák, Leoš Janáček, Bedřich Smetana
@@ -615,12 +632,12 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
   - The Habsburg Monarchy
 - Transport
   - Václav Havel international Airport
-  - Prague metro – 3 lines (4)
+  - Prague metro -- 3 lines (4)
   - Public transport in every city
 - Sports
   - Football and hockey
   - Basketball, volleyball, handbal, athletics, floorball
-  - Ice hockey – olympic gold Nagano 1998
+  - Ice hockey -- olympic gold Nagano 1998
 - Significant personalities
   - Václav Havel
   - Tomáš Garrigue Masaryk
