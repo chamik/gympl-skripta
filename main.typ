@@ -6,6 +6,7 @@
 #set text(size: 13pt, lang: "cs")
 #set footnote(numbering: "*")
 #set quote(block: true)
+#set par(justify: true)
 
 #let titlepage(a) = [
   #set text(size: 30pt)
@@ -14,14 +15,20 @@
 ]
 
 #[
+  #set page(margin: 3cm)
   #set text(size: 100pt)
+  
   Gympl skripta
+
+  #set text(size: 18pt)
+  Jakub Hampl
+  
+  #text(size: 12pt)[#align(center + bottom)[
+    Naposledy aktualizováno #datetime.today().day(). #datetime.today().month(). #datetime.today().year()
+  ]]
 ]
 
-#[
-  #set text(size: 18pt)
-  Jakub Hampl, #datetime.today().year()
-]
+#include "uvod.typ"
 
 #pagebreak()
 

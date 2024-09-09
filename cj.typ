@@ -2,9 +2,9 @@
 
 #heading(level: 2, "Díla")
 
-Následuje seznam 20 knih, které jsem si vybral já a které jsou podrobně zpracované dále. Pokud tě zajímá spíš rychlý přehled, podívej se na #href("https://knih.chamik.eu/", "knih.chamik.eu") a hledej štítek `maturita`. Celý seznam knížek kánonu najdeš na #href("https://www.gjp-me.cz/maturity/", "gjp-me.cz/maturity").
+Následuje seznam 22 knih, které jsem si vybral já a které jsou podrobně zpracované dále.#footnote[Prvních 20 je vypracovaných mnou, dvě navíc Marianem kvůli rozdílu v našich výběrech knih.] Pokud tě zajímá spíš rychlý přehled, podívej se na #href("https://knih.chamik.eu/", "knih.chamik.eu") a hledej štítek `maturita`. Celý seznam knížek kánonu najdeš na #href("https://www.gjp-me.cz/maturity/", "gjp-me.cz/maturity").
 
-V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #highlight("dramatu", fill: green).
+V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #highlight("dramatu", fill: green). Lze mít nejvíce dvě díla od stejného autora.
 
 *Světová a česká literatura do konce 19. století* (3 knihy)
 1. Kulička -- _Maupassant Guy de_
@@ -34,6 +34,9 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 18. Lovci Hlav -- _Jo Nesbø_
 19. Edison -- _Nezval Vítězslav_
 20. Na západní frontě klid -- _Remarque Erich Maria_
+#hrule()
+21. Petr a Lucie -- _Romain Rolland_
+22. Báječná léta pod psa -- _Michal Viewegh_
 
 #pagebreak()
 
@@ -98,13 +101,14 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #include("/cj-dila/20-na-zapadni-fronte-klid.typ")
 #include("/cj-autori/remarque.typ")
 
-#if marian {
-    include("/cj-dila/m19-petr-a-lucie.typ")
-    include("/cj-autori/rolland.typ")
 
-    include("/cj-dila/m20-bajecna-leta.typ")
-    include("/cj-autori/viewegh.typ")
-}
+#include("/cj-dila/21-petr-a-lucie.typ")
+#include("/cj-autori/rolland.typ")
+
+#include("/cj-dila/22-bajecna-leta.typ")
+#include("/cj-autori/viewegh.typ")
+
 
 // Konec děl
+
 #include "/cj-pojmy.typ"

@@ -733,7 +733,7 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
     Impact: global pandemic, high mortality, long-term health effects (Long COVID).
     Response: vaccines, public health measures (masks, social distancing), antiviral treatments.
 
-== Problems of the world III. -- addictions
+== Problems of the world III. -- addictions <addictions>
 
 - Substance Addictions:
 
@@ -759,3 +759,21 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
 - Socioeconomic status and living conditions.
 
 == Media and technology
+
+- different types of mediums: newspapers and magazines, radio, TV... digital
+  - pessimism is better for the views
+- Social media dangers and addictions, see #underline[@addictions[]]
+- AI (artificial inteligence)
+  - in schools #sym.arrow cheating students, AI generated assignments
+  - in society #sym.arrow where is the line between artificial and real inteligence?
+  - scamming #sym.arrow automated bots
+  - fake news, propaganda
+  - ethics of using human works
+- VR (virtual reality)
+  - metaverse
+  - Ready Player One type of future?
+- Robotics and automation
+- Privacy
+  - undermined by the state and by the advertisement sector (and more)
+  - private data used to serve personalized ads
+  - Meta (Facebook, Instagram), Google, Amazon...

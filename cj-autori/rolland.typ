@@ -5,7 +5,7 @@
   radius: 4pt,
   width: 100%,
   [#columns(3, gutter: 5pt)[
-      *Romain Rolland [romejn rolán]* \
+      *Romain Rolland* \
       1866--1944
 
       prozaik, dramatik, kritik
