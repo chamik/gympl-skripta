@@ -1,26 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Kulička") <kulicka>
-      Autor: *Guy de Maupassant* \
-      Překlad: _J. Guth_ 
-
-      #colbreak()
-      Období: *2. pol 19. st; realismus, naturalismus* \
-      Země: *Francie*
-
-      #colbreak()
-      Rok vydání: *1880* \
-      L. druh: *epika* \
-      L. žánr: *povídka*      
-  ]]
-)
+#dilo("Kulička", "kulicka", "Guy de Maupassant", "J. Guth", "2. pol 19. st; realismus, naturalismus", "Francie", "1880", "epika", "povídka")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -48,6 +28,8 @@
 
   *Jazykové prostředky*\
   vyprávění a popis, satira, přímá řeč
+
+  #colbreak()
 
   *Obsah*\
   Deset občanů se od Normandského hotelu vydalo dostavníkem do města Le Havre, aby unikli válce. Brzy mají v dostavníku všichni hlad, jen Kulička si zabalila zásoby a štědře nabídne ostatním. I přes své společenské postavení se může zdát, že do kolektivu zapadla. Dorazí do hostince, kde na noc přespí, ovšem ráno jim zakáže odjet Pruský důstojník. Celá výprava se brzy dozví, že to je kvůli tomu, že se chce vyspat s Kuličkou. Ze začátku jsou všichni rozhořčení, ovšem brzy se nálada rychle změní a začnou jí jejich situaci dávat za vinu. Kulička se po pár dnech nakonec nechá přemluvit a další ráno vyjedou. Všichni si vybalí jídlo, jen Kulička ho ve zmatku zapomněla. Je jí znovu opovrhováno, nikdo se s ní nerozdělí a Kulička se rozpláče.

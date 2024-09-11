@@ -1,25 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "České nebe") <nebe>
-      Autoři: *Z. Svěrák, L. Smoljak, J. Cimrman* \ 
-
-      #colbreak()
-      Období: *porevoluční* \
-      Země: *ČR*
-
-      #colbreak()
-      Rok vydání: *2008* \
-      L. druh: *drama* \
-      L. žánr: *komedie*      
-  ]]
-)
+#dilo("České nebe", "nebe", "Z. Svěrák, L. Smoljak, J. Cimrman", "", "porevoluční", "ČR", "2008", "drama", "komedie")
 
 #columns(2, gutter: 1em)[
   *Téma*\

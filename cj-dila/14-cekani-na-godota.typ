@@ -1,26 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Čekání na Godota") <godot>
-      Autor: *Samuel Beckett* \
-      Překlad: _P. Ouředník_ 
-
-      #colbreak()
-      Období: *poválečné* \
-      Země: *Irsko*
-
-      #colbreak()
-      Rok vydání: *1952* \
-      L. druh: *drama* \
-      L. žánr: *tragikomedie*      
-  ]]
-)
+#dilo("Čekání na Godota", "godot", "Samuel Beckett", "P. Ouředník", "poválečné", "Irsko", "1952", "drama", "tragikomedie")
 
 #columns(2, gutter: 1em)[
   *Téma*\

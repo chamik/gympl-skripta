@@ -1,26 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Petr a Lucie") <petr>
-      Autor: *Romain Rolland* \
-      Překlad: _Jaroslav Zaorálek_
-
-      #colbreak()
-      Období: *1. pol. 20. st; meziválečný realismus* \
-      Země: *Francie*
-
-      #colbreak()
-      Rok vydání: *1920* \
-      L. druh: *epika* \
-      L. žánr: *válečná milostná novela*
-  ]]
-)
+#dilo("Petr a Lucie", "petr", "Romain Rolland", "Jaroslav Zaorálek", "1. pol. 20. st; meziválečný realismus", "Francie", "1920", "epika", "válečná milostná novela")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -37,12 +17,15 @@
   _Lucie_ -- z chudé rodiny, žije jenom s matkou, citlivá a něžná, živí se malováním obrazů\
   _Filip_ -- bratr Petra, ten k němu vzhlíží, šel do války
 
-  *Kompozice* -- chronologická, bez kapitol, pouze oddělené čarou/hvězdičkami
+  *Kompozice*\
+  chronologická, bez kapitol, pouze oddělené čarou/hvězdičkami
 
   *Vypravěč* -- er-forma
 
   *Jazykové prostředky*\
   spisovný jazyk, bohatá slovní zásoba, často dialogy, pocity popisů, filozofické otázky
+
+  #colbreak()
 
   *Obsah*\
   Petr a Lucie se potkají v metru při panice z výstřelů. Později se znovu setkávají a zamilují se. Petr je povolán do války. To nechce, proto se zasnoubí. Na Velký pátek jdou do kostela, to je ale Paříž ostřelována, kostel je trefen a oba zahynou.

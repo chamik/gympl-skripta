@@ -1,25 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo, hrule, poezie
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Kytice z pověstí národních") <kytice>
-      Autor: *Karel Jaromír Erben* \ 
-
-      #colbreak()
-      Období: *19. st; romantismus,\ národní obrození* \
-      Země: *Česko*
-
-      #colbreak()
-      Rok vydání: *1853* \
-      L. druh: *lyricko-epický* \
-      L. žánr: *baladické básně*      
-  ]]
-)
+#dilo("Kytice z pověstí národních", "kytice", "Karel Jaromír Erben", "", "19. st; romantismus, národní obrození", "Česko", "1853", "lyricko-epický", "baladické básně")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -43,13 +24,13 @@
 
   _POLEDNICE_ -- Matka zavolá polednici na své zlobivé dítě, sama jej ve strachu zardousí.
 
-  _ZLATÝ KOLOVRAT_ -- Král potká Doru, kterou si chce vzít. Její macecha ji zabije a rozčtvrtí. Král si nevědomky vezme nevlastní dceru. Kouzelný stařeček vyměňuje kusy zlatého kolovratu za kusy těla Dory. Dora je oživena, král macechu i sestru nechá zabít.
+  _ZLATÝ KOLOVRAT_ -- Král potká Doru, kterou si chce vzít. Její macecha ji zabije a rozčtvrtí. Král si nevědomky vezme nevlastní dceru. Kouzelný stařeček vyměňuje kusy zlatého kolovratu za kusy těla Dory. Dora je oživena, král macechu i sestru nechá zabít stejným způsobem.
 
   _ŠTĚDRÝ DEN_ -- Tradice o Vánoce, Hana a Marie jdou k jezeru zjistit svůj osud. Hana vidí svého milého, Marie pohřeb. Osud se vyplní. 
 
   _HOLOUBEK_ -- Žena zapomene na svého mrtvého milého (holoubka) a provdá se. Holoubek smutně zpívá a jistá dívka se kvůli tomu utopí.
 
-  _ZÁHOŘOVO LOŽE_ -- Poutník vypráví loupežníkovi Záhořovi o loži v pekle, co je pro něj přichystané. Následně se 90 poká, než se poutník znovu vrátí; společně umírají.
+  _ZÁHOŘOVO LOŽE_ -- Poutník vypráví loupežníkovi Záhořovi o loži v pekle, co je pro něj přichystané. Následně se 90 let poká, než se poutník znovu vrátí; společně umírají.
 
   _VODNÍK_ -- Vodník má dítě s dívkou, která se vrátí k matce. Matka ji nepustí zpět do jezera a vodník dítě zabije.
 
@@ -67,6 +48,40 @@
 
 #pagebreak()
 
-*Ukázka*
+#show: poezie
+
+*Ukázka* -- Zlatý kolovrat, I.
+
+Okolo lesa pole lán,\
+hoj jede, jede z lesa pán,\
+na vraném bujném jede koni,\
+vesele podkovičky zvoní,\
+jede sám a sám.
+
+A před chalupou s koně hop\
+a na chalupu: klop, klop, klop!\
+„Hola hej! otevřte mi dvéře,\
+zbloudil jsem při lovení zvěře,\
+dejte vody pít!“ 
+
+[...]
+
+*Ukázka* -- Záhořovo lože, V.
+
+Devadesáte let přeletělo světem;\
+mnoho se zvrátilo zatím od té chvíle:\
+kdo onoho času býval nemluvnětem,\
+jest nyní starcem, do hrobu se chýle.
+
+Avšak málo jich dozrálo k té době,\
+ostatní všickni jsou schováni v hrobě.\
+Jiné pokolení -- cizí obličeje --\
+vše ve světě cizí, kam se člověk děje;\
+jen to slunéčko modravého nebe,\
+jenom to nižádné proměny nevzalo;\
+a jako před věky lidi těšívalo,\
+tak i nyní ještě vždy blaží tebe! 
+
+[...]
 
 #pagebreak()

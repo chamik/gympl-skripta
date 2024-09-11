@@ -1,26 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Romeo a Julie") <romeo>
-      Autor: *William Shakespeare* \
-      Překlad: _J. Topol_ 
-
-      #colbreak()
-      Období: *14. až 16. st.; renesance, humanismus* \
-      Země: *Anglie*
-
-      #colbreak()
-      Rok vydání: *1597* \
-      L. druh: *drama* \
-      L. žánr: *tragédie*      
-  ]]
-)
+#dilo("Romeo a Julie", "romeo", "William Shakespeare", "J. Topol", "14. až 16. st.; renesance, humanismus", "Anglie", "1597", "drama", "tragédie")
 
 #columns(2, gutter: 1em)[
   *Téma*\

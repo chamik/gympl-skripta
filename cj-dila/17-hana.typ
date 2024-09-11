@@ -1,26 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Hana") <hana>
-      Autor: *Alena Mornštajnová* \
-      // Překlad: --- 
-
-      #colbreak()
-      Období: *Současnost* \
-      Země: *ČR* \
-      Rok vydání: *2017* 
-
-      #colbreak()
-      L. druh: *epika* \
-      L. žánr: *historický román*      
-  ]]
-)
+#dilo("Hana", "hana", "Alena Mornštajnová", "", "současnost", "ČR", "2017", "epika", "historický román")
 
 #columns(2, gutter: 1em)[
   *Téma*\

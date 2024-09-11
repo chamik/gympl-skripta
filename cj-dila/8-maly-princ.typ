@@ -1,26 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo, hrule
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Malý princ") <princ>
-      Autor: *Antoine Marie Roger de Saint-Exupéry* \
-      Překlad: _Z. Stavinohová_ 
-
-      #colbreak()
-      Období: *Světová meziválečná lit.* \
-      Země: *Francie*
-
-      #colbreak()
-      Rok vydání: *1943* \
-      L. druh: *epika* \
-      L. žánr: *filozofická pohádka*      
-  ]]
-)
+#dilo("Malý princ", "princ", "Antoine Marie Roger de Saint-Exupéry", "Z. Stavinohová", "Světová meziválečná lit.", "Francie", "1943", "epika", "filozofická pohádka")
 
 #columns(2, gutter: 1em)[
   *Téma*\

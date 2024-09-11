@@ -1,26 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": hrule, dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "R. U. R.") <rur>
-      Autor: *Karel Čapek* \
-      Překlad: --- 
-
-      #colbreak()
-      Období: *Meziválečná lit.* \
-      Země: *ČS -- První republika*
-
-      #colbreak()
-      Rok vydání: *1920* \
-      L. druh: *drama* \
-      L. žánr: *sci-fi tragédie*      
-  ]]
-)
+#dilo("R. U. R.", "rur", "Karel Čapek", "", "Meziválečná lit.", "Francie", "1880", "epika", "povídka")
 
 #columns(2, gutter: 1em)[
   *Téma*\

@@ -1,25 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo, poezie
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Edison") <edison>
-      Autor: *Vítězslav Nezval* \
-
-      #colbreak()
-      Období: *1. p. 20. st.; poetismus* \
-      Země: *ČSR*
-
-      #colbreak()
-      Rok vydání: *1928* \
-      L. druh: *lyricko-epický* \
-      L. žánr: *báseň*
-  ]]
-)
+#dilo("Edison", "edison", "Vítězslav Nezval", "", "1. p. 20. st.; poetismus", "ČSR", "1928", "lyricko-epický", "báseň")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -38,11 +19,13 @@
   *Kompozice*\
   5 zpěvů, bez interpunkce, ich-forma z pohledu básníka
 
-  *Vypravěč*
+  *Vypravěč*\
   lyrický subjekt, nejspíš znázorňuje autora
 
   *Jazykové prostředky*\
-  refrén (variace končící "z života i smrti"), anafory (opakování na začátku verše; "piják", "hleď", "proč"), termíny ("s kyselinou solnou", "s cívkou rumkorfu")
+  refrén (variace končící "z života i smrti"), anafory (opakování na začátku verše; "piják", "hleď", "proč"), termíny ("s kyselinou solnou", "s cívkou rumkorfu"), nepoužívá se interpunkce (viz ukázka)
+
+  #colbreak()
 
   *Obsah*\
   1. zpěv: toulky Prahou, most přes Vltavu, potká sebevraha, uvědomí si, že to je on
@@ -59,6 +42,42 @@
 
 #pagebreak()
 
-*Ukázka*
+#show: poezie
+
+*Ukázka -- II.*
+
+Naše životy jsou strmé jako vrak\
+jednou kvečeru se vracel rychlovlak\
+mezi Kanadou a mezi Michiganem\
+soutěskami které neznám jejich jménem\
+po plošině kráčel malý průvodčí\
+s čapkou nasazenou těsně do očí\
+bylo tu však něco krásného co drtí\
+odvaha a radost z života i smrti
+
+Jeho otec krejčí švec a drvoštěp\
+kupec s obilím měl chatrč půdu sklep\
+a věčnou nestálost jež k potulkám nás svádí\
+zemřel touhou po vlasti a smutkem mládí
+
+Tatíku tys věděl co je věčný stesk\
+dnes je z tebe popel hvězda nebo blesk\
+tatíku tys věděl že jsou všude hrubci\
+mezi krejčími i mezi dřevorubci\
+ty jsi poznal co jsou potulky a hlad\
+chtěl bych zemřít jak ty také zdráv a mlád\
+avšak je tu cosi těžkého co drtí\
+smutek stesk a úzkost z života i smrti
+
+Nevím kde a máš-li jaký náhrobek\
+ze tvé krve zbyl tu malý pohrobek\
+hleď už slabikuje v Kanadě tvé knihy\
+hleď už těší se jak půjde na dostihy\
+hleď už čítá slavné životopisy\
+encyklopedii staré eposy\
+hleď už vyrostl hleď čas tak rychle míjí\
+hleď už nehrá si čta knížky o chemii
+
+[...]
 
 #pagebreak()

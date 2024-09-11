@@ -1,30 +1,10 @@
-#import "/helper.typ": hrule
+#import "/helper.typ": dilo, hrule
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Na západní frontě klid") <zapadni>
-      Autor: *Erich Maria Remarque* \
-
-      #colbreak()
-      Překlad: _František Gel_ 
-      Období: *30. -- 80. léta*, \
-      *Svět. lit. 1. pol. 20. st.* \
-      Země: *Německo*
-
-      #colbreak()
-      Rok vydání: *1928* \
-      L. druh: *epika* \
-      L. žánr: *válečný román*      
-  ]]
-)
+#dilo("Na západní frontě klid", "zapadni", "E. M. Remarque", "František Gel", "30. -- 80. léta; svět. lit. 1. pol. 20. st.", "Německo", "1928", "epika", "válečný román")
 
 #columns(2, gutter: 1em)[
   *Téma*\
-  boj na západní frontě v WWI (ODKAZ)
+  boj na západní frontě v WWI
   
   *Motivy*\
   absurdita války, smrt, ztráta iluzí, hodnota přátelství
@@ -47,6 +27,8 @@
 
   *Jazykové prostředky*\
   vypravování - spisovná čeština, přímá řeč - hovorová s vulgárními výrazy, historismy a archaismy, nářečí
+
+  #colbreak()
 
   *Obsah*\
   Gymnazista Pavel po přemlouvání svým třídním učitelem Kantorkem narukuje se svojí třídou do armády, aby bojoval v WWI. Po několika týdenním výcviku pod přísným dohledem Himmelstose se ocitá na frontě. Tam zjišťuje, že válčit je jediná věc, kterou doopravdy dokáže. Zároveň zažívá smrt svých blízkých přátel. Je propuštěn na dovolenou; doma potkává svoji umírající matku a zjišťuje, že už ani tady si nepřijde svůj. Zpátky na frontě zabíjí vlastníma rukama francouzského vojáka. Přežívá jen díky jakési odtažitosti k tomu, co doopravdy dělá. V rukou mu umírá jeho poslední žijící spolužák, když ho raněného nese k lékaři. Sám umírá pár měsíců před koncem války.

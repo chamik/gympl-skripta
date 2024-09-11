@@ -1,25 +1,6 @@
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Bílá nemoc") <nemoc>
-      Autor: *Karel Čapek* \
-      Překlad: ---
-
-      #colbreak()
-      Období: *Meziválečná lit.* \
-      Země: *ČS -- První republika*
-
-      #colbreak()
-      Rok vydání: *1937* \
-      L. druh: *drama* \
-      L. žánr: *válečná tragédie*      
-  ]]
-)
+#dilo("Bílá nemoc", "nemoc", "Karel Čapek", "", "Meziválečná lit.", [ČS -- První republika], "1937", "drama", "válečná tragédie")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -47,9 +28,11 @@
 
   // TODO: co tam dělá Sigelius?? tu postavu si ani nepamatuju xd
   *Obsah*#footnote[V původní verzi hry Dr. G. posílá recept na lék svému příteli do zahraničí, takže naděje na konci zůstává. Dneska se to takhle ale už nehraje.]\
-  V zemi se rozmohla smrtelná bílá nemoc, na kterou našel lék mladý doktor Galén. Ten na začátku léčí pouze chudé; když nemoc chytí zbrojař Krüg, odmítne ho vyléčit, pokud Maršál neuzavře mír; nesvolí a Krüg se zoufalství spáchá sebevraždu. Nakonec nemoc chytne i Maršál a po přemlouvání se rozhodne za svůj život mír uzavřít.
+  V zemi se rozmohla smrtelná bílá nemoc, na kterou našel lék mladý doktor Galén. Ten na začátku léčí pouze chudé; když nemoc chytí zbrojař Krüg, odmítne ho vyléčit, pokud Maršál neuzavře mír; nesvolí a Krüg se zoufalství spáchá sebevraždu. 
+
+  #colbreak()
   
-  Na cestě do paláce je však Galén zastaven pro-válečným davem, kterým je ušlapán. Válka vypukne.
+  Nakonec nemoc chytne i Maršál a po přemlouvání se rozhodne za svůj život mír uzavřít. Na cestě do paláce je však Galén zastaven pro-válečným davem, kterým je ušlapán. Válka vypukne.
 
   *Literárně historický kontext*\
   Zfilmováno Hugem Haasem už v roce vydání. Působí jako varování před rozpínáním nacistického Německa. 

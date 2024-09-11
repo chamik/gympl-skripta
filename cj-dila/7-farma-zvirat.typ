@@ -1,25 +1,6 @@
-#import "/helper.typ": hrule
+#import "/helper.typ": dilo, hrule
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Farma zvířat") <farma>
-      Autor: *George Orwell* (*Eric Arthur Blair*) \
-      Překlad: _G. Goessel_
-
-      #colbreak()
-      Období: *1. p. 20. st.* \ *Světová lit. 20. st., sci-fi, antiutopie* \
-      Země: *Británie*
-
-      #colbreak()
-      Rok vydání: *1945* \
-      L. druh: *epika* \
-      L. žánr: * alegorický román (bajka)*
-  ]]
-)
+#dilo("Farma Zvířat", "farma", "George Orwell (Eric Arthur Blair)", "G. Goessel", "1. p. 20. st; Světová lit. 20. st; sci-fi, antiutopie", "Británie", "1945", "epika", "alegorický román (bajka)")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -45,6 +26,8 @@
 
   *Jazykové prostředky*\
   hodně přímé řeči (dialogy mezi zvířaty), metonymie (ovce tupé stádo, psi věrní, atp.) a metafory, celé je to alegorie, velká písmena pro *R*#[]evoluci
+
+  #colbreak()
 
   *Obsah*\
   Pan Jones je alkoholik vlastnící farmu, kde se nespokojená zvířata rozhodnou udělat převrat. V jeho vedení jsou prasata a nastolí systém až podezřele připomínající komunistický režim. V knize lze nalézt motivy překrucování informací, slibů, nesmyslných dlouhodobých projektů, a ještě méně kvalitního života, než býval dříve. Věrný pracovní kůň Boxer, který je režimem vyzdvihován, je na konci svého života zrazen a dán na salám. Prasata jen využívají tvárnosti obyvatelstva podobně, jako se to doopravdy dělo v SSSR.

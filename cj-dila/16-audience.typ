@@ -1,24 +1,6 @@
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Audience") <audience>
-      Autor: *Václav Havel* \
-
-      #colbreak()
-      Období: *2. p. 20. st.* \
-      Země: *ČSSR*
-
-      #colbreak()
-      Rok vydání: *1975* \
-      L. druh: *drama* \
-      L. žánr: *tragikomedie*
-  ]]
-)
+#dilo("Audience", "audience", "Václav Havel", "", "2. p. 20. st.", "ČSSR", "1975", "drama", "tragikomedie")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -44,6 +26,8 @@
 
   *Jazykové prostředky*\
   opakování replik ("a nebuďte smutnej"), spisovná X hovorová čeština, apoziopeze značená "--"
+
+  #colbreak()
 
   *Obsah*\
   Levná kopie Čekání na Godota (#underline[@godot[]]).

@@ -1,25 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo, hrule
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Báječná léta pod psa") <pes>
-      Autor: *Michal Viewegh* \
-
-      #colbreak()
-      Období: *2. pol. 20. st. současná literatura* \
-      Země: *ČSR*
-
-      #colbreak()
-      Rok vydání: *1992* \
-      L. druh: *epika* \
-      L. žánr: *román*
-  ]]
-)
+#dilo("Báječná léta pod psa", "pes", "Michal Viewegh", "Jaroslav Zaorálek", "2. pol. 20. st. současná literatura", "ČSR", "1992", "epika", "román")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -43,7 +24,10 @@
   *Kompozice* -- fascinující\
   retrospektivní, úryvky ze "současnosti", občas úryvky básní, občas drama, občas deník (ich-forma); někdy vyprávění, někdy rozhovory s nakladatelem; kapitoly pouze očíslovány
 
-  *Vypravěč* -- er-forma, ale ne objektivní, ale z pohledu Kvida
+  #colbreak()
+
+  *Vypravěč*\
+  er-forma, ale ne objektivní, ale z pohledu Kvida
 
   *Jazykové prostředky*\
   ironie, satira, humor, nadsázka; jazyk živý, spisovný i hovorový; vulgarismy, dialogy; anglicismy, germanismy

@@ -49,11 +49,9 @@
 #set page(numbering: "1")
 #include "cj.typ"
 
-#if not marian [
-    #set page(numbering: none)
-    #titlepage("Anglický jazyk")
-    #set page(numbering: "1")
-    #include "anj.typ"
-] else [
-      #heading(level: 1, "Hemingway vyprcanej") <hemingway>
-]
+
+#set page(numbering: none)
+#titlepage("Anglický jazyk")
+#set page(numbering: "1")
+#include "anj.typ"
+

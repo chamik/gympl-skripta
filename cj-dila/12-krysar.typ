@@ -1,25 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Krysař") <krysar>
-      Autor: *Viktor Dyk* \ 
-
-      #colbreak()
-      Období: *přelom 20. a 21. st., neoklasicismus* \
-      Země: *České země*
-
-      #colbreak()
-      Rok vydání: \~*1920* \
-      L. druh: *epika* \
-      L. žánr: *novela*      
-  ]]
-)
+#dilo("Krysař", "krysar", "Viktor Dyk", "", [přelom 20. a 21.~st; neoklasicismus], "Česko", "~1920", "epika", "novela")
 
 #columns(2, gutter: 1em)[
   *Téma*\

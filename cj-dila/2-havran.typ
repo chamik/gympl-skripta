@@ -1,25 +1,7 @@
+#import "/helper.typ": dilo, poezie
 
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Havran") <havran>
-      Autor: *Edgar Allan Poe* \
-      Překlad: _Vítězslav Nezval_
-
-      #colbreak()
-      Období: *1. p. 19. st; světový romantismus*\
-      Země: *USA*
-
-      #colbreak()
-      Rok vydání: *1845* \
-      L. druh: *lyricko-epický* \
-      L. žánr: *baladická báseň*      
-  ]]
-)
+#dilo("Havran", "havran", "Edgar Allan Poe", "Vítězslav Nezval", "1. p. 19. st; světový romantismus", "USA", "1845", "lyricko-epický", "baladická báseň")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -61,6 +43,8 @@
 
 #pagebreak()
 
+#show: poezie
+
 *Ukázka*
 
 [...]
@@ -99,5 +83,6 @@ oči v sněni přimhouřeny na pozadí bílé stěny, \
 lampa vrhá beze změny jeho stín, jímž uhrane - \
 a má duše z toho stínu, jímž mne navždy uhrane, \
 nevzchopí se - víckrát ne."
+
 
 #pagebreak()

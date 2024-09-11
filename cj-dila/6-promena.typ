@@ -1,26 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Proměna") <promena>
-      Autor: *Franz Kafka* \
-      Překlad: _V. Kafka_ 
-
-      #colbreak()
-      Období: *1. pol 20. st* \
-      Země: *Praha/Rakousko*
-
-      #colbreak()
-      Rok vydání: *1915* \
-      L. druh: *epika* \
-      L. žánr: *povídka/novela*      
-  ]]
-)
+#dilo("Proměna", "promena", "Franz Kafka", "V. Kafka", "1. pol 20. st", "Praha/Rakousko", "1915", "epika", "povídka/novela")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -44,6 +24,8 @@
 
   *Jazykové prostředky*\
   spisovný jazyk, strohé (úřednické) vyjadřování, eufemismy
+
+  #colbreak()
 
   *Obsah*\
   Řehoř Samsa se jednoho dne probudí jako brouk, lol. Jeho první starotí je, jak se jako hmyz dostane do práce. Během celé doby nepropadá depresím a uvažuje racionálně. Otec musí znovu nastoupit do zaměstnání. Do jeho pokoje chodí jen jeho sestra, před kterou se schovává pod pohovkou. Při hádce o svůj oblíbený obraz ho spatří matka a omdlí, otec ho zraní vrhnutým jablkem. 

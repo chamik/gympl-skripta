@@ -1,25 +1,6 @@
-#import "/helper.typ": hrule
+#import "/helper.typ": dilo, hrule
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "451 stupňů Fahrenheita") <fahrenheit>
-      Autor: *Ray Bradbury* \
-      Překlad: _J. Emmerová_
-
-      #colbreak()
-      Období: *2. p. 20. st. až současnost 𐠒2012;\ Fikce, antiutopie *\
-      Země: *USA*
-
-      #colbreak()
-      Rok vydání: *1953* \
-      L. druh: *epika* \
-      L. žánr: *sci-fi román*
-  ]]
-)
+#dilo("451 stupňů Fahrenheita", "fahrenheit", "Ray Bradbury", "J. Emmerová", "2. p. 20. st. až současnost 𐠒2012; Fikce, antiutopie", "USA", "1953", "epika", "sci-fi román")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -44,6 +25,8 @@
 
   *Jazykové prostředky*\
   er-forma, přímá řeč, spisovná čeština, profesní slang, květnaté popisy, metafory, 
+
+  #colbreak()
 
   *Obsah*\
   Guy Montag je požárník budoucnosti; místo toho, aby oheň hasil, podpaluje knihy (z toho název - při teplotě 451° Fahrenheita hoří papír) a pomáhá tak režimu držet kontrolu nad obyvatelstvem. Jednoho dne potká Clarissu, která mu pomůže vytrhnout se z monotónnosti života a vzbouřit se zachráněním knihy před ohněm. Doma má manželku Mildred, která tráví všechen svůj čas s “rodinkou” a už není schopná racionálně uvažovat. Mezitím co je Clarissa i s její rodinou odstraněna, začne něco větřit jeho velitel Beatty. Zjistí se, že doma ukrývá mnoho knih a s pomocí Fabera, bývalého a vystrašeného profesora, se dá před “spravedlností” na útěk. Ten se mu povede a setká s dalšími uprchlíky, kteří představují různé knihy; Guy se jedním takovým stal. Na město na konci dopadá atomová bomba. 

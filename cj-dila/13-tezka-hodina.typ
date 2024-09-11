@@ -1,25 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo, poezie
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Těžká hodina") <hodina>
-      Autor: *Jiří Wolker* \
-
-      #colbreak()
-      Období: *1. p. 20. st; proletářská literatura* \
-      Země: *Čechy*
-
-      #colbreak()
-      Rok vydání: *1922* \
-      L. druh: *lyricko-epické* \
-      L. žánr: *sbírka básní*      
-  ]]
-)
+#dilo("Těžká hodina", "hodina", "Jiří Wolker", "", "1. p. 20. st; proletářská literatura", "Čechy", "1922", "lyricko-epické", "sbírka básní")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -87,9 +68,9 @@
 
 #pagebreak()
 
-*Ukázka*
+#show: poezie
 
-TĚŽKÁ HODINA
+*Ukázka -- Těžká hodina*
 
 Přišel jsem na svět,\
 abych si postavil život\

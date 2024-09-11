@@ -1,26 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Stařec a moře") <starec>
-      Autor: *Ernest Hemingway* \
-      Překlad: _F. Vrba_ 
-
-      #colbreak()
-      Období: *modernismus, ztracená generace, meziválečná lit.* \
-      Země: *USA*
-
-      #colbreak()
-      Rok vydání: *1952* \
-      L. druh: *epika* \
-      L. žánr: *novela*      
-  ]]
-)
+#dilo("Stařec a moře", "starec", "Ernest Hemingway", "F. Vrba", "modernismus, ztracená generace, meziválečná lit.", "USA", "1952", "epika", "novela")
 
 #columns(2, gutter: 1em)[
   *Téma*\
@@ -48,6 +28,8 @@
   *Obsah*\
 
   _Santiago_ je chudý rybář, který měl poslední dobou na moři smůlu. Na lodi mu dříve pomáhal _Manolin_, ovšem jeho rodiče mu nařídili, aby se plavil s konkurencí. Stařec se tedy na moře vydá sám.
+
+  #colbreak()
 
   Vyjede daleko a brzy zabere ryba opravdu obrovská. Prvních několik hodin ji vůbec nevidí, ovšem dokáže to odhadnout podle různých věcí. Dokáže určovat směr podle větru, slunce a hvězd a obecně je na moři velmi znalý. Nechá se rybou táhnout celý den přes noc, aby se unavila. Během celé plavby si sám se sebou povídá. Jeho myšlenky si často protiřečí. Po dlouhém boji, při kterém málem nezvládne zůstat při vědomí rybu zabije. Skoro se jí až omlouvá a referuje k ní jako k bratrovi.
 

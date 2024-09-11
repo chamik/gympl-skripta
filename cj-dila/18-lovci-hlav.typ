@@ -1,26 +1,6 @@
-#import "/helper.typ": hrule
-#counter(footnote).update(0)
+#import "/helper.typ": dilo
 
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      #heading(level: 3, "Lovci hlav") <lovci>
-      Autor: *Jo Nesbø* \
-      Překlad: _K. Krištůfková_ 
-
-      #colbreak()
-      Období: *Současnost* \
-      Země: *Norsko* \
-      Rok vydání: *2011* 
-
-      #colbreak()
-      L. druh: *epika* \
-      L. žánr: *severská detektivka*      
-  ]]
-)
+#dilo("Lovci hlav", "lovci", "Jo Nesbø", "K. Krištůfková", "současnost", "Norsko", "2011", "epika", "severská detektivka")
 
 #columns(2, gutter: 1em)[
   *Téma*\
