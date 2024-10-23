@@ -21,7 +21,7 @@ Tento dokument je sdílený pod licencí #link(cc-url("cc-by-sa"), [CC BY-SA 4.0
 - Můžeš ho volně sdílet za předpokladu, že uvedeš původního autora.
 - Můžeš ho volně upravovat za předpokladu, že zachováš licenci.
 
-Zdrojové soubory najdeš v #link("https://github.com/chamik/gympl-skripta", [repozitáři na Githubu]). Budu rád, pokud svůj případný příspěvek (ať už opravení překlepu, nebo třeba přidání celé knížky) budeš sdílet i tam.
+Zdrojové soubory najdeš v #link("https://github.com/chamik/gympl-skripta", [repozitáři na Githubu]). Budu rád, pokud svůj případný příspěvek (ať už opravení překlepu, nebo třeba přidání celé knížky) budeš sdílet i tam. Aktuální zdroj vždy najdeš na #link("https://chamik.eu/gympl-skripta/", [mých stránkách]).
 
 Přeji hodně štěstí u maturit.
 
