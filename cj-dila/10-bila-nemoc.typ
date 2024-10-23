@@ -1,4 +1,4 @@
-#import "/helper.typ": dilo
+#import "/helper.typ": dilo, replika
 
 #dilo("Bílá nemoc", "nemoc", "Karel Čapek", "", "Meziválečná lit.", [ČS -- První republika], "1937", "drama", "válečná tragédie")
 
@@ -13,7 +13,7 @@
   autorova současnost, místo neurčité (symbolika a původ však naznačuje Německo a Česko)
   
   *Postavy* \
-  _Doktor Galén (Dědina)_ - naivní, snaží se zastavit válku (ref. na R. U. R #underline[@rur[]]) \
+  _Doktor Galén (Dědina)_ - naivní, snaží se zastavit válku (ref. na R. U. R @rur[]) \
   _Maršál_ - voják, protipól Galéna, diktátor (připodobnění Adolfu Hitlerovi) \
   _Baron Krüg_ - přítel Maršála, výrobce zbraní \
   _Sigelius_ - dvorní rada, touží po slávě
@@ -42,7 +42,7 @@
 
   *Další díla*\
   Válka s mloky -- próza, antiutopie\
-  R. U. R. (#underline[@rur[]]) -- varování před zneužitím technologií\
+  R. U. R. (@rur[]) -- varování před zneužitím technologií\
   Věc Makropulos -- úvaha nad nesmrtelností
 
   
@@ -52,57 +52,32 @@
 
 *Ukázka*
 
-_Ulice._
-
-_Zástup lidí s prapory. Zpěv. Do toho volání: Ať žije maršál! Ať žije válka!
-Sláva maršálovi!_
-
-*SYN* _(z prvního aktu)_: A všichni najednou: Ať žije válka!
-
-*ZÁSTUP*: Ať žije válka!
-
-*SYN*: Nás vede maršál!
-
-*ZÁSTUP*: Nás vede maršál!
-
-*SYN*: Ať žije maršál!
-
-*ZÁSTUP*: Maršál! Maršál!
-
-_(Houkání auta, které si nemůže zástupem prorazit cestu.)_
-
-*DR. GALÉN* _(vyběhne s kufříkem v ruce)_: Doběhnu pěšky… Dovolte pro-
-sím… Prosím vás, pusťte mě… někdo mě čeká…
-
-*SYN*: Občané, volejte: Ať žije maršál! Ať žije válka!
-
-*DR. GALÉN*: Ne! Válka ne! Nesmí být žádná válka! Poslyšte, ne, válka
-nesmí být!
-
-*VÝKŘIKY*: Co to říkal? – Zrádce! – Zbabělec! – Mažte ho!
-
-*DR. GALÉN*: Musí být mír! Pusťte mne – Já jdu k maršálovi –
-
-*VÝKŘIKY*: Urazil maršála! – Na lucernu! – Zabte ho!
-
-_(Hlučící zástup se zavře kolem Dr. Galéna. Zmatená vřava.)_
-
-_(Zástup se rozestupuje. Na zemi leží Dr. Galén a jeho kufřík.)_
-
-*SYN* _(kopne do něho)_: Vstávej, potvoro! Koukej mazat, nebo –
-
-*JEDEN ZE ZÁSTUPU* _(klekne k ležícímu)_: Počkat, občane. Ono je po
-něm.
-
-*SYN*: Žádná škoda. O jednoho zrádce míň. Sláva maršálovi!
-
-*ZÁSTUP*: Ať žije maršál! Maršál! Mar-šál!
-
-*SYN* _(otevře kufřík)_: Hele, byl to nějaký doktor! _(Rozbíjí lahvičky s léky
-a dupe na ně.)_ Tak! Ať žije válka! Ať žije maršál!
-
-*ZÁSTUP* _(valí se dál)_: Maršál! Mar-šál! Ať – žije – maršál!
-
-_Opona._
+#table(columns: 2, stroke: none,
+  ..replika("", [_Ulice._]),
+  ..replika("", [_Zástup lidí s prapory. Zpěv. Do toho volání: Ať žije maršál! Ať žije válka! Sláva maršálovi!_]),
+  ..replika([Syn z prvního aktu], [A všichni najednou: Ať žije válka!]),
+  ..replika([Zástup], [Ať žije válka!]),
+  ..replika([Syn], [Nás vede maršál!]),
+  ..replika([Zástup], [Nás vede maršál!]),
+  ..replika([Syn], [Ať žije maršál!]),
+  ..replika([Zástup], [Maršál! Maršál!]),
+  ..replika("", [_(Houkání auta, které si nemůže zástupem prorazit cestu.)_]),
+  ..replika([Dr. Galén], [_(vyběhne s kufříkem v ruce)_ Doběhnu pěšky... Dovolte prosím... Prosím vás, pusťte mě... někdo mě čeká...]),
+  ..replika([Syn], [Občané, volejte: Ať žije maršál! Ať žije válka!]),
+  ..replika([Dr. Galén], [Ne! Válka ne! Nesmí být žádná válka! Poslyšte, ne, válka nesmí být!]),
+  ..replika([Výkřiky], [Co to říkal? -- Zrádce! -- Zbabělec! -- Mažte ho!]),
+  ..replika([Dr. Galén], [Musí být mír! Pusťte mne -- Já jdu k maršálovi --]),
+  ..replika([Výkřiky], [Urazil maršála! -- Na lucernu! -- Zabte ho!]),
+  ..replika("", [_(Hlučící zástup se zavře kolem Dr. Galéna. Zmatená vřava.)_]),
+  ..replika("", [_(Zástup se rozestupuje. Na zemi leží Dr. Galén a jeho kufřík.)_]),
+  ..replika([Syn], [_(kopne do něho)_ Vstávej, potvoro! Koukej mazat, nebo --]),
+  ..replika([Jeden ze zástupu], [_(klekne k ležícímu)_ Počkat, občane. Ono je po něm.]),
+  ..replika([Syn], [Žádná škoda. O jednoho zrádce míň. Sláva maršálovi!]),
+  ..replika([Zástup], [Ať žije maršál! Maršál! Mar-šál!]),
+  ..replika([Syn], [_(otevře kufřík)_ Hele, byl to nějaký doktor! _(Rozbíjí lahvičky s léky
+a dupe na ně.)_ Tak! Ať žije válka! Ať žije maršál!]),
+  ..replika([Zástup], [_(valí se dál)_ Maršál! Mar-šál! Ať – žije – maršál!]),
+  ..replika("", [_Opona._]),
+)
 
 #pagebreak()

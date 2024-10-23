@@ -7,7 +7,7 @@
   Budování lásky během války
 
   *Motivy*\
-  krutost a nesmyslnost války, přeměna člověka válkou, láska X nenávist
+  krutost a nesmyslnost války, přeměna člověka válkou, láska $times$ nenávist
 
   *Časoprostor*\
   Paříž; přesně 30. 1. -- Velký pátek 29. 3. 1918 (dva měsíce)
@@ -31,14 +31,9 @@
   Petr a Lucie se potkají v metru při panice z výstřelů. Později se znovu setkávají a zamilují se. Petr je povolán do války. To nechce, proto se zasnoubí. Na Velký pátek jdou do kostela, to je ale Paříž ostřelována, kostel je trefen a oba zahynou.
 
   *Literárně historický kontext*\
-  Vydáno krátce po válce, časté téma války. realismus+naturalismus X modernismus+avantgarda. Realismus objektivní, přesný, konkrétní, pro širokou veřejnost, dystopie (George Orwell). Modernismus pro úzký okruh čtenářů, o nitru člověka.
+  Vydáno krátce po válce, časté téma války. realismus+naturalismus $times$ modernismus+avantgarda. Realismus objektivní, přesný, konkrétní, pro širokou veřejnost, dystopie (George Orwell). Modernismus pro úzký okruh čtenářů, o nitru člověka.
 
   V 60. letech na Slovensku vznikl film a opera Peter a Lucia. Jinak kniha mimo Česko už nikoho nezajímá, článek na anglické Wikipedii ještě nedávno neexistoval.
-
-  Současníci:\
-  Erich Maria Remarque -- Na západní frontě klid (#underline[@zapadni[]])\
-  Ernest Hemingway -- Sbohem armádo! (#underline[@starec[]])\
-  Jaroslav Hašek -- Osudy dobrého vojáka Švejka za světové války\
 ]
 
 #pagebreak()

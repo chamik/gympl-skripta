@@ -1,27 +1,6 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Erich Maria Remarque* \
-      1898--1970
-      
-      spisovatel
+#import "/helper.typ": autor
 
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      učitelský ústav v Münsteru
-
-      #smallcaps("směr")\
-      pacifismus, ztracená generace
-      
-      #colbreak()    
-      #align(center, image("/cj-autori/media/remarque.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Erich Maria Remarque", "1898", "1970 (72 let)", "spisovatel", "učitelský ústav v Münsteru", "pacifismus, ztracená generace", "/cj-autori/media/remarque.jpg")
 
 Roku 1916 odešel v 18 letech do první světové války, na západní frontě byl brzy vážně raněn a konec války prožil v lazaretu v Duisburgu. Po návratu z války měl problémy začlenit se do normální společnosti. Vystřídal řadu povolání, nejprve chtěl být hudebníkem a později malířem. Pracoval též jako učitel, automobilový závodník, obchodní cestující aj. Působil i jako redaktor časopisů „Sport im Bild“ v Berlíně a „Echo Continental“ v Hannoveru. 
 
@@ -40,7 +19,7 @@ Mezi jeho známá díla patří:
 *Současníci*\
 
 _Romaine Rolland_ -- Petr a Lucie, 1920 \
-_Ernest Hemingway_ -- Stařec a moře (#underline[@starec[]]), 1952\
+_Ernest Hemingway_ -- Stařec a moře (@starec[]), 1952\
 _Jaroslav Hašek_ -- Osudy dobrého vojáka Švejka, 1923\
 
 #pagebreak()

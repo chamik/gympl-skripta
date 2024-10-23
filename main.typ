@@ -1,3 +1,4 @@
+#import "@preview/ccicons:1.0.0": cc-by-sa
 #import "helper.typ": *
 
 #set document(title: [Gympl Skripta], author: "Jakub Hampl", date: auto)
@@ -8,6 +9,9 @@
 #set quote(block: true)
 #set par(justify: true)
 
+#show link: it => underline(stroke: (thickness: 1pt, dash: "dotted"), offset: 2pt, it)
+#show ref: it => underline(stroke: (thickness: 1pt, dash: "dotted"), offset: 2pt, it)
+
 #let titlepage(a) = [
   #set text(size: 30pt)
   #align(center + horizon, heading(numbering: "I.", [#a]))
@@ -16,15 +20,18 @@
 
 #[
   #set page(margin: 3cm)
+  #set par(leading: .3em)
   #set text(size: 100pt)
   
   Gympl skripta
 
-  #set text(size: 18pt)
+  #set text(size: 30pt)
   Jakub Hampl
   
   #text(size: 12pt)[#align(center + bottom)[
-    Naposledy aktualizováno #datetime.today().day(). #datetime.today().month(). #datetime.today().year()
+    Naposledy aktualizováno #datetime.today().day(). #datetime.today().month(). #datetime.today().year()\
+    #v(.4em)\
+    #text(size: 30pt)[#cc-by-sa]
   ]]
 ]
 

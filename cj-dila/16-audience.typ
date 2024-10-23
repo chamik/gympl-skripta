@@ -1,4 +1,4 @@
-#import "/helper.typ": dilo
+#import "/helper.typ": dilo, replika
 
 #dilo("Audience", "audience", "Václav Havel", "", "2. p. 20. st.", "ČSSR", "1975", "drama", "tragikomedie")
 
@@ -7,7 +7,7 @@
   absurdita socialismu
 
   *Motivy*\
-  pivovar, intelektuálové X burani, pracovní morálka, normalizace
+  pivovar, intelektuálové $times$ burani, pracovní morálka, normalizace
 
   *Časoprostor*\
   \70. léta 20. st., ČSSR, sládkova kancelář
@@ -25,12 +25,12 @@
   jednoaktová, odděleno odchody Sládka na záchod
 
   *Jazykové prostředky*\
-  opakování replik ("a nebuďte smutnej"), spisovná X hovorová čeština, apoziopeze značená "--"
+  opakování replik ("a nebuďte smutnej"), spisovná $times$ hovorová čeština, apoziopeze
 
   #colbreak()
 
   *Obsah*\
-  Levná kopie Čekání na Godota (#underline[@godot[]]).
+  Levná kopie Čekání na Godota (@godot[]).
 
   Spisovatel Ferdinand Vaněk musí za totality pracovat v pivovaru, kde válí sudy. Sládek chce Vaňka povýšit na skladníka, díky čemuž by i mohl psát své hry. Sládek pro StB píše zprávy o Vaňkovi, Vaněk by ale ve skladu musel sám na sebe donášet. Vaněk pochopí bezvýchodnost a absurditu situace, tak hru zakončí vyexováním piva a prohlášením "Je to všechno na hovno --".
 
@@ -45,36 +45,24 @@
 
 *Ukázka*
 
-SLÁDEK A v tom skladu by to bylo přece taky dobrý, ne? Teplo -- fůra času --
-
-VANĚK Bylo by to výborné --
-
-_(Pauza)_
-
-SLÁDEK No -- tak o co teda jde?
-
-_(Pauza)_
-
-VANĚK Pane sládku --
-
-SLÁDEK Co je?
-
-VANĚK Já jsem vám opravdu velmi vděčen za vše, co jste pro mne udělal -- vážím si toho, protože sám vím nejlíp, jak je takový postoj dnes vzácný -- vytrhl jste mi tak říkajíc trn z paty, protože já vážně nevím, co bych si bez vaší pomoci počal -- to místo ve skladu by pro mne znamenalo větší úlevu, než si možná myslíte -- jenomže já -- nezlobte se -- já přece nemůžu donášet sám na sebe --
-
-SLÁDEK Jaký donášení? Kdo tady mluví o donášení?
-
-VANĚK Nejde o mě -- mně to uškodit nemůže -- ale jde přece o princip! Já se přece z principu nemůžu podílet na --
-
-SLÁDEK Na čem? No jen to řekni! Na čem se nemůžeš podílet?
-
-VANĚK Na praxi, s kterou nesouhlasím --
-
-_(Krátká, napjatá pauza)_
-
-SLÁDEK Hm. Tak nemůžeš. Ty teda nemůžeš. To je výborný! Teď ses teda vybarvil! Teď ses teda ukázal! _(Sládek vstane a začne rozčileně přecházet po místnosti)_ A co já? Mě v tom necháš, viď? Na mě se vykašleš! Já můžu bejt svině! Já se v tom bahně můžu patlat, na mně nezáleží, já jsem jen obyčejnej pivovarskej trouba -- ale pán, ten se podílet nemůže! Já se pošpinit můžu -- jen když pán zůstane čistej! Pánovi, tomu jde o princip! Ale co ostatní, na to už nemyslí! Jen když on je hezkej! Princip je mu milejší než člověk! To jste celí vy!
-
-VANĚK Kdo my?
-
-SLÁDEK No vy! Inteligenti! [...]
+#table(columns: 2, stroke: none,
+  ..replika("Sládek", [A v tom skladu by to bylo přece taky dobrý, ne? Teplo -- fůra času --]),
+  ..replika("Vaněk", [Bylo by to výborné --]),
+  ..replika("", [_(Pauza)_]),
+  ..replika("Sládek", [No -- tak o co teda jde?]),
+  ..replika("", [_(Pauza)_]),
+  ..replika("Vaněk", [Pane sládku --]),
+  ..replika("Sládek", [Co je?]),
+  ..replika("Vaněk", [Já jsem vám opravdu velmi vděčen za vše, co jste pro mne udělal -- vážím si toho, protože sám vím nejlíp, jak je takový postoj dnes vzácný -- vytrhl jste mi tak říkajíc trn z paty, protože já vážně nevím, co bych si bez vaší pomoci počal -- to místo ve skladu by pro mne znamenalo větší úlevu, než si možná myslíte -- jenomže já -- nezlobte se -- já přece nemůžu donášet sám na sebe --]),
+  ..replika("Sládek", [Jaký donášení? Kdo tady mluví o donášení?]),
+  ..replika("Vaněk", [Nejde o mě -- mně to uškodit nemůže -- ale jde přece o princip! Já se přece z principu nemůžu podílet na --]),
+  ..replika("Sládek", [Na čem? No jen to řekni! Na čem se nemůžeš podílet?]),
+  ..replika("Vaněk", [Na praxi, s kterou nesouhlasím --]),
+  ..replika("", [_(Krátká, napjatá pauza)_]),
+  ..replika("Sládek", [Hm. Tak nemůžeš. Ty teda nemůžeš. To je výborný! Teď ses teda vybarvil! Teď ses teda ukázal! _(Sládek vstane a začne rozčileně přecházet po místnosti)_ A co já? Mě v tom necháš, viď? Na mě se vykašleš! Já můžu bejt svině! Já se v tom bahně můžu patlat, na mně nezáleží, já jsem jen obyčejnej pivovarskej trouba -- ale pán, ten se podílet nemůže! Já se pošpinit můžu -- jen když pán zůstane čistej! Pánovi, tomu jde o princip! Ale co ostatní, na to už nemyslí! Jen když on je hezkej! Princip je mu milejší než člověk! To jste celí vy!]),
+  ..replika("Vaněk", [Kdo my?]),
+  ..replika("Sládek", [No vy! Inteligenti!]),
+  ..replika("", [[...]]),
+)
 
 #pagebreak()

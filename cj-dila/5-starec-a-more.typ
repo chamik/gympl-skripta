@@ -4,7 +4,7 @@
 
 #columns(2, gutter: 1em)[
   *Téma*\
-  "Člověka je možno zničit, ale ne porazit";
+  #underline["Člověka je možno zničit, ale ne porazit"];
   stařec vyrazí na lov velké ryby 
   
   *Motivy*\

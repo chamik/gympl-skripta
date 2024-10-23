@@ -1,27 +1,6 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Alena Mornštajnová* \
-      1963 -- současnost
-      
-      spisovatelka
+#import "/helper.typ": autor
 
-      #colbreak()
-
-      #smallcaps("vystudovala")\
-      Ostravská univerzita
-
-      #smallcaps("směr")\
-      moderní romány
-      
-      #colbreak()    
-      #align(center, image("/cj-autori/media/mornstajnova.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Alena Mornštajnová", "1963", "", "spisovatelka", "Ostravská univerzita", "moderní romány", "/cj-autori/media/mornstajnova.jpg")
 
 Narodila se ve #underline[Valašském Meziříčí]. Původně se chtěla stát překladatelkou, ale za režimu několikrát nebyla přijata na FF UK. Chvíli učila na jazykové škole, kdy vydala svoji první knihu. Od té doby se živí čistě psaním.  
 
@@ -31,6 +10,15 @@ Její nedávná minulost je poskvrněná obviněním, že měla údajně záplet
 
 Mezi jeho známá díla patří:
 
+1. *Tiché roky* -- Zoufalý, depresivní příběh jedné zdánlivě obyčejné rodiny
+
+2. *Listopád* -- Alternativní historie po listopadu 1989
+
 *Současníci*\
+
+_Patrik Hartl_ -- Gazely, 2023\
+_Kateřina Tučková_ -- Vyhnání Gerty Schnirch, 2009\
+_Karin Lednická_ -- Šikmý kostel, 2020\
+_Michal Viewegh_ -- Báječná léta pod psa (@pes[]), 1992 
 
 #pagebreak()

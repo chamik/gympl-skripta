@@ -1,27 +1,6 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Viktor Dyk* \
-      1877 -- 1931 (51 let)
+#import "/helper.typ": autor
 
-      #smallcaps("povolání") -- politik, básník, dramatik, novinář, kritik divadelní i literární, šachista
-
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      gymnázium a práva na UK
-
-      #smallcaps("směr")\
-      buřič, později nacionalista
-      
-      #colbreak()    
-      #align(center, image("/cj-autori/media/dyk.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Viktor Dyk", "1877", "1931 (54 let)", "politik, básník, dramatik, novinář, kritik divadelní i literární, šachista", "gymnázium a práva na UK", "buřič, později nacionalista", "/cj-autori/media/dyk.jpg")
 
 Viktor Dyk byl významný český spisovatel, básník a dramatik, aktivní především na přelomu 19. a 20. Narodil se v #underline[Pšovce u Mělníka]. Jeho tvorba reflektovala dynamické a komplikované období před první světovou válkou a meziválečnou érou, během níž se česká společnost intenzivně potýkala s otázkami identity, politiky a sociálních nerovností.
 

@@ -1,27 +1,6 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Jo Nesbø* \
-      1960--nyní (64 let)
-      
-      spisovatel
+#import "/helper.typ": autor
 
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      Norwegian School of Economics
-
-      #smallcaps("směr")\
-      thriller
-      
-      #colbreak()    
-      #align(center, image("/cj-autori/media/nesbo.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Jo Nesbø", "1960", "", "spisovatel", "Norwegian School of Economics", "thrillery", "/cj-autori/media/nesbo.jpg")
 
 Chtěl se stát profesionálním hráčem fotbalu, ale zranil se, proto začal studovat ekonomii. Stal se z něj burzovní makléř a později i finanční analytik v největší makléřské společnosti v Norsku. S mladším bratrem Knutem založili vlastní skupinu _Di Derre_ a se stali idoly norské rockové scény s rekordním počtem prodaných alb a až 180 odehranými koncerty ročně. Na několik měsíců odletěl do Austrálie, kde se naplno načal věnovat psaní. Věnuje se horolezectví, v 62 letech přelezl úsek obtížnosti 8a. Všehovšudy je to renesanční muž.
 
@@ -38,7 +17,7 @@ Mezi jeho známá díla patří:
 *Současníci*\
 
 _C. J. Tudor_ -- Ti Druzí, 2020\
-_Dick Francis_ -- \
-_Ed McBain_ -- Dveře, 
+_Dick Francis_ -- Rozkazem, 2006\
+_Robert Galbraith_#footnote[pseudonym J.K. Rowlingové] -- Neklidná krev, 2020 
 
 #pagebreak()

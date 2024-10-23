@@ -12,7 +12,7 @@
   *Časoprostor* různě, často symbolicky
 
   *Kompozice* \
-  zrcadlová, protější balady spolu vždy nějak souvisí; 13 balad
+  #underline[zrcadlová], protější balady spolu vždy nějak souvisí; 13 balad
 
   *Obsah*\
 

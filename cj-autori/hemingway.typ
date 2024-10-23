@@ -1,27 +1,6 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Ernest Hemingway* \
-      1899--1961
+#import "/helper.typ": autor
 
-      spisovatel, novinář
-
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      Oak Park and River Forest High School
-
-      #smallcaps("směr")\
-      ztracená generace, modernismus
-
-      #colbreak()
-      #align(center, image("/cj-autori/media/hemingway.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Ernest Hemingway", "1899", "1961 (62 let)", "spisovatel, novinář", "Oak Park and River Forest High School", "ztracená generace, modernismus", "/cj-autori/media/hemingway.jpg")
 
 Ernest Hemingway byl americký spisovatel, narozený 21. července 1899 a zemřelý 2. července 1961. Jeho život a literární kariéra se odehrály v období mezi první a druhou světovou válkou a během studené války. Hemingway byl silně ovlivněn svými zkušenostmi jako válečný zpravodaj, lovec a cestovatel.
 
@@ -29,7 +8,7 @@ Hemingwayho názory byly formovány jeho osobními zkušenostmi a vnímáním sv
 
 Umělecky Hemingway zastupoval literární směr známý jako modernismus, ve kterém byl charakteristický jednoduchým a strohým stylem psaní, který se soustředil na esenciální prvky a vyhýbal se zbytečným zdobením. Jeho díla jsou často považována za příklad tzv. "metody ledovce", kde pod povrchem zdánlivě jednoduchých situací skrývá složité a hluboké emocionální a filozofické témata.
 
-Pro víc info viz otázku z angličtiny #underline[@hemingway[]].
+Pro víc info viz otázku z angličtiny @hemingway[].
 
 Mezi jeho známá díla patří:
 
@@ -39,7 +18,7 @@ Mezi jeho známá díla patří:
 
 *Současníci*\
 _Romaine Rolland_ -- Petr a Lucie, 1920 \
-_Erich Maria Remarque_ -- Na západní frontě klid (#underline[@zapadni[]]), 1928\
+_Erich Maria Remarque_ -- Na západní frontě klid (@zapadni[]), 1928\
 _Jaroslav Hašek_ -- Osudy dobrého vojáka Švejka, 1923\
 
 #pagebreak()

@@ -1,27 +1,6 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Václav Havel* \
-      1936--2011 (75 let)
+#import "/helper.typ": autor
 
-      spisovatel, prezident
-
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      ČVUT, DAMU
-
-      #smallcaps("směr")\
-      \2. pol. 20. st.
-
-      #colbreak()
-      #align(center, image("/cj-autori/media/havel.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Václav Havel", "1936", "2011 (75 let)", "spisovatel, prezident", "ČVUT, DAMU", "demokratický", "/cj-autori/media/havel.jpg")
 
 Spoluzakladatel Charty 77, pět let byl vězněn, během normalizace (1969--1989) měl zakázáno publikovat. V 60. letech 20. století působil v divadle Na zábradlí. Obdržel Rakouskou státní cenu za evropskou literaturu. Poté dvakrát získal v New Yorku cenu Obie. Dalším úspěchem byla Mírová cena německých knihkupců.
 
@@ -40,8 +19,8 @@ Mezi jeho známá díla patří:
 4. Audience
 
 *Současníci*\
-Samuel Beckett -- Čekání na Godota, 1952 (#underline[@godot[]])\
-Milan Kundera -- Žert, 1967\
-Ota Pavel -- Smrt krásných srnců, 1971
+_Samuel Beckett_ -- Čekání na Godota (@godot[]), 1952\
+_Milan Kundera_ -- Žert, 1967\
+_Ota Pavel_ -- Smrt krásných srnců, 1971
 
 #pagebreak()

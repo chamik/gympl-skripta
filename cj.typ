@@ -2,7 +2,7 @@
 
 #heading(level: 2, "Díla")
 
-Následuje seznam 22 knih, které jsem si vybral já a které jsou podrobně zpracované dále.#footnote[Prvních 20 je vypracovaných mnou, dvě navíc Marianem kvůli rozdílu v našich výběrech knih.] Pokud tě zajímá spíš rychlý přehled, podívej se na #href("https://knih.chamik.eu/", "knih.chamik.eu") a hledej štítek `maturita`. Celý seznam knížek kánonu najdeš na #href("https://www.gjp-me.cz/maturity/", "gjp-me.cz/maturity").
+Následuje seznam 22 knih, které jsem si vybral já#footnote[Prvních 20 je vypracovaných mnou, dvě navíc Marianem kvůli rozdílům v našich výběrech.] a které jsou podrobně zpracované dále. Pokud tě zajímá spíš rychlý přehled, podívej se na #link("https://knih.chamik.eu/tags/#maturita", "knih.chamik.eu") a hledej štítek `maturita`. Celý seznam knížek kánonu najdeš na #link("https://www.gjp-me.cz/maturity/", "gjp-me.cz/maturity").
 
 V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #highlight("dramatu", fill: green). Lze mít nejvíce dvě díla od stejného autora.
 

@@ -1,27 +1,6 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Vítězslav Nezval* \
-      1900--1958
+#import "/helper.typ": autor
 
-      básník, spisovatel, překladatel
-
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      gymnázium v Třebíči
-
-      #smallcaps("směr")\
-      poetismus, surrealismus
-
-      #colbreak()
-      #align(center, image("/cj-autori/media/nezval.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Vítězslav Nezval", "1900", "1958 (58 let)", "básník, spisovatel, překladatel", "gymnázium v Třebíči", "poetismus, surrealismus", "/cj-autori/media/nezval.jpg")
 
 Roku 1922 vstoupil do Devětsilu, v jeho rámci se podílel na založení poetismu, nového básnického směru. Chtěl najít metodu, jak nahlížet na život, aby byl básní. Postupně se stal politickým iniciátorem českého avantgardního hnutí. Roku 1924 vstoupil do KSČ. 
 
@@ -39,6 +18,6 @@ Mezi jeho známá díla patří:
 
 _Jaroslav Seifrt_ -- Na vlnách TSF, 1925\
 _Karel Teige_ -- Abeceda (typografie), 1926\
-_Jiří Wolker_ -- Těžká hodina (#underline[@hodina[]]), 1922
+_Jiří Wolker_ -- Těžká hodina (@hodina[]), 1922
 
 #pagebreak()

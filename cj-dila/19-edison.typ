@@ -7,7 +7,7 @@
   podstata a význam vynálezce Thomase Alvy Edisona
 
   *Motivy*\
-  smysl tvorby, života, smrti a života; sebevrazi, hazardní hráči, prostitutky X úspěšný vynálezce
+  smysl tvorby, života, smrti a života; sebevrazi, hazardní hráči, prostitutky $times$ úspěšný vynálezce
 
   *Časoprostor*\
   přelom 19.--20. st. za života Edisona; toulky Prahou

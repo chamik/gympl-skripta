@@ -1,4 +1,4 @@
-#import "/helper.typ": dilo
+#import "/helper.typ": dilo, replika
 
 #dilo("České nebe", "nebe", "Z. Svěrák, L. Smoljak, J. Cimrman", "", "porevoluční", "ČR", "2008", "drama", "komedie")
 
@@ -41,36 +41,22 @@
 
 *Ukázka*
 
-_(Praotec Čech sedí na jevišti a kochá se pohanskými
+#table(columns: 2, stroke: none,
+  ..replika("", [_(Praotec Čech sedí na jevišti a kochá se pohanskými
 bůžky, které vytahuje z pytle u svých nohou. Když 
-vstoupí Komenský, praotec bůžky rychle schová. Komenský vypadá tak, jak ho známe z obrázku. Přes rameno má na šňůrce černou školní tabulku s pisátkem a hubkou. V ruce drží  velkou  tlustou knihu a plátěný pytlík se svačinou.)_
-
-*Komenský*:  Praotče  Čechu!  Já  ti  jednou  ty  tvoje  zatracené  bůžky  vezmu  a  vyhodím  na  smetiště. 
-Podívej, ty jako pohan bys tady v křesťanském nebi 
-správně neměl být. Proč jsem tě naučil číst? Proč 
-ti nosím nejnovější knížky, které dole vyjdou? 
-
-*Praotec*: Všechno už jsem přečet. Až na toho Stanislava Krychli Neumanna.  
-
-*Komenský*: Stanislava Kostku Neumanna. Tak toho číst nemusíš. To je pohan jako ty. Představ si, že by tě s těmi modlami přistihl svatý Václav. No, pověz, co ti minule řekl.  
-
-*Praotec*: Ještě jednou, a pomažeš.  
-
-*Komenský*: Ale kde vězí? Už by tu měl být.  
-
-*Praotec*: Asi se někde modlí.  
-
-*Komenský*:  To  ho  neomlouvá.  Já  se  také  modlím,  a  chodím  včas.  Ale  než  přijde,  vyzkouším  tě. 
-Promrskáme si česká operní díla. Kdo složil Rusalku?
-
-*Praotec*: Zdeněk Fibich.  
-
-*Komenský*: Chyba. Antonín Dvořák. Kdo složil Prodanou nevěstu?
-
-*Praotec*: Bedřich...  
-
-*Komenský*: Správně...  
-
-*Praotec*: Podmáslí! 
+vstoupí Komenský, praotec bůžky rychle schová. Komenský vypadá tak, jak ho známe z obrázku. Přes rameno má na šňůrce černou školní tabulku s pisátkem a hubkou. V ruce drží  velkou  tlustou knihu a plátěný pytlík se svačinou.)_]),
+  ..replika("Komenský", [Praotče Čechu! Já ti jednou ty tvoje zatracené bůžky vezmu a vyhodím na smetiště. Podívej, ty jako pohan bys tady v křesťanském nebi správně neměl být. Proč jsem tě naučil číst? Proč ti nosím nejnovější knížky, které dole vyjdou?]),
+  ..replika("Praotec", [Všechno už jsem přečet. Až na toho Stanislava Krychli Neumanna.]),
+  ..replika("Komenský", [Stanislava Kostku Neumanna. Tak toho číst nemusíš. To je pohan jako ty. Představ si, že by tě s těmi modlami přistihl svatý Václav. No, pověz, co ti minule řekl.]),
+  ..replika("Praotec", [Ještě jednou, a pomažeš.]),
+  ..replika("Komenský", [Ale kde vězí? Už by tu měl být.]),
+  ..replika("Praotec", [Asi se někde modlí.]),
+  ..replika("Komenský", [To ho neomlouvá. Já se také modlím, a chodím včas. Ale než přijde, vyzkouším tě. Promrskáme si česká operní díla. Kdo složil Rusalku?]),
+  ..replika("Praotec", [Zdeněk Fibich.]),
+  ..replika("Komenský", [Chyba. Antonín Dvořák. Kdo složil Prodanou nevěstu?]),
+  ..replika("Praotec", [Bedřich...]),
+  ..replika("Komenský", [Správně...]),
+  ..replika("Praotec", [Podmáslí!]),
+)
 
 #pagebreak()

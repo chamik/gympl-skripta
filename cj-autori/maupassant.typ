@@ -1,27 +1,6 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Guy de Maupassant* \
-      1850--1893
-      
-      spisovatel
+#import "/helper.typ": autor
 
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      Lyceum Jindřicha IV.
-
-      #smallcaps("směr")\
-      realismus, naturalismus
-      
-      #colbreak()    
-      #align(center, image("/cj-autori/media/maupassant.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Guy de Maupassant", "1850", "1893 (43 let)", "spisovatel", "Lyceum Jindřicha IV.", "realismus, naturalismus", "/cj-autori/media/maupassant.jpg")
 
 Francouzský spisovatel 2. poloviny 19. století, spolu s Émilem Zolou a Gustavem Flaubertem představitel literárního realismu a naturalismu. Jeho šest románů a několik povídkových sbírek si zaslouží pozornost díky síle realismu, fantaskním prvkům a pesimismu, ale také díky stylistickému umění. Skutečná literární dráha Maupassanta je přitom vymezena pouhým desetiletím -- tvořil mezi lety 1880 a 1890. Uznání se dočkal již za svého života a i dnes je vnímán jako velikán francouzské literatury, jehož dílo se stále interpretuje a adaptuje. 
 
@@ -39,6 +18,6 @@ Mezi jeho známá díla patří:
 _Nikolaj V. Gogol_ -- Revizor, 1836\
 bratři _Mrštíkovi_ -- Maryša, 1894\
 _F. M. Dostojevskij_ -- Zločin a trest, 1866 \
-_Émil Zola_ -- Zabiják\
+_Émil Zola_ -- Zabiják, 1877
 
 #pagebreak()

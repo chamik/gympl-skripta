@@ -1,33 +1,12 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Jiří Wolker* \
-      1900--1924 (24 let)
-      
-      spisovatel, překladatel, novinář
+#import "/helper.typ": autor
 
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      PF UK
-
-      #smallcaps("směr")\
-      proletářská literatura
-      
-      #colbreak()    
-      #align(center, image("/cj-autori/media/wolker.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Jiří Wolker", "1900", "1924", "spisovatel, překladatel, novinář", "PF UK", "proletářská literatura", "/cj-autori/media/wolker.jpg")
 
 Byl členem skupiny #underline[Devětsil] která byla založena socialisticky orientovanými výtvarníky. Dalšími členy byli například J. Seifrt, nebo K. Teige. Devětsil se profiloval jako seskupení českých avantgardních umělců. Nejednalo se však pouze o literáty. Zastoupeni byli i herci, výtvarníci, hudebníci apod. Po založení se členové Devětsilu věnovali proletářskému umění a tzv. magickému realismu, od roku 1923 se angažovali v poetismu. Klíčové sborníky Devětsil a Život byly vydány v roce 1922. 
 
 Byl to významný představitel proletářské poezie, což je literární směr zobrazující hlavně dělnickou třídu, její útlak a vykořisťování. Díla proletářské poezie jsou silně provázána s levicovou ideologií. Tento směr vznikal ve 20. letech 20. století. 
 
-Zemřel předčasně na tuberkulózu. Napsal si vlastní #underline[epitaf]:
+Zemřel předčasně na tuberkulózu. #underline[Napsal si vlastní epitaf]:
 
 #quote[Zde leží Jiří Wolker, básník, jenž miloval svět
 a pro spravedlnost jeho šel se bít.
@@ -45,6 +24,6 @@ Mezi jeho známá díla patří:
 *Současníci*\
 _Stanislav Kostka Neumann_ -- Pozdrav T. G. Masarikovi, 1918 \
 _Jaroslav Seifrt_ -- Na vlnách TSF, 1925\
-_Vítězslav Nezval_ -- Edison (#underline[@edison[]]), 1928
+_Vítězslav Nezval_ -- Edison (@edison[]), 1928
 
 #pagebreak()

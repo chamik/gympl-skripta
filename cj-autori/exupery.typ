@@ -1,27 +1,6 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Antoine Marie Jean-Baptiste Roger, comte de Saint-Exupéry* \
-      1900--1944 (44 let)
-      
-      letec, spisovatel
+#import "/helper.typ": autor
 
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      Villa St. Jean International School (katolická škola)
-
-      #smallcaps("směr")\
-      existencialismus
-      
-      #colbreak()    
-      #align(center, image("/cj-autori/media/exupery.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Antoine Marie Jean-Baptiste Roger, comte de Saint-Exupéry", "1900", "1944 (44 let)", "letec, spisovatel", "Villa St. Jean International School (katolická škola)", "existencialismus", "/cj-autori/media/exupery.jpg")
 
 Antoine de Saint-Exupéry byl francouzský spisovatel, letec a filozof, narodil se 29. června 1900 a zemřel 31. července 1944. Jeho život byl poznamenán nejen válečnými zkušenostmi, ale i fascinací letectvím a touhou po pochopení lidské podstaty.
 

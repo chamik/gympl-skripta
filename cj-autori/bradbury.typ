@@ -1,29 +1,7 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Ray Bradbury* \
-      1920 -- 2012 (91 let)
-      
-      spisovatel
+#import "/helper.typ": autor
+#autor("Ray Bradbury", "1920", "2012 (91 let)", "spisovatel", "Los Angeles High School", "fantasy, sci-fi", "/cj-autori/media/bradbury.jpg")
 
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      Los Angeles High School
-
-      #smallcaps("směr")\
-      fantasy, sci-fi
-      
-      #colbreak()    
-      #align(center, image("/cj-autori/media/bradbury.jpg", height: 3.5cm))
-  ]]
-)
-
-Ray Bradbury byl americký spisovatel, narozený 22. srpna 1920 a zemřel 5. června 2012. Jeho literární kariéra se odehrála převážně v období 20. století, které bylo poznamenáno technologickým pokrokem, studenou válkou a rostoucím vlivem masových médií.
+Ray Bradbury byl americký spisovatel. Jeho literární kariéra se odehrála převážně v období 20. století, které bylo poznamenáno technologickým pokrokem, studenou válkou a rostoucím vlivem masových médií.
 
 Bradburyho názory se často obracely k otázkám lidského pokroku a technologického rozvoje. Byl skeptický vůči nadměrné závislosti na technologiích a varoval před možnými negativními dopady, které by mohly mít na lidskou společnost. Zároveň byl fascinován lidskou touhou po objevování a pochopení vesmíru.
 
@@ -38,7 +16,7 @@ Mezi další známá díla Raye Bradburyho patří:
 *Současníci*\
 _Isaac Asimov_ -- Já, robot, 1950 \
 _Arthur C. Clarke_ -- Vesmírná Odysea, 1968 \
-_G. Orwell_ -- Farma Zvířat (#underline[@farma[]]), 1945 \
-_Karel Čapek_ -- R. U. R. (#underline[@rur[]]), 1920 \
+_G. Orwell_ -- Farma Zvířat (@farma[]), 1945 \
+_Karel Čapek_ -- R. U. R. (@rur[]), 1920 \
 
 #pagebreak()

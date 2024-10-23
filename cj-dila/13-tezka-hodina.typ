@@ -22,45 +22,45 @@
   metafory, personifikace, rým sdružený a střídavý, vulgarismy, poetismy
 
   *Obsah*\
-  Těžká hodina -- přerod z chlapce na muže
+  _Těžká hodina_ -- přerod z chlapce na muže
 
-  Balada o nenarozeném dítěti -- neschopnost uživit dítě
+  _Balada o nenarozeném dítěti_ -- neschopnost uživit dítě
 
-  Slepí muzikanti -- jedinec se obětovává ve prospěch společnosti
+  _Slepí muzikanti_ -- jedinec se obětovává ve prospěch společnosti
 
-  Čepobití -- motiv válka
+  _Čepobití_ -- motiv válka
 
-  Tvář za sklem -- proletařská poezie
+  _Tvář za sklem_ -- proletařská poezie
 
-  Kázání na hoře -- vybízí k spravedlnosti a lepším podmínkám pro všechny
+  _Kázání na hoře_ -- vybízí k spravedlnosti a lepším podmínkám pro všechny
 
-  Oči -- přirovnání k bráně do srdce
+  _Oči_ -- přirovnání k bráně do srdce
 
-  Jaro -- přirovnání přírodního jara k obrození lidské společnosti
+  _Jaro_ -- přirovnání přírodního jara k obrození lidské společnosti
 
-  Balada o snu -- proletářská poezie, kontrast dvou světů
+  _Balada o snu_ -- proletářská poezie, kontrast dvou světů
 
-  Sloky -- pesimismus má být potlačen nadějí lepšího zítřka
+  _Sloky_ -- pesimismus má být potlačen nadějí lepšího zítřka
 
-  Pohřeb -- smrt Wolkerovy babičky Anežky Skládalové
+  _Pohřeb_ -- smrt Wolkerovy babičky Anežky Skládalové
 
-  Muž -- smrt Wolkrova dědečka Jiřího Skládala
+  _Muž_ -- smrt Wolkrova dědečka Jiřího Skládala
 
-  Fotografie -- sobeckost vyšších vrstev, proletářství
+  _Fotografie_ -- sobeckost vyšších vrstev, proletářství
 
-  Dům v noci -- motiv lásky a chudoby nižších vrstev
+  _Dům v noci_ -- motiv lásky a chudoby nižších vrstev
 
-  Mirogoj -- válka, hřbitov, smrt …
+  _Mirogoj_ -- válka, hřbitov, smrt …
 
-  Nevěrná -- nedodržená věrnost ženy muži
+  _Nevěrná_ -- nedodržená věrnost ženy muži
 
-  Odjezd -- pobyt Wolkera v Jugoslávii
+  _Odjezd_ -- pobyt Wolkera v Jugoslávii
 
-  Milenci -- láska a práce
+  _Milenci_ -- láska a práce
 
-  Balada o očích topičových -- kolektivismus
+  _Balada o očích topičových_ -- kolektivismus
 
-  Moře -- pobyt Wolkera u Jadranu na ostrově Krk
+  _Moře_ -- pobyt Wolkera u Jadranu na ostrově Krk
 
   *Literárně historický kontext*\
   Toto dílo je mnohem epičtější než jeho ostatní díla. Potřeboval v něm zachytit změnu a sám řekl že "lyrika je stav a epika je čin".

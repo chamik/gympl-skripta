@@ -1,26 +1,8 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(4, gutter: 5pt)[
-      *Zdeněk Svěrák* a *Ladislav Smoljak* \
-      1936--nyní a\ 1931--2010 (78let)
-      
-      režiséři, scénáristi
+#import "/helper.typ": autor
 
-      #colbreak()
+#autor("Zdeněk Svěrák", "1936", "", "režisér a scénárista", "učitelství češtiny", "novodobý", "/cj-autori/media/sverak.jpg")
 
-      #smallcaps("vystudovali")\
-      učitelství (Svěrák ČEJ, Smoljak MAT/FYZ)
-      
-      #colbreak()    
-      #align(center, image("/cj-autori/media/sverak.jpg", height: 3.5cm))
-      #colbreak()    
-      #align(center, image("/cj-autori/media/smoljak.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Ladislav Smoljak", "1931", "2010 (78 let)", "režisér a scénárista", "učitelství matematiky a fyziky", "novodobý", "/cj-autori/media/smoljak.jpg")
 
 Oba pracovali ve filmových studiích Barrandov. Režírovali spolu filmy Jáchyme hoď ho do stroje, Marečku podejte mi pero, Na samotě u lesa a Cimrmana. 
 
@@ -36,8 +18,8 @@ Smoljak hry: Hymna aneb Urfidlovačka, Malý říjen
 
 *Současníci*\
 
-Jaroslav Uhlíř -- písničky pro děti\
-Jan Svěrák (syn) -- spolupráce na filmech (Kolja, Vratné lahve, Kuki se vrací)\
-Jiří Šebánek -- spoluzakladatel divadla J. Cimrmana
+_Jaroslav Uhlíř_ -- písničky pro děti\
+_Jan Svěrák_ (syn) -- spolupráce na filmech (Kolja, Vratné lahve, Kuki se vrací)\
+_Jiří Šebánek_ -- spoluzakladatel divadla J. Cimrmana
 
 #pagebreak()

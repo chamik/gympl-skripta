@@ -32,27 +32,12 @@
   Guy Montag je požárník budoucnosti; místo toho, aby oheň hasil, podpaluje knihy (z toho název - při teplotě 451° Fahrenheita hoří papír) a pomáhá tak režimu držet kontrolu nad obyvatelstvem. Jednoho dne potká Clarissu, která mu pomůže vytrhnout se z monotónnosti života a vzbouřit se zachráněním knihy před ohněm. Doma má manželku Mildred, která tráví všechen svůj čas s “rodinkou” a už není schopná racionálně uvažovat. Mezitím co je Clarissa i s její rodinou odstraněna, začne něco větřit jeho velitel Beatty. Zjistí se, že doma ukrývá mnoho knih a s pomocí Fabera, bývalého a vystrašeného profesora, se dá před “spravedlností” na útěk. Ten se mu povede a setká s dalšími uprchlíky, kteří představují různé knihy; Guy se jedním takovým stal. Na město na konci dopadá atomová bomba. 
 
   *Literárně historický kontext*\
-  Na pozadí studené války, moderní technologie, hrozba atomové apokalypsy. Velmi brzo přeloženo do češtiny, ovšem obratem zakázáno režimem
+  Na pozadí studené války, moderní technologie, hrozba atomové apokalypsy. Velmi brzy přeloženo do češtiny, ovšem obratem zakázáno režimem
 ]
 
 #pagebreak()
 
 *Ukázka*
-
-V korunách stromů silně zahučelo, jak se z nich snášel ten suchý déšť. Dívka se zastavila a zdálo se, že snad překvapením ucouvne, ale zatím zůstala stát a prohlížela si Montaga očima tak temnýma a lesklýma a živoucíma, až si pomyslil, že jí asi musel říct něco neobyčejně úžasného. Věděl však, že pohnul rty, jen aby ji pozdravil, a když si všiml, že jí učaroval salamandr na jeho rukávu a odznak s Fénixem na prsou, promluvil znovu.
-
-„Už vím,“ řekl, „vy jste naše nová sousedka.“
-
-„A vy jste určitě —“ pozdvihla oči z odznaků jeho povolání „— požárník.“ Její hlas se ztratil v dálce.
-„Říkáte to nějak divně!“
-
-„Poznala bych — poznala bych to se zavřenýma očima,“ řekla pomalu.
-
-„Co — zápach petroleje? Moje žena si na něj pořád stěžuje,“ zasmál se. „Člověk se ho nikdy úplně nezbaví.“
-
-„Ne, to nezbaví,“ řekla stísněně
-
-#hrule()
 
 „Vystavujete se nebezpečí.“
 
@@ -64,17 +49,25 @@ V korunách stromů silně zahučelo, jak se z nich snášel ten suchý déšť.
 
 „Tím líp. Nevymyslel jste si to ani pro mne, ani pro někoho jiného, dokonce ani pro sebe ne.“
 
-Montag se naklonil k Faberovi. „Dnes odpoledne mě napadlo, že kdyby se ukázalo, že nám
-knihy za to stojí, mohli bychom sehnat tiskařský lis a vytisknout několik svazků —“
+#hrule()
 
-„My?“
+Montag nebyl s to udělat jediný pohyb. S ohněm přišlo obrovské zemětřesení, srovnalo dům se zemí, někde pod ním ležela Mildred a celý jeho život a on se nedokázal pohnout. Zemětřesení mu dosud otřásalo, chvělo a zmítalo nitrem a on stál s koleny podklesávajícími pod velikým nákladem únavy, zmatenosti a potupy a dovolil Beattymu, aby ho udeřil, aniž zdvihl ruku k obraně.
 
-„Vy a já.“
+„Montagu, ty idiote, ty pitomý blázne, jaký jsi k tomu měl důvod?“
 
-„Ach, to ne!“ Faber se vztyčil.
+Montag neslyšel, byl daleko, v duchu prchal, zmizel a zanechal svoje mrtvé, sazemi pomazané tělo, ať vrávorá před jiným bláznivým šílencem.
 
-„Ale dovolte mi, abych vám vysvětlil svůj plán —“
+„Montagu, uteč odtamtud!“ řekl Faber.
 
-„Jestli trváte na tom, že mi ho řeknete, budu vás muset požádat, abyste odešel.“
+Montag naslouchal. Beatty ho praštil do hlavy, až se zamotal a klesl nazad. Zelený náboj, v němž šeptal a volal Faberův hlas, vypadl na chodník. Beatty po něm chňapl, zašklebil se, zvedl ho. Přidržel si ho k uchu, napůl uvnitř, napůl ven.
+
+Montag slyšel vzdálený volající hlas: „Montagu, nestalo se ti nic?“
+
+Beatty vytáhl zelený náboj z ucha a strčil si ho do kapsy. „Aha — tak ono v tom vězí něco víc, než by mě napadlo. Viděl jsem, jak nakláníš hlavu a posloucháš. Nejdřív jsem si myslel, že máš mušličku. Ale když jsi potom najednou zchytřel, hned mi to bylo divné. Po téhle stopě půjdeme a na toho tvého přítele si posvítíme.“
+
+„Ne!“ vykřikl Montag.
+
+Trhl bezpečnostní pojistkou plamenometu. Beatty pohyb jeho prstů postřehl a oči se mu
+maloučko rozšířily. Montag v nich spatřil překvapení a pohlédl na své ruce, aby zjistil, co to zas provedly. Když na to později vzpomínal, nedokázal posoudit, jestli mu konečný popud k vraždě daly jeho ruce nebo Beattyho reakce na jejich pohyb. Kolem uší mu zahřmělo poslední zadunění valící se laviny, ale to už se ho nedotklo.
 
 #pagebreak()

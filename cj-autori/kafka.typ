@@ -1,27 +1,6 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Franz Kafka* \
-      1883--1924 (40 let)
+#import "/helper.typ": autor
 
-      úředník pojišťovny
-
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      práva na UK
-
-      #smallcaps("směr")\
-      existencialismus
-
-      #colbreak()
-      #align(center, image("/cj-autori/media/kafka.jpg", height: 3.5cm))
-  ]]
-)
+#autor("Franz Kafka", "1883", "1924 (40 let)", "úředník pojišťovny", "práva na UK", "existencialismus", "/cj-autori/media/kafka.jpg")
 
 Byl součástí takzvané #underline[pražské německé školy], což byli autoři kteří působili v Praze v druhé polovině 19. a na začátku 20. století. Převážně to byli pražští rodáci. Většinou byli původem Židé (kterým byl i Kafka), a z tohoto důvodu mnozí z nich před rokem 1939 emigrovali.
 
@@ -39,8 +18,8 @@ Mezi jeho známá díla patří:
 
 *Současníci*\
 
-Max Brod -- Hlídka \
-Egon Erwin Kisch "Zuřivý reportér" -- Pasák\
-Lion Feuchtwanger -- Žid Suss
+Max Brod -- Život plný bojů \
+Egon Erwin Kisch "Zuřivý reportér" -- Pasák, 1914\
+Lion Feuchtwanger -- Žid Suss, 1925
 
 #pagebreak()

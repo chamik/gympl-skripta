@@ -1,4 +1,4 @@
-#import "/helper.typ": dilo
+#import "/helper.typ": dilo, replika
 
 #dilo("Romeo a Julie", "romeo", "William Shakespeare", "J. Topol", "14. až 16. st.; renesance, humanismus", "Anglie", "1597", "drama", "tragédie")
 
@@ -50,10 +50,59 @@
 
   Obě rodiny se nad mrtvými těly svých dětí usmíří a postaví ve Veroně zlaté sochy Romea
   a Julie.
+
+  *Literárně historický kontext*\
+  Vzniklo v době vlády Alžběty I. kdy divadlo zažívalo velký rozkvět. V tomto období se psalo hlavně o lidských pocitech, individualismu a lásce.
 ]
 
 #pagebreak()
 
-*Ukázka*
+*Ukázka -- Jednání druhé, scéna 2*
+
+#table(columns: 2, stroke: none,
+..replika("", "[...]"),
+  ..replika("Julie", [
+    Romeo, Ó Romeo! -- proč's Romeo?\
+    Své jméno zapři, otce zřekni se,\
+    neb, nechceš-li, mně lásku přísahej,\
+    a nechci dál být Capuletova.
+  ]),
+  ..replika("Romeo", [_(stranou)_ Mám dále naslouchat, či, promluvit?]),
+  ..replika("Julie", [
+    Jen jméno tvé mým nepřítelem jest;\
+    ty's jen ty sám a nejsi Montekem.\
+    Co jest to Montek? ruka, ani noha,\
+    ni paž, ni tvář, ni jiná část, jež vlastní\
+    jest člověku. Ó, jiné jméno měj!\
+    Co jest to jméno? To, co růží zvem,\
+    pod jiným jménem sladce vonělo\
+    by zrovna tak. A tak Romeem nezván,\
+    Romeo podržel by veškerou\
+    tu vzácnou dokonalost, kterou má\
+    bez toho jména. -- Odlož jméno své,\
+    a za své jméno, jež tvou částí není,\
+    mne vezmi celou.
+  ]),
+  ..replika("Romeo", [
+    Za slovo tě beru.\
+    Jen láskou svou mne zvi a na novo\
+    tak budu pokřtěn; od té chvíle dál\
+    Romeo nechci býti nikdy víc.
+  ]),
+  ..replika("Julie", [Kdo's ty, jenž nocí zastřen vtíráš se v mé tajemství?]),
+  ..replika("Romeo", [
+    Dle jména nevím, jak\
+    bych řekl ti, kdo jsem. Své jméno sám,\
+    ó, drahá světice, mám v nenávisti,\
+    neb vím, ţe tobě nepřítelem jest;\
+    je, kdybych psané měl, bych roztrhal.
+  ]),
+  ..replika("Julie", [
+    Sto slov mé ucho ještě nevpilo,\
+    jež prones' jazyk tvůj, a znám ten hlas.\
+    Nejsi Romeo, jeden z Monteků?
+  ]),
+  ..replika("", "[...]")
+)
 
 #pagebreak()

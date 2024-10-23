@@ -1,27 +1,5 @@
-#counter(footnote).update(0)
-#block(
-  fill: luma(230),
-  inset: 8pt,
-  radius: 4pt,
-  width: 100%,
-  [#columns(3, gutter: 5pt)[
-      *Samuel Beckett* \
-      1906--1989
-      
-      dramatik, básník
-
-      #colbreak()
-
-      #smallcaps("vystudoval")\
-      Trinity College
-
-      #smallcaps("směr")\
-      absurdismus
-      
-      #colbreak()    
-      #align(center, image("/cj-autori/media/beckett.jpg", height: 3.5cm))
-  ]]
-)
+#import "/helper.typ": autor
+#autor("Samuel Becket", "1906", "1989 (83 let)", "dramatik, básník", "Trinity College", "absurdismus", "/cj-autori/media/beckett.jpg")
 
 Psal eseje, prózy a básně, ovšem proslavil se hlavně svými absurdními dramaty. Celý život se potýkal s alkoholismem a depresemi. 
 
@@ -39,7 +17,7 @@ Mezi jeho další díla patří:
 
 *Současníci*\
 
-Eugene Ionesco -- Plešatá zpěvačka, 1950\
-Václav Havel#footnote[Jednu svoji hru Beckett Havlovi věnoval.] -- Audience, 1975
+_Eugene Ionesco_ -- Plešatá zpěvačka, 1950\
+_Václav Havel#footnote[Jednu svoji hru Beckett Havlovi věnoval.]_ -- Audience, 1975
 
 #pagebreak()

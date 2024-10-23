@@ -42,6 +42,8 @@
 
 *Ukázka*
 
+[...]
+
 Kulička, jak ve spěchu vstávala, nemohla při tom zmatku ani na nic pamatovat; dívala se
 rozhořčeně na všechny ty lidi, jak se živí, a dusila se zlostí. Zpočátku se v ní všechno bouřilo
 spravedlivým hněvem; ale rozčilení jí tak sevřelo hrdlo, že se ani nevzmohla na slovo. Nikdo se na ni nepodíval, nikdo si na ni ani nevzpomněl. Cítila, jak je bezmocná proti opovržení těch počestných hňupů, kteří ji napřed obětovali a pak odhodili jako nějakou nečistou věc, kterou už nepotřebují. Tu si vzpomněla, jak jí hltavě spolykali celý košík, plný dobrot. Najednou v ní zuřivost opadla, jako když praskne příliš napjatá struna; ucítila, že má pláč na krajíčku. Ze všech sil se snažila přemoci, bránila se tomu, polykala slzy jako dítě, ale slzy se jí tlačily do očí čím dál víc a víc, zableskly se v koutku víček, zanedlouho jí skanuly z očí dvě veliké kapky a stékaly pomalu po tvářích dolů…

@@ -1,8 +1,8 @@
 #import "helper.typ": *
 
-Ústní maturita z angličtiny je docela bolest, protože je zhruba 50% šance, že dostanete otázku na zeměpis/osobnost, která se anglicky jenom tváří. Ostatní otázky jsou spíše o vlastních názorech. Následují poznámky ke všem tématům, které lze nalézt na #href("https://www.gjp-me.cz/maturity/", "gjp-me.cz/maturity").
+Ústní maturita z angličtiny je docela bolest, protože je zhruba 50% šance, že dostanete otázku na zeměpis/osobnost, která se anglicky jenom tváří. Ostatní otázky jsou spíše o vlastních názorech, proto pro tebe moje výpisky pravděpodobně nebudou moc relevantní. Následují poznámky ke všem tématům, které lze nalézt na #link("https://www.gjp-me.cz/maturity/", "gjp-me.cz/maturity").
 
-All important words are #underline[underlined].
+Nevím jak u ostatních témat, ale pokud si stejně jako já vytáhnete Londýn, dostanete hromadu pamfletů, ze kterých toho lze hodně vykoukat. 
 
 == British literature
 todo: Shakespeare, C. J. Tudor, George Orwell, J. R. R. Tolkien (and beef with Herbert)
@@ -12,7 +12,7 @@ todo: Mark Twain, E. A. Poe (studied in england though), William Gibson, Frank H
 
 == William Shakespeare 
 
-see also #underline[@romeo[Romeo a Julie]]
+see also @romeo[Romeo a Julie]
 
 William Shakespeare, often regarded as the greatest playwright in the English language, lived during the late 16th and early 17th centuries. Here's a brief historical background of Shakespeare and the time in which he lived:
 
@@ -42,7 +42,7 @@ He liked hunting (Green hills of africa), fishing (old man... he wrote in when h
 
 He was apart of the "Lost generation" -- wrote works such as _A Farewell to Arms_ (Sbohem armádo), or _For Whom the Bell Tolls_ (Komu zvoní hrana).
 
-His most famous book is titled _The Old Man and the Sea_ (Stařec a Moře #underline[@starec[]]). For this book he was awarded the Pulitzer Prize in 1953 and the Nobel Prize in Literature in 1954. #underline["A man can be destroyed, but not defeated"]
+His most famous book is titled _The Old Man and the Sea_ (Stařec a Moře @starec[]). For this book he was awarded the Pulitzer Prize in 1953 and the Nobel Prize in Literature in 1954. #underline["A man can be destroyed, but not defeated"]
 
 Hemingway killed himself with his fathers shotgun -- mental health issues. 
 
@@ -118,7 +118,7 @@ _do we eat to live or live to eat?_
   - Bachelors (3 years) or Masters (5 years)
   - thesis and state exam
 
-todo: British school system
+The British school system:
 - Early Years Foundation Stage (EYFS): Ages 3-5, includes Nursery and Reception.
 - Primary Education: Ages 5-11, includes Key Stage 1 (ages 5-7, Years 1-2) and Key Stage 2 (ages 7-11, Years 3-6).
 - Secondary Education: Ages 11-16, includes Key Stage 3 (ages 11-14, Years 7-9) and Key Stage 4 (ages 14-16, Years 10-11), culminating in General Certificate of Secondary Education (GCSE) exams.
@@ -134,7 +134,7 @@ todo: British school system
 - museum of literature
 - i like theater: Kytice
 - FILMS! Tenet (Christopher Nolan), Dune (Denis Villeneuve)
-- BOOKS!!! The Three Body Problem, maturita books...
+- BOOKS!!! The Three Body Problem, maturita books... #underline[#link("https://knih.chamik.eu/", [knih.chamik.eu])]
 
 == Exceeding boundaries -- holidays, travelling, transport
 
@@ -305,7 +305,7 @@ Two main political parties -- Labour party, Conservative party
 
 They don't have a written constitution, #underline[uncodified constitution].
 
-60 million inhabitants, mostly protestant christians (Church of England founded by Herny the VIII), a lot of nationalities, a lot of dialects (#underline[@worldlang[]])
+60 million inhabitants, mostly protestant christians (Church of England founded by Herny the VIII), a lot of nationalities, a lot of dialects (@worldlang[])
 
 Economy:
 services -- banks, insurance, stock exchange
@@ -762,7 +762,7 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
 
 - different types of mediums: newspapers and magazines, radio, TV... digital
   - pessimism is better for the views
-- Social media dangers and addictions, see #underline[@addictions[]]
+- Social media dangers and addictions, see @addictions[]
 - AI (artificial inteligence)
   - in schools #sym.arrow cheating students, AI generated assignments
   - in society #sym.arrow where is the line between artificial and real inteligence?
@@ -777,3 +777,4 @@ It used to be a #underline[dowry town] (a wedding gift) given by Charles IV. Cze
   - undermined by the state and by the advertisement sector (and more)
   - private data used to serve personalized ads
   - Meta (Facebook, Instagram), Google, Amazon...
+  - Orwell kind of future, see @farma[chapter]

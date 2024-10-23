@@ -4,7 +4,7 @@
 
 #columns(2, gutter: 1em)[
   *Téma*\
-  Abusrdní situace Řehoře Samsy 🪲.
+  Abusrdní situace Řehoře Samsy.
   
   *Motivy*\
   beznaděj, smíření, absurdita, samota
