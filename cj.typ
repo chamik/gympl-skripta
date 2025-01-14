@@ -85,6 +85,7 @@ V seznamu je potřeba mít alespoň dvě díla prózy, #highlight[poezie] a #hig
 #include("/cj-autori/beckett.typ")
 
 #include("/cj-dila/15-kytice.typ")
+#include("/cj-autori/erben.typ")
 
 #include("/cj-dila/16-audience.typ")
 #include("/cj-autori/havel.typ")
